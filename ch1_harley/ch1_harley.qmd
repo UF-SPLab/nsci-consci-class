@@ -1,0 +1,317 @@
+---
+title: "<br>"
+subtitle: "<bold>The Problem of Consciousness</bold><br>Chapter 1"
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    title-slide-attributes:
+      data-background-image: foggy.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: top
+editor_options: 
+  chunk_output_type: console
+---
+
+## Define Consciousness
+
+Let's construct a definition of consciousness.  
+  
+- What are 5 necessary parts of consciousness?
+
+::: {.fragment}
+
+*[We did this Wednesday]*
+
+:::
+
+::: {.notes}
+
+
+
+:::
+
+## A Definition of Consciousness
+
+![](OED_google_csi_def.png)
+
+
+::: {.notes}
+
+(Google 1st hit)
+- Awareness (repeatedly)
+- Alert and Responsive
+
+:::
+
+
+
+::: {background-opacity="0.5" background-iframe="https://www.oxfordlearnersdictionaries.com/us/definition/american_english/consciousness" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [OED definition of Consciousness](https://www.oxfordlearnersdictionaries.com/us/definition/american_english/consciousness){preview-link="true" style="text-align: center"}
+:::
+
+
+
+::: {background-opacity="0.5" background-iframe="https://plato.stanford.edu/entries/consciousness/" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [Stanford Encyclopedia of Philosophy definition of Consciousness](https://plato.stanford.edu/entries/consciousness/){preview-link="true" style="text-align: center"}
+:::
+
+
+
+::: {background-opacity="0.5" background-iframe="https://www.inphoproject.org/taxonomy/2185" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [Taxonomy of Consciousness](https://www.inphoproject.org/taxonomy/2185){preview-link="true" style="text-align: center"}
+:::
+
+
+
+
+## 
+
+
+## Why study consciousness?
+
+- Consciousness is central to human experience
+
+## Consciousness studies
+
+- Many interdisciplinary areas are involved
+   - Consciousness and psychology l
+   - Consciousness and neuroscience 
+   - Consciousness and philosophy 
+
+
+::: {.notes}
+
+- cognitive & social psychology
+- attention & working memory
+- anything that involves reasoning requires consciousness; also acting morally parsing ethical dilemmas can be very effortful
+:::
+
+
+## Consciousness and spirituality
+
+- Consciousness and spirituality 
+- Consciousness is at the heart of being human
+- How do religion and spirituality fit into psychology? 
+
+
+::: {.notes}
+
+- existential questions and meaning
+- human experience in context of lifelong narrative
+- Psych of Religion - Ken Pargament and Julie Exline
+
+::: 
+
+## How we study consciousness {.smaller}
+
+:::: columns
+::: {.column width="40%"}
+
+- We carry out experiments
+- We collect data
+- We make models and theories
+- We test the models
+- We try to falsify predictions
+   - Science advances when sufficient data force scientists to abandon a falsified theory
+   - Requires synthesis of a new theory that can make better predictions
+
+:::
+::: {.column width="60%"}
+Hypothetico-Deductive reasoning [WP](https://en.wikipedia.org/wiki/Hypothetico-deductive_model#Example)
+
+::: fragment
+- *Use your experience*: Consider a problem. Try to make sense of it. Gather data & look for previous explanations.
+:::
+
+::: fragment
+- *Form* a conjecture (*hypothesis*): When nothing else is yet known, try to state an explanation, to someone else, or to your notebook.
+:::
+
+::: fragment
+- *Deduce predictions* from the hypothesis: if you assume **2 is true**, what consequences **follow**?
+:::
+
+::: fragment
+- *Test* hypothesis (or experiment): Look for evidence (observations) that conflict with these predictions in order to **disprove 2 (hypothesis)**. 
+   - *It is a logical error to seek 3 directly as proof of 2. Formal fallacy: affirming the consequent.*
+:::
+:::
+
+::::
+
+## The scientific model
+
+- Scientific experimentation:
+   - **Neuroanatom*y**: study of the structure and organization of the nervous system. [WP](https://en.wikipedia.org/wiki/Neuroanatomy)
+   - **Neurophysiology**: a branch of the physiology and neuroscience that studies the measurement and evaluation of nervous system function [WP](https://en.wikipedia.org/wiki/Neurophysiology)
+
+
+## Neuroscience
+
+- Neuroscience has exploded in recent years because of advances in brain imaging
+
+## Defining consciousness
+
+- Definitions of consciousness
+- Awareness v. Self-awareness
+- The problem of other minds
+
+
+## Defining consciousness 
+
+- What is it like to be me?
+- Why does it feel like something to be me?
+- Awareness v self-awareness
+- Awareness of being aware
+
+## Try this: Defining consciousness
+
+You probably think you know what consciousness is, so how would you define it? Then use a search engine to find some definitions of consciousness. How do they compare with your own?
+
+## Try this: Observe your mind
+
+Whatever you are doing, just observe your mind. What is happening? What are you aware of now? Were you thinking about something in particular? Were you thinking in words, or in pictures? Were you remembering something, or perceiving something? Now can you make yourself aware of something else? Try and hold on to the present moment for as long as possible; how soon is it before you would say things have changed and you’re in a new moment? How would you characterize self-awareness, awareness of your awareness?
+
+## The problem of other minds
+
+- We know what it is like to be ourselves
+- But our experiences are private
+- What is it like to be something else?
+
+## Thomas Nagel
+  
+“What is it like to be a bat?” (1974)
+
+- Bats use echolocation.
+- Can you or I fully appreciate what it is like to be a bat?
+
+![](Trevor A. Harley_fig. 1_7.jpg)
+--- 
+
+![](Trevor A. Harley_fig. 1_8.jpg)
+
+::: {.notes}
+
+Figure 1.8. Helen Keller with her teacher Anne Sullivan, in 1888. What was it like to be Helen Keller?
+
+:::
+
+## The hard and easy problems of consciousness
+
+- Hard - why does it *feel like* something to be me? 
+- “Easy” - attention, episodic memory, visual perception, etc.
+   - David Chalmers
+
+::: {.notes}
+- Peter Quill: I’m gonna ask you this one time… Where is Gamora?
+- Tony Stark: Yeah. I’ll do you one better. Who’s Gamora?
+- Drax: I’ll do you one better! Why is Gamora?
+Avengers: Infinity War (2018)
+:::
+
+## Intentionality: are we always conscious of something?
+
+- Can you be conscious but not conscious of something in particular?
+
+
+
+## Try this: Being conscious of nothing
+Try be conscious of nothing at all. Empty your mind. Do you think it is possible to be conscious without being conscious of anything? If you think it is, how do you know you’re not thinking of anything?
+
+## Types of consciousness
+
+- Phenomenal and access consciousness
+   - Experiencing v. Attention, memory, language
+- Other types of consciousness
+- Degrees of consciousness
+
+
+
+---
+
+![](Trevor A. Harley_fig. 1_10.jpg)
+
+::: {.notes}
+
+Figure 1.10. Hofstadter’s “consciousness cone”. Most people think that consciousness is a graded phenomena: some organisms have “more” of it than others. Is this lay belief correct?
+
+
+:::
+
+## The history of consciousness research
+
+- Philosophy
+- Behaviourism - no mind 
+- Experimental psychology
+- Cognitive science
+
+
+
+::: {.notes}
+- no mind (only stimulus and behavioral response) science isn't concerned with what cannot be measured
+- Cognitive certain things are remembered differently than others (seems to be structure) linguistics, cognitive maps - dreaming rats, object recognition
+:::
+
+## The 11 problems of consciousness
+
+:::: columns
+::: column 
+
+- The hard problem
+- The temporal problem
+- The free will problem
+- The why problem
+- The self problem
+- The unconscious problem
+
+:::
+::: column 
+
+- The cognitive problem
+- The binding problem
+- The neural correlates problem
+- The altered states problem
+- The science problem
+
+:::
+::: 
+
+::: {.notes}
+
+- The hard problem
+   - 
+- The temporal problem
+   - 
+- The free will problem
+   - 
+- The why problem
+   - 
+- The self problem
+   - 
+- The unconscious problem
+   - 
+
+
+- The cognitive problem
+   - 
+- The binding problem
+   - 
+- The neural correlates problem
+   - 
+- The altered states problem
+   - what, why, how?
+- The science problem
+   - is a complete and comprehenseive theory possible?
+   
+:::
+
+
+## Summary
+
+- Consciousness is the difference between being awake and dreamless sleep, and why it feels like something to be you
+
+- It is possible to study consciousness using interdisciplinary scientific methods
+
+- There are many topics and issues associated with consciousness
