@@ -144,7 +144,7 @@ Hypothetico-Deductive reasoning [WP](https://en.wikipedia.org/wiki/Hypothetico-d
 ## The scientific model
 
 - Scientific experimentation:
-   - **Neuroanatom*y**: study of the structure and organization of the nervous system. [WP](https://en.wikipedia.org/wiki/Neuroanatomy)
+   - **Neuroanatomy**: study of the structure and organization of the nervous system. [WP](https://en.wikipedia.org/wiki/Neuroanatomy)
    - **Neurophysiology**: a branch of the physiology and neuroscience that studies the measurement and evaluation of nervous system function [WP](https://en.wikipedia.org/wiki/Neurophysiology)
 
 
