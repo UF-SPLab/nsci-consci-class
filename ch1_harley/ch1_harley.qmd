@@ -227,7 +227,20 @@ Try be conscious of nothing at all. Empty your mind. Do you think it is possible
 - Other types of consciousness
 - Degrees of consciousness
 
+:::{.notes}
 
+- **Phenomenal consciousness** is what we experience:
+  - it’s what it’s like to be us. 
+  - It’s the sensations of perception from the outside, and the experience of wanting, thinking, and feeling from the inside. 
+  - covered for most of ch 1
+  - for many understanding phenomenal consciousness is the central “hard problem”to be addressed. 
+- **Access consciousness** is concerns language, thought, controlling action, and reasoning. 
+  - Access consciousness concerns what we talk and think about, and importantly, it’s what we can report 
+  - so it’s our thoughts, feelings, and desires themselves(rather than our experience of them) and 
+  - the representations that are manipulated in cognition.
+
+
+:::
 
 ---
 
@@ -243,7 +256,7 @@ Figure 1.10. Hofstadter’s “consciousness cone”. Most people think that con
 ## The history of consciousness research
 
 - Philosophy
-- Behaviourism - no mind 
+- Behaviourism - no mind (no measure, no sci)
 - Experimental psychology
 - Cognitive science
 
@@ -281,27 +294,35 @@ Figure 1.10. Hofstadter’s “consciousness cone”. Most people think that con
 ::: {.notes}
 
 - The hard problem
-   - 
+   - why feel like something to be me?
+   
 - The temporal problem
-   - 
+   - illusion of volition; awareness is implausibly late to be involved in some actions and perceptual decision making
 - The free will problem
-   - 
+   - related; choice and control are illusion; what isn't "determined"?
 - The why problem
-   - 
+   - many animals get by perfectly well without self-awareness; what does it take and why to be self-aware?
 - The self problem
-   - 
-- The unconscious problem
-   - 
 
+   - Who is this “I” who thinks they have a choice? Who is experiencing my experiences?
+   
+- The unconscious problem
+   - Virtually all processing is unconscious, few things become conscious. Why?  Especially if it is too late?
 
 - The cognitive problem
-   - 
+   - relation between cognitive machinery and consciousness?
+   
 - The binding problem
-   - 
+   - binding: within modality and across modalities 
+   - this one is tricky b/c you have to know something about perception and brain
+   - yet from conscious awareness perspective no binding problem
+   
 - The neural correlates problem
-   - 
+   - brain-damage and e.g., to cerebral cortex but not cerebellum?
+   
 - The altered states problem
-   - what, why, how?
+   - what is altered? why NTs? how?
+   
 - The science problem
    - is a complete and comprehenseive theory possible?
    

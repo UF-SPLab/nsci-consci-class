@@ -1,0 +1,276 @@
+---
+title: "<bold>The Mind-Body Problem</bold>"
+subtitle: "<br><br>Chapter 2  "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+editor_options: 
+  chunk_output_type: console
+---
+
+# Logic & Science
+
+
+::: {background-opacity="0.5" background-iframe="knowledge_domain_science.pdf" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [Relationship: Theory vs Physical World](knowledge_domain_science.pdf){preview-link="true" style="text-align: center"}
+:::
+
+
+## Thought experiments
+
+- Philosophers use thought experiments to uncover our intuitions and biases about the mind
+    - Framework to identify faulty logical assumptions and knowledge gaps
+    - Clears field to set up and characterize a valid problem
+    - Restricted to Domain of Concepts and Theory 
+
+:::{.notes}
+
+- **Epistemology** is the study of knowledge. It asks, Where does knowledge come from? Do
+we acquire knowledge just from experience, or is some knowledge innate? What can we know for certain? Sceptics doubt that we can be certain of very much.
+- **Ontology** is concerned with the study of the nature of being and existence. What exists?
+- **Metaphysics** is an umbrella term combining epistemology and ontology for the study of fundamental questions about the basic cause and nature of things
+
+:::
+
+
+::: {background-opacity="0.5" background-iframe="knowledge_domain_science.pdf" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [Relationship: Theory vs Physical World](knowledge_domain_science.pdf){preview-link="true" style="text-align: center"}
+:::
+
+
+## The mind and the brain
+
+- The mind-brain problem
+   - defines relationships between physical and mental events
+- How do mental states arise from a physical brain?
+
+
+## The mereological fallacy
+
+- Does saying “My brain feels pain” make sense?
+- What about “the brain recognizes words”?
+
+- https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause
+- https://en.wikipedia.org/wiki/Necessity_and_sufficiency#Sufficiency
+- 
+
+::: {.aside}
+
+[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/mereology/index.html)  Mereology (from the Greek μερος, ‘part’) is the theory of parthood relations: of the relations of part to whole and the relations of part to part within a whole)
+
+:::
+
+## Qualia
+
+- The subjective quality of perceptions
+- Sensations
+  - The colour red
+  - The smell of a rose
+  - The feeling of pain
+- How would you describe “red” to someone else?
+
+## Try this: Describing red
+
+- Choose something with prominent qualia, such as a red rose (see figure 2.1). How would you describe it to someone else? How would you describe colour to someone without sight?
+
+## Try this: How many qualia?
+
+- Stop and consider your environment. 
+- How many qualia can you become aware of? 
+- Can you be aware of more than one at a time?
+
+
+# Ontologic Issues
+
+## Dualism and monism
+
+- René Descartes and substance dualism (Cartesian dualism)
+   - Res cogitans and Res extensa 
+- Other types of dualism
+- Monism
+
+## Dualism
+
+- There are two types of substance
+   - Mind and matter
+   - But how do they interact?
+
+## Monism
+
+- There is one type of matter
+   - Usually physical monism and matter
+      - But doesn’t have to be
+- How does physical matter give rise to subjective experience?
+
+## The knowledge argument
+
+- The "Mary" colour thought experiment
+- For and against physicalism
+
+## Try this: Mary the monochrome scientist
+
+- With all thought experiments it is important that you really do stop and think. There is no “right” answer, just your intuition. What do you think Mary will think, and can you give reasons for your belief ? Look at the image of the grey and red roses to focus your thoughts.
+
+## Try this: Mary the monochrome scientist 2
+
+
+## The inverted colour spectrum
+
+- Could you “see” violet when I “see” red?
+![](Trevor A. Harley_fig. 2_6.jpg)
+
+## Opponent-Color Process
+
+https://michaelbach.de/ot/col-lilacChaser/index.html
+
+http://www.scholarpedia.org/w/images/c/c3/De_Valois_and_Webster_Color_Vision_fig_3.jpg
+
+
+
+## The problem of pain
+
+- The physical aspect of pain
+- The mental aspect of pain
+- Pain in babies (27 weeks is gestation; 2nd trimester)
+
+:::{.notes}
+
+
+:::
+
+
+## P-ZOMBIES
+
+- Philosophical zombies
+   - Could we have a creature that appears in every way to be conscious, but isn’t?
+- Is consciousness essential?
+- Being conceivable
+
+
+:::{.notes}
+
+
+:::
+
+## Materialism
+
+- A type of monism
+- All there is is matter
+- Physics captures everything
+
+## More materialism
+
+- Reductive materialism
+- Eliminative materialism
+   - Getting rid of the problem of qualia
+   - A trick of how we think and speak
+
+
+:::{.notes}
+
+
+:::
+
+
+## Functionalism
+
+- Silicon neurons and silicon brains
+- The "China brain" thought experiment
+   - Can the population of China signal and act like a brain?
+   - Conversely: can a neuron be conscious?
+
+
+:::{.notes}
+Is there
+
+:::
+
+
+## Try this: How much of your brain would you give up?
+
+- Consider the silicon brain and then answer these questions. Would you object to having one of your neurons replaced by a silicon one? Two? A thousand? Your hippocampus? The whole brain? Why does one neuron not matter to you but a million do? Would you still be you? Would you be conscious?
+
+# Epistemic Issues
+
+## Neurons
+
+![](Trevor A. Harley_fig. 2_10.jpg)
+
+
+::: {.notes}
+
+Figure 2.10. A neuron. A nerve cell - the brain has about 100 billion of them, and each neuron might be connected to a 1000 others. Does consciousness really arise from just a lot of these connected together?
+
+:::
+
+## Arguments against functionalism
+
+- Searle and the Chinese room
+- All syntax and no semantics
+- Is the “systems reply” adequate?
+
+
+:::{.notes}
+- I can navigate anywhere in Gainesville if I have GPS and Google maps. Limited number of places w/o phone. Does this mean that I don't know how to navigate? 
+- The cockpit of the plane that Captain Sully flew was arranged to make it possible for him to land the plane on the Hudson. Does this mean that the plane saved the day? 
+
+:::
+
+
+## Mysterianism
+
+- The problem of consciousness is too complex for our (human) minds
+- It is like Beau the poodle trying to understand the nature of language and grammar: it is beyond the capabilities of his brain
+
+
+
+## Try this: What is it like to be a worm?
+
+- Think of what a worm can do. Suppose you are in a class of a hundred people linked together by cell phone, passing messages around simulating electrical impulses in the leech nervous system. Could someone learn anything about what it is like to be a worm?
+
+
+![](imgs/worm.png){.absolute bottom="0" left="-50" height="200"}
+![](imgs/open_worm.png){.absolute bottom="0" right="-50" height="300"}
+
+::: {.notes}
+
+- http://www.openworm.org
+- https://openworm.org/science.html
+
+:::
+
+
+## What is it like to be a worm?
+
+
+
+![](imgs/worm.png)
+
+![](imgs/open_worm1.png)
+
+![](imgs/open_worm.png)
+
+
+
+
+## Summary
+
+- What is the difference between mind and brain?
+- The hard problem is why does it feel like something to be you
+- How can the feeling of something, mind, arise from a purely physical system?
+- How many types of substance are there?
+- Does materialism / physicalism completely describe the universe?
+
+
+
+
+
