@@ -30,7 +30,7 @@ editor_options:
 - Philosophers use thought experiments to uncover our intuitions and biases about the mind
     - Framework to identify faulty logical assumptions and knowledge gaps
     - Clears field to set up and characterize a valid problem
-    - Restricted to Domain of Concepts and Theory 
+    - Restricted to abstract domain of Concepts and Theory 
 
 :::{.notes}
 
@@ -59,9 +59,10 @@ we acquire knowledge just from experience, or is some knowledge innate? What can
 - Does saying “My brain feels pain” make sense?
 - What about “the brain recognizes words”?
 
-- https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause
-- https://en.wikipedia.org/wiki/Necessity_and_sufficiency#Sufficiency
-- 
+- Paul Nunez will have much more to say about the issues of parts/wholes and what is top/bottom
+  - [WP: Fallacy of the single cause](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause) 
+  - [WP: Sufficient Causes](https://en.wikipedia.org/wiki/Necessity_and_sufficiency#Sufficiency) 
+
 
 ::: {.aside}
 
@@ -96,7 +97,7 @@ we acquire knowledge just from experience, or is some knowledge innate? What can
 - René Descartes and substance dualism (Cartesian dualism)
    - Res cogitans and Res extensa 
 - Other types of dualism
-- Monism
+- Monism (several kinds?)
 
 ## Dualism
 
@@ -116,12 +117,26 @@ we acquire knowledge just from experience, or is some knowledge innate? What can
 - The "Mary" colour thought experiment
 - For and against physicalism
 
-## Try this: Mary the monochrome scientist
+:::{.notes}
+
+-The following thought experiment was devised by the philosopher Frank Jackson, and is called the knowledge argument (because Mary, the protagonist of the story, has complete knowledge of the world but limited experience of it). Let‚Äôs imagine a woman we call Mary (Jackson, 1986). Mary has been brought up by an evil philosopher, and let's call him Frank.
+- Before opening her eyes at birth, Mary was given a special pair of contact lenses that turns the world monochrome, so that she only ever sees the world in black, white, and shades of grey.
+
+- Mary devotes her life to studying everything to do with colour vision -- the physics of colour, the biology of colour vision, the neuroscience of colour vision--and by the time she's thirty-five she knows everything there is to know about how humans see colour. It might well be that to understand colour vision properly she will have to end up learning everything there is to know about the world, but Mary is extremely clever and has a phenomenal memory, and plenty of time. 
+- Then on her thirty-fifth birthday she is given a red rose and her contact lenses
+are taken out. What will Mary say? Will she learn anything new about colour, or not? Will she be surprised?
+
+
+
+
+:::
+
+## Mary the monochrome scientist
 
 - With all thought experiments it is important that you really do stop and think. There is no “right” answer, just your intuition. What do you think Mary will think, and can you give reasons for your belief ? Look at the image of the grey and red roses to focus your thoughts.
 
-## Try this: Mary the monochrome scientist 2
-
+![](Trevor A. Harley_fig. 2_1.jpg){.absolute bottom="0" left="100" height="300"}
+![](Trevor A. Harley_fig. 2_4.jpg){.absolute bottom="0" right="100" height="300"}
 
 ## The inverted colour spectrum
 

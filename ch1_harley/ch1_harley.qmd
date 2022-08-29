@@ -263,7 +263,7 @@ Figure 1.10. Hofstadter’s “consciousness cone”. Most people think that con
 
 
 ::: {.notes}
-- no mind (only stimulus and behavioral response) science isn't concerned with what cannot be measured
+- Behaviorist: no mind (only stimulus and behavioral response) science isn't concerned with what cannot be measured
 - Cognitive certain things are remembered differently than others (seems to be structure) linguistics, cognitive maps - dreaming rats, object recognition
 :::
 
@@ -295,22 +295,21 @@ Figure 1.10. Hofstadter’s “consciousness cone”. Most people think that con
 
 - The hard problem
    - why feel like something to be me?
-   
+   - why is my subjectivity unique to me? 
 - The temporal problem
-   - illusion of volition; awareness is implausibly late to be involved in some actions and perceptual decision making
+   - volition is and illusion; awareness is implausibly late to be involved in some actions and perceptual decision making
 - The free will problem
-   - related; choice and control are illusion; what isn't "determined"?
+   - related to temporal problem; what about choice and control are illusion isn't "determined" by earlier events?
 - The why problem
    - many animals get by perfectly well without self-awareness; what does it take and why to be self-aware?
 - The self problem
-
    - Who is this “I” who thinks they have a choice? Who is experiencing my experiences?
    
 - The unconscious problem
    - Virtually all processing is unconscious, few things become conscious. Why?  Especially if it is too late?
 
 - The cognitive problem
-   - relation between cognitive machinery and consciousness?
+   - relationship between cognitive machinery and consciousness?
    
 - The binding problem
    - binding: within modality and across modalities 
@@ -318,7 +317,7 @@ Figure 1.10. Hofstadter’s “consciousness cone”. Most people think that con
    - yet from conscious awareness perspective no binding problem
    
 - The neural correlates problem
-   - brain-damage and e.g., to cerebral cortex but not cerebellum?
+   - brain-damage eliminates e.g., to cerebral cortex but not cerebellum?
    
 - The altered states problem
    - what is altered? why NTs? how?
