@@ -13,6 +13,7 @@ format:
       data-background-size: contain
       data-background-opacity: '0.5'
       data-background-position: center
+    theme: beige
 editor_options: 
   chunk_output_type: console
 ---
@@ -41,10 +42,6 @@ we acquire knowledge just from experience, or is some knowledge innate? What can
 
 :::
 
-
-::: {background-opacity="0.5" background-iframe="knowledge_domain_science.pdf" style="text-align: left; margin-top: 1em; auto-play-media: true"}
-## [Relationship: Theory vs Physical World](knowledge_domain_science.pdf){preview-link="true" style="text-align: center"}
-:::
 
 
 ## The mind and the brain
@@ -218,8 +215,18 @@ Is there
 
 ## Neurons
 
-![](Trevor A. Harley_fig. 2_10.jpg)
+![](Trevor A. Harley_fig. 2_10.jpg){.absolute top="0" right="100" height="300"}
 
+
+::: {.column width="50%"}
+
+- The brain has about 100 billion neurons.
+- Each neuron might be connected to about 1000 others. 
+- Does consciousness really arise from just a lot of these connected together?
+
+
+
+::: 
 
 ::: {.notes}
 
@@ -247,10 +254,11 @@ Figure 2.10. A neuron. A nerve cell - the brain has about 100 billion of them, a
 - It is like Beau the poodle trying to understand the nature of language and grammar: it is beyond the capabilities of his brain
 
 
+## {background-color="black" background-image="j_w.jpg" background-size="contain" background-opacity=1.0}
 
-## Try this: What is it like to be a worm?
 
-- Think of what a worm can do. Suppose you are in a class of a hundred people linked together by cell phone, passing messages around simulating electrical impulses in the leech nervous system. Could someone learn anything about what it is like to be a worm?
+
+## What is it like to be a worm?
 
 
 ![](imgs/worm.png){.absolute bottom="0" left="-50" height="200"}
@@ -262,17 +270,6 @@ Figure 2.10. A neuron. A nerve cell - the brain has about 100 billion of them, a
 - https://openworm.org/science.html
 
 :::
-
-
-## What is it like to be a worm?
-
-
-
-![](imgs/worm.png)
-
-![](imgs/open_worm1.png)
-
-![](imgs/open_worm.png)
 
 
 
