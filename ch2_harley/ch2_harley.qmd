@@ -138,7 +138,14 @@ are taken out. What will Mary say? Will she learn anything new about colour, or 
 ## The inverted colour spectrum
 
 - Could you “see” violet when I “see” red?
-![](Trevor A. Harley_fig. 2_6.jpg)
+![](Trevor A. Harley_fig. 2_6.jpg){.absolute top="200" left="-10" height="380"}
+
+![](De_Valois_and_Webster_Color_Vision_fig_2-2.jpg){.absolute top="180" right="-50" height="230"}
+![](De_Valois_and_Webster_Color_Vision_fig_3.jpg){.absolute bottom="0" right="0" height="200"}
+
+:::{.aside}
+http://www.scholarpedia.org/article/Color_vision
+::: 
 
 ## Opponent-Color Process
 
