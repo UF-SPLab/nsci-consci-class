@@ -135,6 +135,7 @@ are taken out. What will Mary say? Will she learn anything new about colour, or 
 ![](Trevor A. Harley_fig. 2_1.jpg){.absolute bottom="0" left="100" height="300"}
 ![](Trevor A. Harley_fig. 2_4.jpg){.absolute bottom="0" right="100" height="300"}
 
+
 ## The inverted colour spectrum
 
 - Could you “see” violet when I “see” red?
@@ -143,16 +144,14 @@ are taken out. What will Mary say? Will she learn anything new about colour, or 
 ![](De_Valois_and_Webster_Color_Vision_fig_2-2.jpg){.absolute top="180" right="-50" height="230"}
 ![](De_Valois_and_Webster_Color_Vision_fig_3.jpg){.absolute bottom="0" right="0" height="200"}
 
-:::{.aside}
+::: {.aside}
 http://www.scholarpedia.org/article/Color_vision
 ::: 
 
-## Opponent-Color Process
+## Colour Perception
 
-https://michaelbach.de/ot/col-lilacChaser/index.html
-
-http://www.scholarpedia.org/w/images/c/c3/De_Valois_and_Webster_Color_Vision_fig_3.jpg
-
+![](fig_9_17.png){.absolute top="200" left="-10" height="400"}
+![](fig_9_24.png){.absolute top="200" right="-50" height="400"}
 
 
 ## The problem of pain
@@ -161,8 +160,11 @@ http://www.scholarpedia.org/w/images/c/c3/De_Valois_and_Webster_Color_Vision_fig
 - The mental aspect of pain
 - Pain in babies (27 weeks is gestation; 2nd trimester)
 
-:::{.notes}
 
+
+
+:::{.aside}
+Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary function of phenomenal conscious experience of pain. Neuroscience of consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
 
 :::
 
@@ -219,14 +221,15 @@ http://www.scholarpedia.org/w/images/c/c3/De_Valois_and_Webster_Color_Vision_fig
 
 ## A Function for Consciousness?
 
+
+
+
 - [https://en.wikipedia.org/wiki/Function](https://en.wikipedia.org/wiki/Function)
 - [https://en.wikipedia.org/wiki/Function_(biology)](https://en.wikipedia.org/wiki/Function_(biology))
 
 
 
-## Try this: How much of your brain would you give up?
 
-- Consider the silicon brain and then answer these questions. Would you object to having one of your neurons replaced by a silicon one? Two? A thousand? Your hippocampus? The whole brain? Why does one neuron not matter to you but a million do? Would you still be you? Would you be conscious?
 
 # Epistemic Issues
 
