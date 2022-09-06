@@ -1,0 +1,228 @@
+---
+title: "<bold>A Brief Look into Brain Structure and Function</bold>"
+subtitle: "<br><br>Chapter 3, Nunez "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: sky
+editor_options: 
+  chunk_output_type: console
+---
+
+# Complex Systems & Levels of Analysis 
+
+---
+
+### 3.1 Are Brains Like Other Complex Systems? {.smaller}
+
+![]()
+
+- Terms:  
+  - Complexity science
+  - Function
+  - Descriptive labels: analogues, metaphors, cartoons
+  - Causality
+  - Features of complex systems
+  - Nested hierarchy
+  - Rules of interaction
+  - Scale of measurement
+  - Non-local interactions
+  - Multi-scale description
+  - Circular causality
+  - Dynamic patterns
+  - Behavior of a system
+  - Emergent properties
+  - Nested X-mas tree
+
+---
+
+### 3.2 The Human Brain at Large Scales
+
+![](levels_of_analysis_neural_3_6.jpg)
+---
+
+### 3.2 The Human Brain at Large Scales {.smaller}
+
+![](encephalon_ch3_1.jpg)
+
+- Central nervous system
+- autonomic nervous system
+- Brainstem/ cerebellum / cerebral cortex
+- Cerebral hemisphere
+
+- local-global interactions
+
+---
+
+### 3.3 Drugs, NT systems, & Brain Dysfunction {.smaller}
+
+- integration vs isolation
+   - Fans sitting in a football stadium
+   - Functional localization
+   - Global coherence
+   - Binding
+   - Integration
+   - Isolation
+   - Local-global issue (local/regional/global mechanisms)
+   - Functional magnetic resonance imaging (fMRI)
+   - Positron emission tomography (PET)
+   - Electroencephalogram (EEG)
+   - Dynamic Complexity
+   
+![](brain_graph_ch3_3.png){.absolute top="150" right="-10" height="400"}
+
+
+---
+
+### 3.4 Brain Inputs & Outputs
+
+![](nunez_sensory_perceptual_loop_3_8.jpg)
+
+
+---
+
+
+### 3.5 Chemical Control of Brain & Behavior
+
+![](nunez_source_ultra_microscopic_3_9.jpg)
+
+![](nunez_source_micro_mesoscopic_3_10.jpg)
+
+---
+
+
+### 3.6 Electrical Transmission
+
+![](Hierarchical-Connectome-3_11.png)
+
+---
+
+
+### 3.7 The Cerebral Cortex {.smaller}
+
+   - Pyramidal neuron
+   - Basket interneuron (inhibitory)
+   - Myelinated axon
+   - Macro-column (ipsilateral/contralateral projection)
+   - Thalamocortical fibers (TC)
+   - Brainstem (alligator)
+   - limbic system (horse)
+   - neocortex (human)
+
+
+![](nunez_macrocolumn_3_12.jpg){.absolute top="50" right="-10" height="200"}
+![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-10" height="350"}
+
+
+# Dynamic complexity  
+  
+How does a dynamic complex system function?
+
+
+---
+
+#### 3.8  Nested Hierarchy of Cerebral Cortex: {.smaller}
+#### Multiple Scales of Brain Tissue
+
+- Terms:
+   - Nested hierarchy
+   - Cortical mini-column
+   - Cortico-cortical column (CCC)
+   - Cortical macrocolumn
+   - Neuromodulators & large scale dynamics
+   - Global coherence vs functional segregation
+   - Epilepsy
+   - Cross scale interaction
+
+
+---
+
+#### 3.8  Nested Hierarchy of Cerebral Cortex: 
+#### Multiple Scales of Brain Tissue
+
+![](Nunez_connectome_physiol_analyses_3_14.jpg)
+
+---
+
+#### 3.8  Nested Hierarchy of Cerebral Cortex: 
+#### Multiple Scales of Brain Tissue
+
+![](Nunez_dynome_many_levels_3_14.png)
+
+
+---
+
+
+#### 3.9 Cortico-Cortical Connections Are Non-Local {.smaller}
+
+
+- Terms:
+   - Connectome
+   - Dynome (not in book)
+   - Path length
+   - Small world network topology
+   - Graph theory
+
+
+![](brain_connectivity_3_5.png)
+
+
+---
+
+
+## 3.10 Human Brain Evolution
+
+![](encephalon_ch3_1.jpg)
+- All-or-none vs gradient
+- Antonio Damasio’s levels: 
+  - protoself
+  - core consciousness
+  - extended consciousness
+
+---
+
+
+### 3.11 What Makes the Human Brain "Human"?
+
+-Thalamocortical ratio = # cortico-cortical connections / # thalamo-cortical connections
+
+![](fuster_nested_hierarchy_3_7.jpg)
+
+
+---
+
+
+## 3.12 Summary
+
+
+---
+
+# Ch2
+
+---
+
+## ch2.7 Consciousness Takes Time
+
+- Millisecond:
+   - One one-thousandth (0.001) of a second.
+- Masking:
+   - An experimental procedure in which target images are flashed very briefly and conscious awareness is blocked by subsequent images.
+- Subliminal:
+   - Images presented below the threshold of conscious awareness, as in masking experiments.
+- Unconscious:
+   - Brain activity that lacks conscious awareness but may rise to the level of the preconscious.
+- Pre-conscious:
+   - Unconscious activity that directly influences conscious behavior.
+- Somatosensory cortex:
+   - A cortical region reacting to sensory input from the skin, including touch, pain, and temperature stimuli.
+- Motor cortex:
+   - The region of the cerebral cortex involved in the planning, control, and execution of voluntary movements.
