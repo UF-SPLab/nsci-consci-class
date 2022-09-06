@@ -22,18 +22,31 @@ editor_options:
 
 ---
 
-### 3.1 Are Brains Like Other Complex Systems? {.smaller}
+##  {background-image="frontal_ntwk.png" background-size="700px" background-opacity=0.6 background-position="right"}
 
-![]()
+### 3.1 Are Brains Like Other Complex Systems? 
 
-- Terms:  
   - Complexity science
   - Function
-  - Descriptive labels: analogues, metaphors, cartoons
   - Causality
   - Features of complex systems
   - Nested hierarchy
   - Rules of interaction
+  
+     - Descriptive labels: 
+        - analogues 
+        - metaphors 
+
+
+
+Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in the Macaque. PLOS Computational Biology 4(4): e1000050. https://doi.org/10.1371/journal.pcbi.1000050
+
+---
+
+### 3.1 Are Brains Like Other Complex Systems? {.smaller}
+
+![](levels_of_analysis_neural_3_6.jpg){.absolute top="60" right="-10" height="650"}
+
   - Scale of measurement
   - Non-local interactions
   - Multi-scale description
@@ -43,23 +56,20 @@ editor_options:
   - Emergent properties
   - Nested X-mas tree
 
+
 ---
 
-### 3.2 The Human Brain at Large Scales
 
-![](levels_of_analysis_neural_3_6.jpg)
----
+### 3.2 The Human Brain at Large Scales{.smaller}
 
-### 3.2 The Human Brain at Large Scales {.smaller}
+- CNS
+   - Brainstem
+   - Cerebellum 
+   - Cerebral cortex
 
-![](encephalon_ch3_1.jpg)
+- Local-Global interactions
 
-- Central nervous system
-- autonomic nervous system
-- Brainstem/ cerebellum / cerebral cortex
-- Cerebral hemisphere
-
-- local-global interactions
+![](encephalon_ch3_1.jpg){.absolute top="80" right="-150" height="500"}
 
 ---
 
@@ -91,11 +101,27 @@ editor_options:
 ---
 
 
-### 3.5 Chemical Control of Brain & Behavior
+### 3.5 Chemical Control of Brain & Behavior {.smaller}
 
-![](nunez_source_ultra_microscopic_3_9.jpg)
+::: columns
+::: column
+- Neurotransmitter release into synaptic cleft and binds to ligand-gated ion channels
+- Post-synaptic potential:  spatially distributed as current flow in a 3D field 
+:::
 
-![](nunez_source_micro_mesoscopic_3_10.jpg)
+::: {.fragment .fade-out}
+![](nunez_source_ultra_microscopic_3_9.jpg){.absolute bottom="200" right="100" height="300"}
+:::
+
+::: {.fragment .fade-in}
+::: column
+
+- Many small, localized fields spatially summate to produce a larger <br>  vector **J**
+
+![](nunez_source_micro_mesoscopic_3_10.jpg){.absolute bottom="100" right="-100" height="500"}
+:::
+:::
+::: 
 
 ---
 
@@ -119,8 +145,8 @@ editor_options:
    - neocortex (human)
 
 
-![](nunez_macrocolumn_3_12.jpg){.absolute top="50" right="-10" height="200"}
-![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-10" height="350"}
+![](nunez_macrocolumn_3_12.jpg){.absolute top="60" right="-60" height="200"}
+![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-70" height="350"}
 
 
 # Dynamic complexity  
@@ -133,7 +159,6 @@ How does a dynamic complex system function?
 #### 3.8  Nested Hierarchy of Cerebral Cortex: {.smaller}
 #### Multiple Scales of Brain Tissue
 
-- Terms:
    - Nested hierarchy
    - Cortical mini-column
    - Cortico-cortical column (CCC)
@@ -164,8 +189,6 @@ How does a dynamic complex system function?
 
 #### 3.9 Cortico-Cortical Connections Are Non-Local {.smaller}
 
-
-- Terms:
    - Connectome
    - Dynome (not in book)
    - Path length
@@ -181,19 +204,21 @@ How does a dynamic complex system function?
 
 ## 3.10 Human Brain Evolution
 
-![](encephalon_ch3_1.jpg)
 - All-or-none vs gradient
 - Antonio Damasio’s levels: 
   - protoself
   - core consciousness
   - extended consciousness
 
+![](encephalon_ch3_1.jpg){.absolute top="80" right="-150" height="500"}
+
 ---
 
 
 ### 3.11 What Makes the Human Brain "Human"?
 
--Thalamocortical ratio = # cortico-cortical connections / # thalamo-cortical connections
+
+Thalamocortical ratio = ${ \Sigma (cortico-cortical- connections) \over  \Sigma (thalamo-cortical-connections)}$
 
 ![](fuster_nested_hierarchy_3_7.jpg)
 
@@ -204,25 +229,24 @@ How does a dynamic complex system function?
 ## 3.12 Summary
 
 
+
 ---
 
 # Ch2
 
 ---
 
-## ch2.7 Consciousness Takes Time
+## ch2.7 Consciousness Takes Time {.smaller}
 
-- Millisecond:
-   - One one-thousandth (0.001) of a second.
-- Masking:
+- *Masking*:
    - An experimental procedure in which target images are flashed very briefly and conscious awareness is blocked by subsequent images.
-- Subliminal:
-   - Images presented below the threshold of conscious awareness, as in masking experiments.
-- Unconscious:
-   - Brain activity that lacks conscious awareness but may rise to the level of the preconscious.
-- Pre-conscious:
+- *Subliminal*:
+   - Images presented below the threshold of conscious awareness
+- *Unconscious*:
+   - Brain activity w/o conscious awareness; may rise to level of preconscious.
+- *Pre-conscious*:
    - Unconscious activity that directly influences conscious behavior.
-- Somatosensory cortex:
-   - A cortical region reacting to sensory input from the skin, including touch, pain, and temperature stimuli.
-- Motor cortex:
-   - The region of the cerebral cortex involved in the planning, control, and execution of voluntary movements.
+- *Somatosensory cortex*:
+   - Cortical region w/ sensory input from skin (touch, pain, & temperature).
+- *Motor cortex*:
+   - Cerebral cortex region involved in planning, control, & execution of voluntary movements.
