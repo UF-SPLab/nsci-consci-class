@@ -43,7 +43,7 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 
 ---
 
-### 3.1 Are Brains Like Other Complex Systems? {.smaller}
+### 3.1 Are Brains Like Other Complex Systems?{.smaller}
 
 ![](levels_of_analysis_neural_3_6.jpg){.absolute top="60" right="-10" height="650"}
 
@@ -54,8 +54,13 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
   - Dynamic patterns
   - Behavior of a system
   - Emergent properties
-  - Nested X-mas tree
 
+:::{.aside}
+- [Levels of organization (SEoP)](https://plato.stanford.edu/entries/levels-org-biology/)
+
+- [Self-Organization (Scholarpedia)](http://www.scholarpedia.org/article/Self-organization)
+
+:::
 
 ---
 
