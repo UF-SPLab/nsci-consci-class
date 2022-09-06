@@ -11,8 +11,8 @@ doc_id,line
 3,consciousness and neuroscience
 3,consciousness and philosophy
 3,                               ft                   37
-3,                                                    38
-3,                                                    38
+3,38
+3,38
 3,d
 3,consciousness and spirituality
 3,how we study consciousness
@@ -23,21 +23,21 @@ doc_id,line
 3,defining consciousness
 3,definitions of consciousness
 3,awareness
-3,                                                    39
-3,                                                    39
-3,                                                    40
-3,                                                    40
-3,                                                    41
-3,                                                    42
-3,                                                    43
-3,                                                    44
+3,39
+3,39
+3,40
+3,40
+3,41
+3,42
+3,43
+3,44
 3,the problem of other minds                          44
 3,the hard and easy problems of consciousness         45
 3,intentionality: are we always conscious of something?
-3,                                                    45
+3,45
 3,types of consciousness                              46
 3,phenomenal and access consciousness                 47
-3,                                        3
+3,3
 4,other types of consciousness               47
 4,degrees of consciousness                   47
 4,the problems of consciousness              48
@@ -51,9 +51,9 @@ doc_id,line
 4,dualism and monism
 4,                               ft
 4,rené descartes and substance dualism
-4,                                           55
-4,                                           57
-4,                                           58
+4,55
+4,57
+4,58
 4,d
 4,other types of dualism
 4,monism
@@ -64,14 +64,14 @@ doc_id,line
 4,the inverted colour spectrum
 4,the problem of pain
 4,the physical aspect of pain
-4,                                           59
-4,                                           60
-4,                                           60
-4,                                           61
-4,                                           62
-4,                                           63
-4,                                           63
-4,                                           63
+4,59
+4,60
+4,60
+4,61
+4,62
+4,63
+4,63
+4,63
 4,the mental aspect of pain                  64
 4,pain in babies                             64
 4,p-zombies                                  65
@@ -79,7 +79,7 @@ doc_id,line
 4,being conceivable                          67
 4,materialism                                67
 4,reductive materialism                      68
-4,                                       4
+4,4
 5,eliminative materialism                           68
 5,functionalism                                     69
 5,silicon neurons and silicon brains                71
@@ -89,12 +89,13 @@ doc_id,line
 5,chapter summary                                   73
 5,recommended resources                             74
 5,review questions                                  74
+,
 5,3 do we have free will?
 5,people and objects
 5,determinism and free will
 5,                             ft                   75
-5,                                                  75
-5,                                                  76
+5,75
+5,76
 5,d
 5,human behaviour
 5,the implications of quantum mechanics
@@ -105,21 +106,21 @@ doc_id,line
 5,compatibilism
 5,environmental effects on behaviour
 5,crime and punishment
-5,                                                  77
-5,                                                  78
-5,                                                  78
-5,                                                  79
-5,                                                  80
-5,                                                  80
-5,                                                  81
-5,                                                  82
+5,77
+5,78
+5,78
+5,79
+5,80
+5,80
+5,81
+5,82
 5,moral responsibility                              84
 5,the role of psychology in crime                   84
 5,deciding to act                                   86
 5,"libet's experiments on ""voluntary"" movement       88"
 5,criticisms of libet's experiments                 90
 5,involuntary action                                91
-5,                                              5
+5,5
 6,alien hand syndrome                                 91
 6,skill and habit                                     92
 6,psychological compulsions                            93
@@ -133,8 +134,8 @@ doc_id,line
 6,the turing test
 6,early ai models of psychology
 6,                                ft                   98
-6,                                                     98
-6,                                                     99
+6,98
+6,99
 6,d
 6,how smart are computers now?
 6,the computational correlates of consciousness
@@ -145,21 +146,21 @@ doc_id,line
 6,swarm intelligence
 6,evolutionary robotics
 6,robots and consciousness
-6,                                                     99
-6,                                                    100
-6,                                                    101
-6,                                                    101
-6,                                                    101
-6,                                                    102
-6,                                                    103
-6,                                                    104
+6,99
+6,100
+6,101
+6,101
+6,101
+6,102
+6,103
+6,104
 6,building a brain                                    105
 6,constructing an artificial brain                    106
 6,neuroprosthesis                                     106
 6,the future of ai                                    106
 6,the technological singularity                       106
 6,is ai a threat?                                     107
-6,                                                6
+6,6
 7,chapter summary                             107
 7,recommended resources                       108
 7,review questions                            108
@@ -173,9 +174,9 @@ doc_id,line
 7,                               ft
 7,the importance of social interaction
 7,the evolution of consciousness
-7,                                            116
-7,                                            118
-7,                                            118
+7,116
+7,118
+7,118
 7,d
 7,protoconsciousness
 7,the importance of language
@@ -186,21 +187,21 @@ doc_id,line
 7,chapter summary
 7,recommended resources
 7,review questions
-7,                                            118
-7,                                            120
-7,                                            120
-7,                                            121
-7,                                            122
-7,                                            122
-7,                                            123
-7,                                            125
+7,118
+7,120
+7,120
+7,121
+7,122
+7,122
+7,123
+7,125
 7,part 2: the workings of consciousness       126
 7,6 looking at our own minds                  127
 7,the contents of consciousness               127
 7,the process of introspection                128
 7,phenomenology                               129
 7,what are we conscious of?                   130
-7,                                        7
+7,7
 8,the limits of introspection                 131
 8,beliefs about the world                     131
 8,the reliability of beliefs                  131
@@ -215,8 +216,8 @@ doc_id,line
 8,recommended resources
 8,review questions
 8,                                 ft         137
-8,                                            138
-8,                                            138
+8,138
+8,138
 8,d
 8,7 self and identity
 8, ra
@@ -226,13 +227,13 @@ doc_id,line
 8,the knower and the known
 8,damasio’s three levels of self
 8,the continuity of existence
-8,                                            139
-8,                                            141
-8,                                            143
-8,                                            144
-8,                                            145
-8,                                            145
-8,                                            146
+8,139
+8,141
+8,143
+8,144
+8,145
+8,145
+8,146
 8,amnesia and the loss of memories            146
 8,the neuroscience of the self                147
 8,disorders of the physical self              149
@@ -240,7 +241,7 @@ doc_id,line
 8,dissociative states                         149
 8,dissociative identity disorders             150
 8,the boundaries of the self                  151
-8,                                        8
+8,8
 9,phantom bodies                            152
 9,phantom limbs                             153
 9,the rubber hand illusion                  154
@@ -254,9 +255,9 @@ doc_id,line
 9,consciousness is about limitations
 9,language and consciousness
 9,language and culture
-9,                                          163
-9,                                          164
-9,                                          165
+9,163
+9,164
+9,165
 9,d
 9,thinking
 9,inner speech
@@ -267,14 +268,14 @@ doc_id,line
 9,visual attention
 9,the default mode network
 9,global workspace theory
-9,                                          166
-9,                                          166
-9,                                          168
-9,                                          169
-9,                                          169
-9,                                          170
-9,                                          171
-9,                                          173
+9,166
+9,166
+9,168
+9,169
+9,169
+9,170
+9,171
+9,173
 9,the neuronal workspace theory             174
 9,the multiple drafts model                 174
 9,modelling the world                       174
@@ -282,7 +283,7 @@ doc_id,line
 9,mental time travel                        177
 9,metacognition                             179
 9,representational theories                 179
-9,                                      9
+9,9
 10,recursion (again)                                   181
 10,emergence                                           181
 10,quantum consciousness                               181
@@ -296,8 +297,8 @@ doc_id,line
 10,visual illusions
 10,filling in
 10,                             ft                     190
-10,                                                    191
-10,                                                    193
+10,191
+10,193
 10,d
 10,bistable figures
 10,binocular rivalry
@@ -308,21 +309,21 @@ doc_id,line
 10,neglect
 10,synaesthesia
 10,proprioception
-10,                                                    193
-10,                                                    195
-10,                                                    195
-10,                                                    196
-10,                                                    198
-10,                                                    198
-10,                                                    199
-10,                                                    199
+10,193
+10,195
+10,195
+10,196
+10,198
+10,198
+10,199
+10,199
 10,the binding problem                                 199
 10,microconsciousness                                  200
 10,the grand illusion                                  200
 10,chapter 9 summary                                   200
 10,recommended resources                               200
 10,review questions                                    202
-10,                                               10
+10,10
 11,10 consciousness and the brain                    202
 11,the neural correlates of consciousness            202
 11,the “astonishing hypothesis”                      204
@@ -337,9 +338,9 @@ doc_id,line
 11,                               ft
 11,the thalamus and the thalamo-cortical loop
 11,re-entry and the dynamic core hypothesis
-11,                                                  208
-11,                                                  210
-11,                                                  212
+11,208
+11,210
+11,212
 11,d
 11,the claustrum
 11,the anterior cingulate
@@ -349,20 +350,20 @@ doc_id,line
 11,chapter summary
 11,recommended resources
 11,review questions
-11,                                                  214
-11,                                                  215
-11,                                                  216
-11,                                                  216
-11,                                                  217
-11,                                                  218
-11,                                                  219
+11,214
+11,215
+11,216
+11,216
+11,217
+11,218
+11,219
 11,     part three other states of consciousness     219
 11,11 altered states of consciousness                220
 11,what is an asc?                                   222
 11,types of asc                                      222
 11,sensory deprivation                               224
 11,out-of-body experiences (obes)                    226
-11,                                             11
+11,11
 12,migraine and epilepsy                      226
 12,encephalitis lethargica                    228
 12,other types of asc                         229
@@ -376,9 +377,9 @@ doc_id,line
 12,circadian rhythms
 12,                             ft
 12,the electrophysiology of sleep
-12,                                           234
-12,                                           235
-12,                                           236
+12,234
+12,235
+12,236
 12,d
 12,the neurology of sleep
 12,the neuropharmacology of sleep
@@ -389,21 +390,21 @@ doc_id,line
 12,why do we sleep?
 12,evolutionary functions of sleep
 12,sleep and learning
-12,                                           238
-12,                                           239
-12,                                           240
-12,                                           240
-12,                                           241
-12,                                           243
-12,                                           244
-12,                                           244
+12,238
+12,239
+12,240
+12,240
+12,241
+12,243
+12,244
+12,244
 12,recommended resources                      245
 12,review questions                           246
 12,13 dreams                                  249
 12,are dreams real?                           250
 12,what is a dream?                           251
 12,how well do we remember our dreams?        252
-12,                                      12
+12,12
 13,lucid dreams                                     253
 13,dream content                                    254
 13,nightmares                                       254
@@ -416,7 +417,7 @@ doc_id,line
 13,dreams and learning                              256
 13,recommended resources
 13,review questions               ft                257
-13,                                                 257
+13,257
 13,d
 13,14 hypnosis
 13,the history of hypnosis
@@ -427,14 +428,14 @@ doc_id,line
 13,individual differences in hypnotisability
 13,can we learn suggestibility?
 13,what makes a good hypnotist?
-13,                                                 258
-13,                                                 258
-13,                                                 259
-13,                                                 259
-13,                                                 260
-13,                                                 260
-13,                                                 261
-13,                                                 261
+13,258
+13,258
+13,259
+13,259
+13,260
+13,260
+13,261
+13,261
 13,is there an hypnotic state?                      261
 13,dissociation                                     262
 13,non-state theories of hypnosis                   262
@@ -442,7 +443,7 @@ doc_id,line
 13,hypnotic suggestions                             265
 13,hypnosis and memory                              265
 13,hypnotic anaesthesia                             267
-13,                                            13
+13,13
 14,the neuroscience of hypnosis                   269
 14,self-hypnosis                                  270
 14,chapter summary                                271
@@ -456,9 +457,9 @@ doc_id,line
 14,amphetamine and other stimulants
 14,amphetamine
 14,cocaine
-14,                                               276
-14,                                               276
-14,                                               277
+14,276
+14,276
+14,277
 14,d
 14,opiates and opioids
 14,morphine
@@ -469,14 +470,14 @@ doc_id,line
 14,dissociative drugs
 14,psychedelic drugs
 14,peyote
-14,                                               278
-14,                                               279
-14,                                               279
-14,                                               279
-14,                                               280
-14,                                               282
-14,                                               283
-14,                                               284
+14,278
+14,279
+14,279
+14,279
+14,280
+14,282
+14,283
+14,284
 14,psilocybin                                     285
 14,dmt                                            285
 14,lsd                                            285
@@ -484,7 +485,7 @@ doc_id,line
 14,the good friday marsh chapel experiment        286
 14,the psychopharmacology of hallucinogens        286
 14,the social context of drug use                 286
-14,                                          14
+14,14
 15,cultural diversity in drug use                 287
 15,therapeutic use of hallucinogens               289
 15,recommended resources                          291
@@ -498,8 +499,8 @@ doc_id,line
 15,consciousness raising
 15,religious experiences
 15,                             ft                296
-15,                                               299
-15,                                               300
+15,299
+15,300
 15,d
 15,buddhism                                       300
 15,zen                                            301
@@ -511,17 +512,17 @@ doc_id,line
 15,17 death and the brain
 15,the weight of the soul
 15,what is death?
-15,                                               303
-15,                                               304
-15,                                               305
-15,                                               306
-15,                                               306
-15,                                               307
+15,303
+15,304
+15,305
+15,306
+15,306
+15,307
 15,death as loss of higher functions              308
 15,coma and coma-like states                      309
 15,definitions of death                           309
 15,locked-in syndrome                             309
-15,                                          15
+15,15
 16,near-death experiences                                  311
 16,the biological explanation of ndes                      312
 16,parapsychology                                          312
@@ -535,7 +536,7 @@ doc_id,line
 16,review questions
 16,18 bringing it all together
 16,                           ft                           317
-16,                                                        318
+16,318
 16,d
 16,how do we define consciousness?
 16,"the ""hard problem”"
@@ -545,12 +546,12 @@ doc_id,line
 16,the timing of events
 16,the problem of free will
 16,what is the self?
-16,                                                        319
-16,                                                        319
-16,                                                        320
-16,                                                        324
-16,                                                        325
-16,                                                        325
+16,319
+16,319
+16,320
+16,324
+16,325
+16,325
 16,why are some things unconscious?                        326
 16,why are we conscious?                                   327
 16,solving the binding problem                             328
@@ -558,10 +559,10 @@ doc_id,line
 16,consciousness around the world                          330
 16,can there be a there a science of consciousness?        331
 16,chapter summary                                         332
-16,                                     16
+16,16
 17,recommended resources        333
 17,  glossary                   334
 17,  references                 334
 17,               ft
 17,dra
-17,                        17
+17,17
