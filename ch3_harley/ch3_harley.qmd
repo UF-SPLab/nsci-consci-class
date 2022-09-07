@@ -14,8 +14,8 @@ format:
       data-background-size: contain
       data-background-opacity: '0.8'
       data-background-position: bottom
-    transition: slide
-    transition-speed: slow
+    transition: fade
+    transition-speed: fast
 editor_options: 
   chunk_output_type: console
 ---
@@ -28,21 +28,46 @@ editor_options:
 :::
 
 
-## People and objects 1
+
+
+## People and objects {background-image="pool_sim.gif" background-color="black" background-opacity=0.4}
+
+
+:::{.fragment}
 
 - What happens if you hit a ball at the pool table?
+
+:::
+:::{.fragment}
+
 - If you could measure everything accurately enough, you would be able to predict exactly where every ball ends up
+:::
+
+:::{.fragment}
+
 - Are our lives like this?
+:::
 
+## People and objects {background-image="pool_sim2.gif" background-color="black" background-opacity=0.3}
 
-## People and objects 2
+:::{.fragment}
 
 - The behaviour of objects is determined by physical forces - they have no choice in their behaviour
+
+:::
+:::{.fragment}
+
 - People (and maybe other animals too) seem to be different
+
+:::
+:::{.fragment}
+
 - We have appear to be able to choose what we do
 
+:::
 
-## Rehoboam {background-color="black" background-image="Opening-Titles-Rehoboam.jpg" background-size="contain" background-opacity=0.5}
+
+## Rehoboam {background-color="black" background-image="Opening-Titles-Rehoboam.jpg" background-size="contain" background-opacity=0.7}
 
 ::: {.blockquote}
 
@@ -63,15 +88,13 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 - Determinism is the idea that everything in the world is determined by physical forces
 - Free-will is the idea that we have a choice
 
-## Try this: Be bold
 
-- Do something (safe and legal!) that you would not normally do, because you would be embarrassed or inhibited. For example, resolve to go to a public place and shout “Hello everyone!”. Even better if you can think of something that makes the world a better or happier place. I would be embarrassed to go up to someone and say “I like your shirt”, for example. Can you do it? Do you chicken out at the last moment (as I invariably have when trying this exercise)? Then examine your feelings of choice as you act (or don’t). Do you think your actions are free? Do they feel as though they are?
-
-## Problems with Free-Will
+# Problems with Free-Will
 
 ## Is free will an illusion?:
 
 - We appear to ourselves to have free will, but perhaps it is just an illusion
+
 
 ## Quantum mechanics
 
@@ -102,10 +125,6 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 - Our behaviour is clearly determined by many facets of the environment
 (maybe) We are the sum of our genes and past
 
-## Try this: Your life’s turning points
-
-Look back at some major life decisions. Why did you choose the outcome that you did? Go back. What were the reasons for those reasons? Now consider a recent minor decision, such as why you ate the breakfast you did (or perhaps why you didn’t have any breakfast at all). Why did you choose a cheese omelette this morning? Because you like eggs, and had them in stock, along with a piece of cheese that needed using up? Why did you have cheese and eggs hanging around? Why do you like eggs so much? And so on. You will probably realise that everything you do has many reasons for it, most of which you are clueless about.
-
 ## Crime and punishment
 
 - Moral responsibility
@@ -114,18 +133,17 @@ Look back at some major life decisions. Why did you choose the outcome that you 
 ## Punishment
 
 - What is the purpose of punishment if someone had no choice?
-Deterrence
+
+## Deterrence
+
 - Should we punish or treat psychopaths?
 - Differences in the structure of the amygdala in people with psychopathy
 
 ## Deciding to act
 
 - Libet's experiments on "voluntary" movement
-- Criticisms of Libet's experiments
 
-## Try this: Choosing to act
-
--Sit with a solid surface in front of you. Place your hand on it and raise a finger suspended above the table. Whenever you like, decide to tap the table. Examine your processes and your muscles and hand position as you carry out this action. What is your experience of deciding to act? When did you choose? How long was it, do you think, before your finger moved?
+- Criticisms of Libet's experiment
 
 ## Measuring brain activity with EEG
 
@@ -148,6 +166,7 @@ Deterrence
 ## Compulsions
 
 - We sometimes feel compelled to do things against our will
+
 - OCD (obsessive-compulsive disorder)
 
 ## Summary
