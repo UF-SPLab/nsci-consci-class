@@ -41,6 +41,24 @@ editor_options:
 
 Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in the Macaque. PLOS Computational Biology 4(4): e1000050. https://doi.org/10.1371/journal.pcbi.1000050
 
+
+::: {.notes}
+
+- Complexity science: study of complex systems composed of many interacting parts.  
+- Function:
+- Causality: 
+- Features of complex systems: exhibit global (large-scale) behavior that cannot be easily explained in terms of their smaller parts.  
+- Nested hierarchy:
+- Rules of interaction
+
+- Descriptive labels: 
+  - analogues: a system that has many properties in common with some different system, implying a stronger relationship than a metaphor or cartoon 
+  - metaphors: a system that has some properties that remind of a different system
+  - cartoon: a superficial representation of some properties of something else
+
+:::
+
+
 ---
 
 ### 3.1 Are Brains Like Other Complex Systems?{.smaller}
@@ -62,6 +80,22 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 
 :::
 
+
+
+::: {.notes}
+
+ - Scale of measurement: measurement scale that is common for and between elements of a system at a particular level of organization 
+  - Non-local interactions: interactions that occur when distant parts of a system are connected without directly influencing locations in between
+  - Multi-scale description:
+  - Circular causality: combined bottom-up and top-down interactions across spatial scales, usually at multiple levels of a system
+  - b-u: influences of small-scale systems on large and emergent systems
+  - t-d: influence of a large and emergent system on smaller-scale systems
+  - Dynamic patterns: patterns of various kinds of activity that change over both time and brain location, analogous to weather conditions and patterns
+  - Behavior of a system:
+  - Emergent properties: process of creating new large-scale features through the actions of smaller- entities that do not posess these features in isolation
+
+:::
+
 ---
 
 
@@ -75,6 +109,13 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 - Local-Global interactions
 
 ![](encephalon_ch3_1.jpg){.absolute top="80" right="-150" height="500"}
+
+
+::: {.notes}
+
+
+
+:::
 
 ---
 
@@ -95,12 +136,38 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
    
 ![](brain_graph_ch3_3.png){.absolute top="150" right="-10" height="400"}
 
+::: {.notes}
+
+- integration vs isolation
+   - Fans sitting in a football stadium
+   - Functional localization
+   - Global coherence
+   - Binding problem: issue of how widely didtributed neural activities give rise to a single integrated behavior annd consciousness
+   - Integration
+   - Isolation
+   - Local-global issue (local/regional/global mechanisms)
+   - Functional magnetic resonance imaging (fMRI)
+   - Positron emission tomography (PET)
+   - Electroencephalogram (EEG)
+   - Dynamic Complexity
+
+:::
+
+
+# Brain as a Complex System
 
 ---
 
 ### 3.4 Brain Inputs & Outputs
 
 ![](nunez_sensory_perceptual_loop_3_8.jpg)
+
+
+::: {.notes}
+
+sensation-action cycle: 
+
+:::
 
 
 ---
@@ -110,12 +177,29 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 
 ::: columns
 ::: column
-- Neurotransmitter release into synaptic cleft and binds to ligand-gated ion channels
+- Neurotransmitter released to synaptic cleft bound by receptor ion-channels
 - Post-synaptic potential:  spatially distributed as current flow in a 3D field 
 :::
 
-::: {.fragment .fade-out}
-![](nunez_source_ultra_microscopic_3_9.jpg){.absolute bottom="200" right="100" height="300"}
+![](nunez_source_ultra_microscopic_3_9.png){.absolute top="70" right="0" height="350"}
+
+:::{.aside}
+
+<br><br>Membrane current due to local excitatory synaptic action. An action potential propagating along the presynaptic axon activates a neurotransmitter in the synaptic knob that changes local membrane conductivities to select ions, thereby producing a local current sink and more distant distributed sources to preserve current conservation.
+
+:::
+
+
+:::
+
+---
+
+### 3.5 Chemical Control of Brain & Behavior {.smaller}
+
+::: columns
+::: column
+- Neurotransmitter released to synaptic cleft bound by receptor ion-channels
+- Post-synaptic potential:  spatially distributed as current flow in a 3D field 
 :::
 
 ::: {.fragment .fade-in}
@@ -128,12 +212,37 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 :::
 ::: 
 
+::: {.notes}
+
+- The macrocolumn scale in neocortex is defined by the spatial extent of axon branches E that remain within the cortex (*recurrent collaterals*). 
+
+- The large pyramidal cell (C) is one of 10^5 to 10^6 neurons in the macrocolumn. 
+
+- Nearly all pyramidal cells send an axon (G) into the white matter, most re-enter the cortex at some distant location (*corticocortical fibers*).
+
+- Each large pyramidal cell has 10^4 to 10^5 synaptic inputs (F) causing microcurrent sources and sinks s(r', w,t). 
+
+- Field measurements can be expected to fluctuate greatly when small electrode contacts (A) are moved over distances of the order of cell body diameters. 
+
+- Small-scale recordings measure space-averaged potential over some volume (B) depending mostly on the size of the electrode contact. 
+
+- An instantaneous imbalance in sources or sinks in regions D and E will cause a diffuse current density J and potential difference delta phi across the cortex.
+
+:::
+
+
 ---
 
 
 ### 3.6 Electrical Transmission
 
 ![](Hierarchical-Connectome-3_11.png)
+
+::: {.notes}
+
+
+
+:::
 
 ---
 
@@ -153,11 +262,31 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 ![](nunez_macrocolumn_3_12.jpg){.absolute top="60" right="-60" height="200"}
 ![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-70" height="350"}
 
+::: {.notes}
+
+- Pyramidal neuron
+- Basket interneuron (inhibitory)
+- Myelinated axon
+- Macro-column (ipsilateral/contralateral projection)
+- Thalamocortical fibers (TC)
+- Brainstem (alligator)
+- limbic system (horse)
+- neocortex (human)
+
+
+:::
+
 
 # Dynamic complexity  
   
 How does a dynamic complex system function?
 
+
+::: {.notes}
+
+
+
+:::
 
 ---
 
@@ -174,6 +303,21 @@ How does a dynamic complex system function?
    - Cross scale interaction
 
 
+::: {.notes}
+
+- Nested hierarchy
+- Cortical mini-column
+- Cortico-cortical column (CCC): cortical-tissue column defined by the spatial spread of subcortical input axons that enter the cortex from the white matter below; it contains about 10k neurons w/in diameter of 0.3 mm
+- Cortical macrocolumn:
+- Neuromodulators & large scale dynamics
+- Global coherence vs functional segregation
+- Epilepsy
+- Cross scale interaction
+
+
+
+:::
+
 ---
 
 #### 3.8  Nested Hierarchy of Cerebral Cortex: 
@@ -181,12 +325,39 @@ How does a dynamic complex system function?
 
 ![](Nunez_connectome_physiol_analyses_3_14.jpg)
 
+
+::: {.notes}
+
+- Farahani FV, Karwowski W, and Lighthall NR. (2019) Application of Graph Theory for Identifying Connectivity Patterns in Human Brain Networks: A Systematic Review. *Front. Neurosci. 13*:585. doi: 10.3389/fnins.2019.00585
+
+- Schematic representation of brain network construction and graph theoretical analysis using fMRI data. After processing (B) the raw fMRI data (A) and division of the brain into different parcels (C), several time courses are extracted from each region (D) so that they can create the correlation matrix (E). To reduce the complexity and enhance the visual understanding, the binary correlation matrix (F), and the corresponding functional brain network (G) are constructed, respectively. Eventually, by quantifying a set of topological measures, graph analysis is performed on the brain’s connectivity network (H).
+
+
+
+
+:::
+
+
 ---
 
 #### 3.8  Nested Hierarchy of Cerebral Cortex: 
 #### Multiple Scales of Brain Tissue
 
 ![](Nunez_dynome_many_levels_3_14.png)
+
+::: {.notes}
+
+- Lynn, C. W., & Bassett, D. S. (2019). The physics of brain network structure, function and control. Nature Reviews Physics, 1(5), 318-332.
+
+- Fig. 2 | Measuring and modelling brain network function. 
+- 2a) The measurement of brain network function begins with experimental data specifying the activity of neurons or brain regions, such as variations in blood oxygen level in different parts of the brain measured using functional magnetic resonance imaging (fMRI) (left panel). 
+- The similarities between pairs of activity time series (described by measures such as correlation or synchronization) are encoded in a similarity matrix (centre panel; colours represent similarity values). 
+- This matrix, in turn, defines a functional brain network constructed from our original measurements of neural activity (right panel). 
+- 2b) Models of artificial neurons (left panel) take in a weighted combination of inputs, which they pass through a nonlinear threshold function to generate an output. Networks of artificial neurons, from deep neural networks to Hopfield networks, can reproduce key aspects of human information processing, such as learning from examples and storing memories. 
+- By contrast, biophysical models (right panel) of individual neurons capture realistic functional features such as the propagation of the nerve impulse. When interconnected with artificial synapses, these models can simulate entire neuronal networks. 
+- Complementary mesoscale approaches, including neural mass models, average over a population of neurons to derive a mean firing rate. To simulate the large-scale activity of an entire brain, neural mass models representing brain regions are embedded into a network with connectivity derived from measurements of neural tracts, such as those calculated using diffusion tensor imaging (Fig. 1a).
+
+:::
 
 
 ---
@@ -204,6 +375,17 @@ How does a dynamic complex system function?
 ![](brain_connectivity_3_5.png)
 
 
+::: {.notes}
+
+- Connectome: the brain's wiring diagram over some range of spatial scales
+- Dynome (not in book): subsets of the connectome that are active or available during particular physiological/mental states 
+- Path length: in a network this is the number of edges  between nodes that need to be traversed in order to go from a given node to another distant node (2 nodes that are directly connected by an edge have a zero order path-length)
+- Small world network topology: a social, physical, brain or other network in which a few long-distance (non-local) connections cause a substantial reduction in the path lengths that between pairs of network nodes
+- Graph theory: (network) mathematics of nodes and edges
+
+:::
+
+
 ---
 
 
@@ -217,6 +399,14 @@ How does a dynamic complex system function?
 
 ![](encephalon_ch3_1.jpg){.absolute top="80" right="-150" height="500"}
 
+
+::: {.notes}
+
+
+
+:::
+
+
 ---
 
 
@@ -228,10 +418,13 @@ Thalamocortical ratio = ${ \Sigma (cortico-cortical- connections) \over  \Sigma 
 ![](fuster_nested_hierarchy_3_7.jpg)
 
 
----
+::: {.notes}
 
+cortico-cortical fibers: white matter axons that interconnect different parts of cortex to each other
+thalamo-cortical fibers: 
 
-## 3.12 Summary
+:::
+
 
 
 

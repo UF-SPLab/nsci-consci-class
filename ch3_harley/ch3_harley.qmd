@@ -79,6 +79,8 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 
 # Determinism and/or free will?
 
+## Determinism and/or free will?
+
 - Human behavior
 - Dualism and free will
 - Why does mind being a different substance help with the problem?
@@ -86,6 +88,8 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 ## Determinism and free will
 
 - Determinism is the idea that everything in the world is determined by physical forces
+    - Paul Nunez has a much better probabilistic definition: 
+      - *a range of positions in which future events are fully or mostly determined by current conditions.*
 - Free-will is the idea that we have a choice
 
 
@@ -98,9 +102,9 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 
 ## Quantum mechanics
 
-- Quantum mechanics and probabilistic determination don’t help
+- Quantum mechanics & probabilistic determination don’t help
    - We still don’t have any choice
-   - Being determined by a chance event is still being determined
+   - Having apparent "choice" determined by a chance event is still being determined by something else
 
 ## The homunculus in the Cartesian theatre
 
