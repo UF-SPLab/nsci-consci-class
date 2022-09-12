@@ -1,0 +1,79 @@
+---
+title: "<bold>A Brief Look into Brain Structure and Function</bold>"
+subtitle: "<br><br>Chapter 4, Nunez "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: sky
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# 4.1 What Is Consciousness?
+
+
+---
+
+# 4.2 What is it Like To Be a Bat?
+
+
+---
+
+# 4.3 Patterns and Sub-Patterns of Consciousness
+
+
+---
+
+# 4.4 The Conscious and the Unconscious
+
+
+
+---
+
+
+# 4.5 Sleep
+
+
+
+
+---
+
+
+# 4.6 General Anesthesia and Coma
+
+---
+
+
+# 4.7 Epilepsy: A Collection of Local-Global Diseases
+
+
+
+
+---
+
+
+# 4.8 Locked-In Syndrome
+
+
+---
+
+
+# 4.9 Brain Injuries and Language
+
+
+---
+
+
+# 4.10 Summary
+

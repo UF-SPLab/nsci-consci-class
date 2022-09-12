@@ -27,15 +27,14 @@ editor_options:
 ### 3.1 Are Brains Like Other Complex Systems? 
 
   - Complexity science
-  - Function
-  - Causality
   - Features of complex systems
   - Nested hierarchy
   - Rules of interaction
   
      - Descriptive labels: 
         - analogues 
-        - metaphors 
+        - metaphors
+        - cartoons
 
 
 
@@ -45,10 +44,8 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 ::: {.notes}
 
 - Complexity science: study of complex systems composed of many interacting parts.  
-- Function:
-- Causality: 
 - Features of complex systems: exhibit global (large-scale) behavior that cannot be easily explained in terms of their smaller parts.  
-- Nested hierarchy:
+- Nested hierarchy: a structure of causality that has multiple levels of command and control (webpage)
 - Rules of interaction
 
 - Descriptive labels: 
@@ -86,12 +83,12 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 
  - Scale of measurement: measurement scale that is common for and between elements of a system at a particular level of organization 
   - Non-local interactions: interactions that occur when distant parts of a system are connected without directly influencing locations in between
-  - Multi-scale description:
+  - Multi-scale description: explanation of system that has multiple parts at more than one level (2 levels bu/td 3 levels micro/meso/macro, more than 3??)
   - Circular causality: combined bottom-up and top-down interactions across spatial scales, usually at multiple levels of a system
   - b-u: influences of small-scale systems on large and emergent systems
   - t-d: influence of a large and emergent system on smaller-scale systems
   - Dynamic patterns: patterns of various kinds of activity that change over both time and brain location, analogous to weather conditions and patterns
-  - Behavior of a system:
+  - Behavior of a system: sum total or overall action (subject to limitations/constraints of environment)
   - Emergent properties: process of creating new large-scale features through the actions of smaller- entities that do not posess these features in isolation
 
 :::
@@ -113,7 +110,9 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
 
 ::: {.notes}
 
-
+- Brainstem: control of ANS & relay of sensory input
+- Cerebellum: complex action coordination, adjust/modify 
+- Cerebral cortex: (sub)conscious actions, memories thoughts
 
 :::
 
@@ -254,10 +253,6 @@ sensation-action cycle:
    - Myelinated axon
    - Macro-column (ipsilateral/contralateral projection)
    - Thalamocortical fibers (TC)
-   - Brainstem (alligator)
-   - limbic system (horse)
-   - neocortex (human)
-
 
 ![](nunez_macrocolumn_3_12.jpg){.absolute top="60" right="-60" height="200"}
 ![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-70" height="350"}
@@ -331,7 +326,6 @@ How does a dynamic complex system function?
 - Farahani FV, Karwowski W, and Lighthall NR. (2019) Application of Graph Theory for Identifying Connectivity Patterns in Human Brain Networks: A Systematic Review. *Front. Neurosci. 13*:585. doi: 10.3389/fnins.2019.00585
 
 - Schematic representation of brain network construction and graph theoretical analysis using fMRI data. After processing (B) the raw fMRI data (A) and division of the brain into different parcels (C), several time courses are extracted from each region (D) so that they can create the correlation matrix (E). To reduce the complexity and enhance the visual understanding, the binary correlation matrix (F), and the corresponding functional brain network (G) are constructed, respectively. Eventually, by quantifying a set of topological measures, graph analysis is performed on the brain’s connectivity network (H).
-
 
 
 
