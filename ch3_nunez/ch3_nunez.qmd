@@ -24,22 +24,21 @@ editor_options:
 
 ##  {background-image="frontal_ntwk.png" background-size="700px" background-opacity=0.6 background-position="right"}
 
-### 3.1 Are Brains Like Other Complex Systems? 
+### 3.1 Are Brains Like Other Complex Systems?  {.smaller}
 
-  - Complexity science
-  - Features of complex systems
-  - Nested hierarchy
-  - Rules of interaction
-  
-     - Descriptive labels: 
-        - analogues 
-        - metaphors
-        - cartoons
+- Complexity science
+- Features of complex systems
+- Nested hierarch
+- Descriptive labels: 
+    - analogues 
+    - metaphors
+    - cartoons
 
+:::{.aside}
+<br>
+Averbeck BB, Seo M (2008) The Statistical <br> Neuroanatomy of Frontal Networks <br>in the Macaque. PLOS Computational Biology 4(4): e1000050. 
 
-
-Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in the Macaque. PLOS Computational Biology 4(4): e1000050. https://doi.org/10.1371/journal.pcbi.1000050
-
+:::
 
 ::: {.notes}
 
@@ -103,9 +102,9 @@ Averbeck BB, Seo M (2008) The Statistical Neuroanatomy of Frontal Networks in th
    - Cerebellum 
    - Cerebral cortex
 
-- Local-Global interactions
+- Local-Global<br> interactions
 
-![](encephalon_ch3_1.jpg){.absolute top="80" right="-150" height="500"}
+![](encephalon_ch3_1.jpg){.absolute top="80" right="0" height="500"}
 
 
 ::: {.notes}
