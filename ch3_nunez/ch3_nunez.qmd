@@ -127,10 +127,11 @@ Averbeck BB, Seo M (2008) The Statistical <br> Neuroanatomy of Frontal Networks 
    - Integration
    - Isolation
    - Local-global issue (local/regional/global mechanisms)
+- Neurophysiological Methods 
    - Functional magnetic resonance imaging (fMRI)
    - Positron emission tomography (PET)
    - Electroencephalogram (EEG)
-   - Dynamic Complexity
+- Dynamic Complexity
    
 ![](brain_graph_ch3_3.png){.absolute top="150" right="-10" height="400"}
 
@@ -212,7 +213,7 @@ sensation-action cycle:
 
 ::: {.notes}
 
-- The macrocolumn scale in neocortex is defined by the spatial extent of axon branches E that remain within the cortex (*recurrent collaterals*). 
+- The macrocolumn scale in neocortex is defined by the spatial extent of axon branches E that remain within the cortex (*recurrent/reafferent collaterals*). 
 
 - The large pyramidal cell (C) is one of 10^5 to 10^6 neurons in the macrocolumn. 
 
@@ -257,6 +258,7 @@ sensation-action cycle:
 ![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-70" height="350"}
 
 ::: {.notes}
+For every 1 TC there are 50 CC  
 
 - Pyramidal neuron
 - Basket interneuron (inhibitory)
