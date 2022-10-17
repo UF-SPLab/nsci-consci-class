@@ -1,0 +1,218 @@
+---
+title: "<bold>Cognition and Consciousness</bold>"
+subtitle: "<br><br>Chapter 8  "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: beige
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+## Cognition and Consciousness
+
+- Consciousness Is About Limitations
+- Language And Consciousness
+- Attention
+- Modelling The World
+- Free Energy
+- Quantum Consciousness
+
+
+## Consciousness Is About Limitations
+- We are only conscious of a limited number of cognitions at any time
+- We are aware of very little at any one time
+
+
+## Language
+- A system of a finite number of units (e.g. sounds, letters, hand movements)
+- Making up a finite number of words
+- Combined with a finite number of grammatical rules
+- Enabling us to express an infinite number of thoughts
+
+## Language helps us think
+- Language and culture
+- Thinking
+- Inner speech
+- The self symbol and self-awareness
+
+## The Sapir-Whorf hypothesis
+- Language affects thought
+- Language might affect perception
+- Linguistic determinism and linguistic relativism
+- Tests of colour perception
+
+## The Sapir-Whorf hypothesis 2
+- The Dani only have two colour terms, corresponding to light and dark
+- The Piraha only have number terms corresponding to one, two, and many
+
+
+## Muller-Lyer Illusion
+
+![](Harley_fig. 8_2.jpg)
+
+
+:::{.notes}
+
+Figure 8.2. The Muller-Lyer illusion. The two horizontal lines in the top half of the figure are of the same length (as demonstrated by the figure beneath). The arrows cause the lines to appear to us to be of different lengths. There are cultural differences in susceptibility to the illusion.
+
+
+:::
+
+## Broca
+
+![](Harley_fig. 8_3.jpg)
+
+:::{.notes}
+
+Figure 8.3. Broca’s area. The most important language processing areas in the left hemisphere, with Broca’s area shown in purple. Broca’s area is involved in sequencing language units, such as sounds to produce words and words to produce sentences.
+
+:::
+
+## Try this: Your inner speech
+Observe your inner speech. How much is it like listening to external speech? Can you detect variations in the details of the sounds you produce in your mind? When are you most likely to be talking to yourself?
+
+## Mental imagery
+- Are images pictures in the mind?
+- Dual-code theory (Paivio)
+- Kosslyn v. Pylyshyn
+
+## Try this: Your mental images
+Form a mental image of something - anything. Say a red rose. What is your experience of having the image? How like the red is the red that you visualise? If you think you can experience the qualia of red in a visual image, then consider how accurately can you visualise pain.
+
+## Attention 1
+- Attention as a bottleneck
+
+## Attention 2
+- Visual attention
+- The default mode network
+- Global workspace theory
+- The neuronal workspace theory
+- The multiple drafts model
+
+## Try this: Shifting your attention
+Play with shifting your attention around you. Experiment with all the senses, and also shift it inside you as well around the outside world. How would you describe what is happening?
+
+## Try this: Your wandering mind
+Here is a nice easy one: sit back and let your mind wander. Give yourself two minutes. What did you think about? How did the thoughts flow into one another? Was the stream of consciousness smooth or were there sudden jumps? Can you notice a stream of consciousness when you are not introspecting? Does that question even make sense?
+
+## The default mode network
+- A network that is active when<br> we are seemingly doing nothing
+
+[Major Brain Networks](https://en.wikipedia.org/wiki/Large-scale_brain_network#Core_networks)
+
+![](Default_mode_network-WRNMMC.jpg){.absolute top="300" left="0" height="300"}
+![](Default_Mode_Network_Connectivity.png){.absolute top="0" right="100" height="700"}
+
+
+:::{.notes}
+
+
+
+:::
+
+## 
+
+![](Harley_fig. 8_4.jpg)
+
+
+:::{.notes}
+
+Figure 8.4. The default mode network. The default mode network becomes active when we stop or do not engage with a task; it becomes active when our minds start to wander. It comprises complex brain circuitry
+
+:::
+
+## Global workspace theory
+- Baars
+- Stage illuminated by a beam
+- Limited capacity
+- Supervisory processes
+
+## Neuronal workspace theory
+- Expands GWT
+- Dehaene
+- P300 wave and conscious processing
+- “Ignition” makes material globally available
+- Long-distance connections in the brain
+- Cortical-thalamic loop
+
+
+## 
+
+
+
+## 
+
+
+![](Harley_fig. 8_5.jpg)
+
+:::{.notes}
+
+Figure 8.5. The phi illusion. What is actually presented: two images presented in quick succession. What a person sees if the duration is short enough: the stimulus moves and appears to change colour half way through. What is more people report the colour changing before it does so, which is of course impossible. A person’s experience in the phi illusion must therefore be constructed.
+
+:::
+
+## Modelling The World
+- Mental models
+- Mental time travel
+- Metacognition
+- Recursion (again)
+- Emergence
+- Representation and consciousness
+
+
+
+## Metacognition
+
+
+![](Harley_fig. 8_6.jpg)
+
+:::{.notes}
+
+Figure 8.6. The brain and metacognition. Metacognition is thinking about cognition, and involves executive processing, high-level processes such as thinking and reasoning that govern behaviour. The figure shows areas of the brain that are particularly active in verbal and nonverbal reasoning.
+
+:::
+
+
+## Representational theories of consciousness
+- Dretske, Tye
+- Qualia are representations of some kind
+
+## Recursion
+- I can think about myself thinking about myself …
+- Emergence
+- Perhaps consciousness emerges from the interaction of low-level processes …  
+  
+But how?
+
+
+## Strange Loops
+
+![](Harley_fig. 8_7.jpg)
+
+## Free energy
+- Karl Friston
+- Living things try to optimise
+- Consciousness is essential for this process
+- Entropy (disorder) increases with time by second law of thermodynamics
+- Consciousness increases order locally
+
+## Quantum mechanics
+- Consciousness arises from quantum interactions
+- Penrose and Hameroff
+
+## Summary
+- There are cognitive correlates of consciousness
+- Language is important for self-awareness
+- Perception is constructive.
