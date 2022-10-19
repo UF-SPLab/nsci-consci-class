@@ -70,9 +70,12 @@ Figure 8.2. The Muller-Lyer illusion. The two horizontal lines in the top half o
 
 :::
 
-## Broca
+## Broca & Wernicke's Areas
 
-![](Harley_fig. 8_3.jpg)
+![](Harley_fig. 8_3.jpg){.absolute top="120" left="0" height="500"}
+![](Arcuate_Fasciculus.jpg){.absolute top="120" right="0" height="500"}
+
+[WP: Arcuate Fasiculus](https://en.wikipedia.org/wiki/Arcuate_fasciculus)
 
 :::{.notes}
 
@@ -122,7 +125,7 @@ Here is a nice easy one: sit back and let your mind wander. Give yourself two mi
 
 :::
 
-## 
+## Default Mode Network
 
 ![](Harley_fig. 8_4.jpg)
 
@@ -139,6 +142,11 @@ Figure 8.4. The default mode network. The default mode network becomes active wh
 - Limited capacity
 - Supervisory processes
 
+:::{.notes}
+
+
+:::
+
 ## Neuronal workspace theory
 - Expands GWT
 - Dehaene
@@ -148,8 +156,10 @@ Figure 8.4. The default mode network. The default mode network becomes active wh
 - Cortical-thalamic loop
 
 
-## 
+:::{.notes}
 
+
+:::
 
 
 ## 
