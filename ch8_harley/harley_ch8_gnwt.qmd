@@ -1,0 +1,884 @@
+---
+title: "<bold>Neuronal Workspace Theory</bold>"
+subtitle: "<br><br>Chapter 8  "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: [default, custom.scss]
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## fMRI & EEG                
+
+
+
+## Functional MRI{.smaller}
+
+- Noninvasive & precise location
+- **Hemodynamic Response** blood vessel response to metabolic demands of brain activity 
+
+- Glial cells 
+    - sense surge in synaptic activity 
+    - chemically signal local arteries to dilate
+    - To compensate for increased energy consumption
+    - blood flow increases few seconds later
+    - bringing in more oxygen and glucose
+                                             
+- Human brain activity at millimeter resolution
+- Half-second resolution (at best)
+- Cannot track time course of neuronal firing for consciousness (< 0.5 sec)
+
+
+
+## Electroencephalography (EEG)
+
+- Noninvasive & precise time 
+- Electrical currents at synapses                                 
+- Recording of brain waves invented in the 1930s,
+- High-powered technique, with up to 256 electrodes   
+- Brain activity with millisecond resolution over the whole head
+         
+
+                                    
+## fMRI, EEG, & cognitive psychology
+
+- sequence of brain activation (EEG) 
+- from retina to frontal cortex (fMRI)
+- combined with cognitive psychology offers window into conscious mind
+                                             
+             
+> The presence of these patterns of neural activity, like a signature on a document, would reliably index conscious perception.
+
+
+
+
+
+
+## Signatures of Consciousness{.smaller}
+  
+
+  
+| |Question| Signature | Method | Key Features |
+|---|---|---|---|---|   
+|<span style="color:#E28F41;">1st</span>|Where|Avalanche of activity in higher brain areas|fMRI| Cascade of activity| 
+|<span style="color:#E28F41;">2nd</span>|When|P3 After 300 ms|ERP|Wave of inhibition after initial cortical signals|
+|<span style="color:#E28F41;">3rd</span>|What|Late amplification of gamma oscillations |EEG|Enhancement of balanced excitatory/inhibitory windows|
+|<span style="color:#E28F41;">4th</span>|Why|Brain web of interacting assemblies|ECoG|Integration & connection of distant regions|
+
+:  {tbl-colwidths="[5,5,40,5,40]"}
+
+
+
+
+
+# The Avalanche of Consciousness (fMRI)
+
+
+## Grill-Spector (fMRI)
+
+::: columns 
+::: {.column width="50%"}
+
+
+![](nwt/SpectorGrill_img.png)
+
+:::
+::: {.column width="50%"}
+
+- pictures of objects flashed 
+- (duration 20 to 125 ms)
+- mask followed each picture
+
+
+:::
+::: 
+
+
+
+## Grill-Spector (fMRI){.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+
+- **Early visual cortex**:
+     - activity irrespective of masking/consciousness 
+- Retinotopic areas:
+    - upper field (blue)
+    - lower field (green)
+    - center field (yellow)
+    - Dorsal Pathway: field selective (turquoise)
+- Object Selective Lateral Orbial & Fusiform Gyrus:
+    - Object-selective (orange)
+    - Face-selective (pink)
+
+:::
+::: {.column width="50%"}
+
+
+![](nwt/SpectorGrill_V1.png)
+
+
+:::
+::: 
+
+
+
+## Visual fMRI: Grill-Spector{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+
+- **Higher visual areas**:
+- conscious report & activation (Cor.)
+- fusiform gyrus & lateral occipitotemporal 
+     - regions for sorting out categories
+     - invariant representation of appearance
+     - faces/objects/words/places
+     - image was likely to become conscious in this area
+:::
+::: {.column width="50%"}
+
+![:image 75%](nwt/Spector.png){.absolute top=200 right=0 width="350" }
+
+
+:::
+::: 
+
+
+
+
+## Visual fMRI: Sergent & Dehaene{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+
+- word was masked & remained unconscious: additional regions absent
+    - parietal lobes
+    - frontal lobes
+    - anterior cingulate gyrus 
+                                            
+- word conscious: set of additional regions 
+- V1 & fusiform gyrus - visual word form area 1200% or 12x
+- activation above threshold correlates with awareness  
+
+:::
+::: {.column width="50%"}
+
+
+![Fig 16A](nwt/fig16a.jpg)
+                                            
+
+:::
+::: 
+
+
+
+## Auditory fMRI: Sadaghiani et al (2009){.smaller} 
+
+::: columns 
+::: {.column width="50%"}
+
+
+- the sound level set at threshold detect only half of them             
+                                             
+- conscious trials
+    - avalanche of brain activity 
+    - amplifies this early sensory activation  
+    - breaks into the inferior parietal and prefrontal areas
+
+:::
+::: {.column width="50%"}
+
+![Fig 16B](nwt/fig16b.jpg)
+
+
+:::
+::: 
+
+
+
+## Consciousness Avalanche{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+
+![Subliminal vs. Supraliminal](nwt/journal.pbio.0050260.g001.png)
+
+:::
+::: {.column width="50%"}
+
+                                    
+- **1st** cortical stage,
+    - progresses rostrally
+    - masking weakens  
+
+- **2nd** cortical stage                                        
+    - Amplification factor
+    - varies across successive regions of visual pathway
+                                             
+- **Avalanche metaphor**: conscious activation *strengthens* 
+    - minuscule snowball gathers snow
+    - triggers landslide
+    
+
+:::
+::: 
+
+---
+
+::: {.callout-note icon=false}
+# 1st Signature of Consciousness
+<h2 style="color:#E28F41;">Amplification & Activation (fMRI)</h2>
+:::
+
+                                             
+- Amplification of sensory brain activity
+- Progressively gathering strength  
+- Invading **parietal** & **prefrontal** lobes
+           
+
+
+
+
+# Timing the Conscious Avalanche (EEG)
+
+
+
+## Time-Course of Conscious Access{.smaller} 
+
+:::columns
+::: {.column width="50%"}
+![:positionImage 18%, 5%, 0deg, 37%](nwt/Ch4Fig18.jpg)
+
+:::
+::: {.column width="50%"}
+
+
+- Sergent Balliet & Dehaene (2005)
+    - time course of conscious access
+    - attentional blink
+- *identical* stimuli: *different* cortical fate
+    - sometimes consciously perceived 
+    - sometimes totally undetected 
+- Careful parameter tuning (50% threshold) same words could be made conscious or unconscious
+   - **all-or-none** reports: 
+   - perceived the word or entirely missed
+   - **rarely** reported a *partial* perception of the letters
+     
+
+:::
+::: 
+
+
+
+
+
+## Brain Hierarchy & ERP latency{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+
+![ERP Components](nwt/ERP.svg.png) 
+
+> In less than one-tenth of a second, between 200 and 300 milliseconds after the stimulus appeared, our recordings went from no difference at all to a massive all-or-none effect p.124
+
+
+:::
+::: {.column width="50%"}
+
+
+Trial-by-trial Analysis
+  
+**200 to 300 ms** after word  
+- **Unconscious**: brain activity <span style="color:blue;">faded</span>  
+- **Conscious**: brain activity <span style="color:red;">to PFC</span>  
+    
+400 milliseconds  
+- **Conscious**: large amplitude
+- R/L PFC, ACC, & parietal
+                                                              
+**500 ms** after word  
+- re-activation: V1, V2, V4
+- sustained memory? 
+- conscious info?
+
+
+:::
+::: 
+
+
+
+
+
+## Brain Hierarchy & ERP latency{.smaller}
+
+- conscious avalanche produces a simple marker 
+- easily picked up by electrodes glued to the top of the head. 
+
+- On conscious trials only, 
+    - an ample voltage wave sweeps through this region. 
+    - starts around 270 ms 
+    - peaks anywhere between 350 - 500 ms 
+
+- **P3/P300 wave**: slow and massive event 
+- P3 wave (because it is the third large positive peak after a stimulus appears) 
+- P300 wave (because it often starts around 300 milliseconds).
+- many observed paradigms
+- easily recorded  
+
+---
+
+
+::: {.callout-note icon=false}
+# 2nd Signature of Consciousness
+<h2 style="color:#E28F41;">P3/P300 wave</h2>
+:::
+
+
+:::columns
+::: {.column width="50%"} 
+
+- Suddenly gain access to a conscious percept
+  - *1st P3* evoked by initial string of letters
+      - attention diverted 
+      - always consciously perceived
+  - *2nd P3* was elicited by the target word when it was seen.
+- When 2nd target was perceived, P3 wave was sharply **delayed**    
+
+
+::: 
+
+
+::: {.column width="50%"} 
+  
+- Conscious access: **push-and-pull** system
+    - Brain preoccupied (**P3**) by *1st string*
+    - Could not simultaneously process *2nd word* 
+    - Consciousness of one precludes consciousness of the other
+                                             
+- “refractory period” (Ch. 1)
+    - busy-line for consciousness
+
+:::
+::: 
+
+
+![](nwt/off_the_hook.jpg){.absolute bottom="0" right="0" height="200"}
+
+
+
+## P3 & Conscious Awareness{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+
+- ERP pre/post 270 ms:                 
+    - unconscious: small positive wave over posterior parietal cortex
+    - conscious: activation of bilateral frontal lobes                                        
+- on unseen trials: 
+    - avalanche of brain activity started but 
+    - quickly fizzled, didn't start global P3 
+- Full-size P3, bilateral PFC:
+    - indexed neural process
+    - conscious perception               
+
+:::
+::: {.column width="50%"}
+
+
+![Aware-correct widespread positivity across the entire scalp. Lamy et al,2008](nwt/SaltiP3.png)
+
+
+:::
+::: 
+
+
+# Igniting the Conscious Brain
+
+
+
+## Global Ignition{.smaller}
+
+- Analogy: audience with a few claps -> bursting into applause. (Hebb, 1949)
+- Network of neurons excite one another fall into a global pattern of synchronized activity. 
+- Dehaene’s research suggests ignition occurs when broadcast excitation exceeds threshold and becomes self-reinforcing. 
+
+- Water freezing to ice is the phase change from liquid to solid.
+- Concept of phase transition captures many properties of consciousness
+- Like freezing, consciousness has threshold
+
+> Does a conscious message trigger a brain-scale phase transition, freezing brain areas together into a coherent state?
+
+- To test, experiment varied one single physical parameter of a display, like slowly dropping temperature of water vial
+- Examined whether subjective reports, and objective marker of brain activity, behaved discontinuously with sudden burst like a drastic phase transition. 
+
+
+
+
+## Global Ignition{.smaller}
+                                            
+> Whenever we become aware of an unexpected piece of information, the brain suddenly seems to burst into a large-scale activity pattern. My colleagues and I have called this property “global ignition.” Dehaene  & Naccache, 2001
+                                             
+- **Global ignition**
+    - excitation exceeds a threshold
+    - becomes self-reinforcing (positive feedback-loop)
+    - some neurons excite others that return the excitation. 
+    - (Dehaene Sergent Changeux, 2003)
+
+
+
+## Global Ignition{.smaller}
+
+- strongly interconnected neurons 
+- burst into a self-sustained state of high-level activity, 
+- reverberating “cell assembly,” (Hebb)
+
+- Terms for collective threshold phenomena:                                         
+    - phase transition (Physics)
+    - “bifurcation” (Mathematics)
+- Examples:
+    - subliminal/supraliminal
+    - gas/liquid
+    - liquid/solid
+
+
+
+
+## Antoine Del Cul{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+![](nwt/Ch4Fig19.jpg)
+  
+Fig 19 Del Cul, Baillet, & Dehaene, 2007
+
+- Digit (16 ms)
+- Blank Frame
+- Random Letters Mask
+
+:::
+::: {.column width="50%"}
+
+- Flashed random digits for 16ms, then blank screen, then masked with random letters. 
+- Varied the duration of the blank screen.
+- Did perception change continuously? 
+- No, followed all-or-none pattern. 
+- Digit seen at long durations, not seen at short. 
+- As delay increased, visibility did not improve smoothly, with sudden step around 50ms. 
+- Results again point toward P3 waveform
+- At ~270ms after digit onset, exhibition of global ignition pattern
+
+:::
+::: 
+
+
+
+## Antoine Del Cul{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+![:image 50%](nwt/Ch4Fig19.jpg)
+  
+Fig 19 Del Cul, Baillet, & Dehaene, 2007
+
+- Digit (16 ms)
+- Blank Frame
+- Random Letters Mask
+
+:::
+::: {.column width="50%"}
+
+
+> We varied the duration of the blank in small steps of 16 milliseconds. What did viewers report? Did their perception change continuously?
+                            
+- Clear threshold
+- All-or-none pattern (phase transition)
+- P1 & N1 (initial response of the visual cortex) 
+    - Unaffected by the digit-letters delay
+    - Visual activation: proportional to digit duration
+
+
+:::
+::: 
+
+
+
+## Brain Activity Predicts Response{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+- **Unseen** trials: strong activity (before 270 ms)              
+                            
+- **Seen** trials: 270 ms after digit onset
+    - Global Ignition
+    - Sudden divergence (phase transition)
+    - Avalanche of activation
+    - bilateral & symmetrical pattern (despite unilateral presentation)
+
+- Brain activation incommensurate to masking delay increments
+- Conscious access resembled a phase transition in the dynamics of neural networks
+- Avalanche of processing stages culminates in state where many brain areas fire in synchrony
+
+:::
+::: {.column width="50%"}
+
+![:positionImage 30%, 48%, 0deg, 90%](nwt/Ch4Fig19b_color.png)
+  
+Fig 19 Del Cul, Baillet, & Dehaene, 2007
+
+
+:::
+::: 
+
+
+# Deep Inside the Conscious Brain
+
+
+
+## Intracranial E-phys: Humans{.smaller}
+
+- Unlike exterior recording using fMRI, new experiments with epilepsy patients place electrodes directly inside brain
+- Used experiment to track step-by-step progression of word into cortex along visual pathway
+- Early results very similar: after 300ms, huge change in activity. 
+- 70% of interior recording sites showed significant influence of consciously perceived words
+- Only 25% for unconsciously perceived words
+- Conclusion: unconscious information in narrow brain circuit, consciously perc. Info. Is globally distributed.
+
+
+
+## Intracranial E-phys: Humans{.smaller}
+              
+- epilepsy patients
+    - electrodes placed directly inside brain
+    - direct view of cortical activity
+                            
+- step-by-step progression of a word into cortex
+    - electrodes along visual pathway
+    - stimulus progression through successive stages  
+    - check each stage: seeing vs.*not* seeing
+        
+
+                    
+## Seen Vs Unseen trials{.smaller}
+
+- After 300 milliseconds
+    - the difference became massive
+- Unseen trials 
+    - Activity died out 
+    - No frontal activation
+- Seen trials
+    - Massively amplified activity
+    - All-or-none ignition
+   
+
+
+## Brain Oscillations {.smaller}
+
+- Brain emits variety of electrical fluctuations of various frequencies
+- Stimulus perturbs current waves by reducing or shifting them
+- When subject was given a word, saw enhanced gamma activity within first 200ms. 
+- Gamma died out for unseen words, remained sustained for seen words. 
+
+Electrophysiologists distinguish many different rhythms in the EEG signal. The awake brain emits a variety of electrical fluctuations that are coarsely defined by their frequency bands, conventionally labeled with Greek letters. The bestiary of brain oscillations includes the alpha band (8 to 13 hertz), the beta band (13 to 30 hertz), and the gamma band (30 hertz and higher).
+
+Fisch, L., Privman, E., Ramot, M., Harel, M., Nir, Y., Kipervasser, S., ... & Malach, R. (2009). Neural “ignition”: enhanced activation linked to perceptual awareness in human ventral stream visual cortex. *Neuron, 64*(4), 562-574.
+
+
+---
+
+::: {.callout-note icon=false}
+# 3rd Signature of Consciousness
+<h2 style="color:#E28F41;">Late Gamma Amplification</h2>
+:::
+
+                      
+
+
+::: columns 
+::: {.column width="50%"}
+
+![](nwt/fig3.jpg)
+
+:::
+::: {.column width="50%"}
+
+![](nwt/fig4.jpg)
+
+:::
+::: 
+
+???
+Electrophysiologists distinguish many different rhythms in the EEG signal. The awake brain emits a variety of electrical fluctuations that are coarsely defined by their frequency bands, conventionally labeled with Greek letters. The bestiary of brain oscillations includes the alpha band (8 to 13 hertz), the beta band (13 to 30 hertz), and the gamma band (30 hertz and higher).
+
+Fisch, L., Privman, E., Ramot, M., Harel, M., Nir, Y., Kipervasser, S., ... & Malach, R. (2009). Neural “ignition”: enhanced activation linked to perceptual awareness in human ventral stream visual cortex. *Neuron, 64*(4), 562-574.
+
+- mask occurs at variable SOA after flashed image
+- When SOA is < 50ms: masking
+- Verbal response
+
+
+---
+
+::: {.callout-note icon=false}
+# 3rd Signature of Consciousness
+<h2 style="color:#E28F41;">Late Gamma Amplification</h2>
+:::
+
+
+
+::: columns 
+::: {.column width="50%"}
+
+![:positionImage 12%, 5%, 0deg, 40%](nwt/fig5.jpg)
+
+:::
+::: {.column width="50%"}
+
+![](nwt/fig6.jpg)
+
+:::
+::: 
+
+???
+
+
+
+# The Brain Web                            
+
+
+
+
+## Christiaan Huygens: "Odd Sympathy"
+
+
+
+![](nwt/Huygens_clocks.jpg){.absolute bottom="0" left="0" height="550"}
+
+
+
+![](nwt/huygens_OS.jpg){.absolute top="150" right="0" height="400"}
+
+ 
+
+
+
+
+
+## Christiaan Huygens: "Odd Sympathy"{.smaller}
+
+
+![](nwt/Huygens_clocks.jpg){.absolute bottom="0" left="0" height="600"}
+
+
+![](nwt/huygens_OS2.jpg){.absolute top="70" right="50" height="700"}
+
+---
+
+::: columns 
+::: {.column width="50%"}
+
+### Experimental results for an experiment lasting one hour.
+
+- (a) Angular displacement of pendulum one.  
+- (b) Angular displacement of pendulum two. 
+- (c) The clocks are initialized <br> close to anti-phase motion. 
+:::
+::: 
+
+- (d) Pendulum one gains amplitude, <br>whereas pendulum two loses <br>amplitude and the phase difference decreases. 
+- (e) After a long transient behaviour, the pendula synchronize in-phase.
+
+
+
+![](nwt/hos_nature.jpg){.absolute top="-10" right="0" height="450"}
+
+:::{.aside}
+
+Ramirez, J. P., Olvera, L. A., Nijmeijer, H., & Alvarez, J. (2016). The sympathy of two pendulum clocks: beyond Huygens’ observations. Scientific reports, 6, 23580.
+
+:::
+
+
+## Resonance and Synchrony 
+
+![:image 80%](nwt/Pik_Ros_fig_4.jpg)
+
+
+
+
+
+## Windows of Opportunity{.smaller}
+
+In essence, synchrony opens up a channel of communication between distant neurons.                
+If they shout in unison, however, their voice is much more likely to be heard and relayed.                 
+Neurons that oscillate together share windows of opportunity during which they are all ready to receive signals from one another. The synchrony that we researchers observe in our macroscopic recordings may indicate that, at the microscopic scale, thousands of neurons are exchanging information.
+                            
+What may be particularly significant for conscious experience are instances when such exchanges occur not only between two local regions but across many distant regions of the cortex, thus forming a coherent brain-scale assembly.
+
+--- 
+
+::: {.callout-note icon=false}
+# 4th Signature of Consciousness 
+<h1 style="color:#E28F41;">The Brain Web</h1>
+:::
+
+
+- Synchrony facilitates transmission of information.
+- Massive synchronization of electromagnetic signals across cortex 
+- Late time window (+300ms) 
+- “Brain web” exchange of long distance signals.
+- Distant electrodes synchronize
+   - but only if the image is consciously perceived 
+
+
+
+
+## Rhythm Nesting{.smaller}
+ 
+Conscious perception, by contrast, involves long-distance communication and a massive exchange of reciprocal signals that has been termed a “brain web.”
+
+::: columns 
+::: {.column width="50%"}                      
+
+- The frequency at which this brain web is established varies across studies, but it typically occurs in the lower frequencies of the beta band (13–30 hertz) or the theta band (3–8 hertz)
+
+- Presumably these slow carrier frequencies are the most convenient for bridging over the significant delays that are involved in transmitting information across distances of several centimeters.
+                            
+- frequencies tend to be “nested” inside one another: high-frequency bursts fall at predictable moments relative to lower-frequency fluctuations. 
+
+- We need new mathematical instruments in order to understand these complicated patterns.
+ 
+:::
+::: {.column width="50%"}
+
+![:image 80%](nwt/nested.jpg)
+
+--
+
+![:image 95%](nwt/41593_2015_Article_BFnn3952_Fig1_HTML.jpg)
+
+:::
+::: 
+
+
+
+---
+
+![](https://imgs.xkcd.com/comics/correlation.png)
+
+
+
+## Leading Indicator{.smaller}
+
+::: columns 
+::: {.column width="50%"}
+
+Merriam-Webster Dictionary:
+
+> "an economic indicator (such as the level of corporate profits or of stock prices) that more often than not shows a change in direction before a corresponding change in the state of the economy"
+
+![](nwt/buy_sell.png)
+
+:::
+::: {.column width="50%"}
+
+![:positionImage 5%, 55%, 0deg, 90%](nwt/leading.png)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Cambridge  Dictionary:
+
+>"something that shows what a situation will be like in the future rather than showing what it is like now or has been like in previous weeks, months, etc.  :  *Claims for unemployment insurance, a leading indicator for the economy, rose in July.*"
+
+:::
+::: 
+
+
+
+## Statistical "Causality"{.smaller}
+                           
+Back in 1969 the British economist Clive Granger invented this method to determine when two time series—for instance, two economic indicators—are related in such a manner that one may be said to “cause” the other.
+
+- Leading Indicators
+                            
+- Given two temporal signals, the method asks whether one signal precedes the other and predicts its future values.
+                            
+- signal A is said to “cause” signal B if the past states of A predict the present state of signal B better than the past states of signal B alone does.
+                            
+- nothing, in this definition, precludes a causal relation in both directions: A may influence B at the same time as B influences A.
+
+
+
+
+
+
+## Statistical "Causality"?{.smaller}
+
+> The brain is so tightly interconnected that causality is an essential but challenging issue to determine. 
+
+- Does activation progress in a bottom-up fashion, from sensory receptors to higher-order integrative centers in the cortex? 
+
+- Or is there also a significant top-down component, in which the higher regions send descending prediction signals that shape what we consciously perceive? 
+
+- Anatomically, bottom-up and top-down pathways are both present throughout the cortex. 
+
+- Most long-distance connections are bidirectional, and the descending top-down projections often vastly outnumber the ascending ones.
+
+
+
+## Causal Explosion{.smaller}
+                          
+Specifically during the consciously perceived trials, we observed a massive increase in bidirectional causality throughout the brain.
+                            
+Once again this “causal explosion” emerged all of a sudden around 300 milliseconds.                 
+The forward-moving wave is consistent with an obvious intuition: sensory information must climb up the hierarchy of cortical areas, from primary visual cortex to increasingly abstract representations of the stimulus.
+                            
+The most encompassing description is that the brain falls into a “distributed attractor”—a large-scale pattern of ignited brain regions that, for a short while, produces a sustained state of reverberating activity.
+
+
+
+## Sub... Liminal{.smaller}
+
+on unconscious trials; the brain web never ignited. There was only a transient period of causal interrelations in the ventral visual cortex, but it did not last much beyond 300
+                            
+Quite interestingly, this period was dominated by descending top-down causal signals. It looked as if the anterior regions were desperately interrogating sensory areas. Their failure to respond with a consistent signal resulted in the absence of conscious perception.
+
+
+# The Tipping Point & Its Precursors
+
+
+
+## The Tipping Point & The Avalanche{.smaller}
+
+- Avalanche metaphor: After the ignition threshold is reached, which takes about (300 ms), top down signals are sent from the frontal regions to various distributed areas in addition to the bottom-up sensory signals being sent from lower regions. 
+
+
+
+## Before The Avalanche{.smaller}
+
+- Some experiments detect correlate of conscious perception before the stimulus is presented
+    - could be random variation among trials based on unexplainable differences in neural activity
+- Unpredictable neural fluctuations 
+    - Support or fight against avalanche
+- Preconditions: Random neural fluctuations 
+    - produce pre-existing biases to support or discourage consciousness
+- We must distinguish between the correlates of consciousness and the signatures of consciousness
+
