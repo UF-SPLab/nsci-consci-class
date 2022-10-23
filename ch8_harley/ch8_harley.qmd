@@ -19,21 +19,11 @@ editor_options:
 ---
 
 
-
-## Cognition and Consciousness
-
-- Consciousness Is About Limitations
-- Language And Consciousness
-- Attention
-- Modelling The World
-- Free Energy
-- Quantum Consciousness
-
-
-## Consciousness Is About Limitations
+# Consciousness Is About Limitations
 - We are only conscious of a limited number of cognitions at any time
 - We are aware of very little at any one time
 
+# Language: Constraints with Composability
 
 ## Language
 - A system of a finite number of units (e.g. sounds, letters, hand movements)
@@ -70,12 +60,16 @@ Figure 8.2. The Muller-Lyer illusion. The two horizontal lines in the top half o
 
 :::
 
-## Broca & Wernicke's Areas
 
-![](Harley_fig. 8_3.jpg){.absolute top="120" left="0" height="500"}
-![](Arcuate_Fasciculus.jpg){.absolute top="120" right="0" height="500"}
+# Thinking
 
-[WP: Arcuate Fasiculus](https://en.wikipedia.org/wiki/Arcuate_fasciculus)
+## Broca & Wernicke's Areas{.smaller}
+
+![](Harley_fig. 8_3.jpg){.absolute top="170" left="0" height="500"}
+![](Arcuate_Fasciculus.jpg){.absolute top="170" right="0" height="500"}
+
+- [WP: Arcuate Fasiculus](https://en.wikipedia.org/wiki/Arcuate_fasciculus)  
+- [WP: Lateral/Medial Broadmann Areas 40 & 44](https://en.wikipedia.org/wiki/Brodmann_area#Clickable_map:_lateral_surface)
 
 :::{.notes}
 
@@ -93,6 +87,8 @@ Observe your inner speech. How much is it like listening to external speech? Can
 
 ## Try this: Your mental images
 Form a mental image of something - anything. Say a red rose. What is your experience of having the image? How like the red is the red that you visualise? If you think you can experience the qualia of red in a visual image, then consider how accurately can you visualise pain.
+
+# Attention
 
 ## Attention 1
 - Attention as a bottleneck
@@ -173,7 +169,9 @@ Figure 8.5. The phi illusion. What is actually presented: two images presented i
 
 :::
 
-## Modelling The World
+
+
+# Modelling The World
 - Mental models
 - Mental time travel
 - Metacognition
