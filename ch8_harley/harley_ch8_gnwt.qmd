@@ -389,13 +389,13 @@ Trial-by-trial Analysis
 ::: {.column width="50%"}
 
 
-- ERP pre/post 270 ms:                 
+- <span style="color:#becc41;">ERP pre/post 270 ms</span> :                 
     - unconscious: small positive wave over posterior parietal cortex
     - conscious: activation of bilateral frontal lobes                                        
-- on unseen trials: 
+- <span style="color:blue;">on unseen trials</span> : 
     - avalanche of brain activity started but 
     - quickly fizzled, didn't start global P3 
-- Full-size P3, bilateral PFC:
+- <span style="color:red;">Full-size P3, bilateral PFC</span> :
     - indexed neural process
     - conscious perception               
 
@@ -542,7 +542,7 @@ Fig 19 Del Cul, Baillet, & Dehaene, 2007
 :::
 ::: {.column width="50%"}
 
-![:positionImage 30%, 48%, 0deg, 90%](nwt/Ch4Fig19b_color.png)
+![](nwt/Ch4Fig19b_color.png)
   
 Fig 19 Del Cul, Baillet, & Dehaene, 2007
 
@@ -557,13 +557,15 @@ Fig 19 Del Cul, Baillet, & Dehaene, 2007
 
 ## Intracranial E-phys: Humans{.smaller}
 
-- Unlike exterior recording using fMRI, new experiments with epilepsy patients place electrodes directly inside brain
+- Unlike non-invasive EEG, new experiments with epilepsy patients place electrodes directly inside brain
 - Used experiment to track step-by-step progression of word into cortex along visual pathway
-- Early results very similar: after 300ms, huge change in activity. 
-- 70% of interior recording sites showed significant influence of consciously perceived words
-- Only 25% for unconsciously perceived words
-- Conclusion: unconscious information in narrow brain circuit, consciously perc. Info. Is globally distributed.
+- Results very similar to ERP: 
+    - after 300ms, huge change in activity. 
+    - 70% of interior recording sites showed significant influence of consciously perceived words
+    - Only 25% for unconsciously perceived words
+- **Conclusion**: unconscious information in narrow brain circuit, consciously perc. Info. Is globally distributed.
 
+![](nwt/epi13685-fig-0002-m.jpg){.absolute top="300" right="200" height="400"}
 
 
 ## Intracranial E-phys: Humans{.smaller}
@@ -577,20 +579,8 @@ Fig 19 Del Cul, Baillet, & Dehaene, 2007
     - stimulus progression through successive stages  
     - check each stage: seeing vs.*not* seeing
         
-
+![](nwt/epi13685-fig-0003-m.jpg){.absolute top="150" right="0" height="400"}
                     
-## Seen Vs Unseen trials{.smaller}
-
-- After 300 milliseconds
-    - the difference became massive
-- Unseen trials 
-    - Activity died out 
-    - No frontal activation
-- Seen trials
-    - Massively amplified activity
-    - All-or-none ignition
-   
-
 
 ## Brain Oscillations {.smaller}
 
@@ -637,6 +627,7 @@ Fisch, L., Privman, E., Ramot, M., Harel, M., Nir, Y., Kipervasser, S., ... & Ma
 - Verbal response
 
 
+
 ---
 
 ::: {.callout-note icon=false}
@@ -649,7 +640,7 @@ Fisch, L., Privman, E., Ramot, M., Harel, M., Nir, Y., Kipervasser, S., ... & Ma
 ::: columns 
 ::: {.column width="50%"}
 
-![:positionImage 12%, 5%, 0deg, 40%](nwt/fig5.jpg)
+![](nwt/fig5.jpg)
 
 :::
 ::: {.column width="50%"}
@@ -661,6 +652,17 @@ Fisch, L., Privman, E., Ramot, M., Harel, M., Nir, Y., Kipervasser, S., ... & Ma
 
 ???
 
+## Seen Vs Unseen trials{.smaller}
+
+- After 300 milliseconds
+    - the difference became massive
+- Unseen trials 
+    - Activity died out 
+    - No frontal activation
+- Seen trials
+    - Massively amplified activity
+    - All-or-none ignition
+   
 
 
 # The Brain Web                            
@@ -668,18 +670,19 @@ Fisch, L., Privman, E., Ramot, M., Harel, M., Nir, Y., Kipervasser, S., ... & Ma
 
 
 
-## Christiaan Huygens: "Odd Sympathy"
+## Christiaan Huygens: "Odd Sympathy"{.smaller}
+
+[*Horologium Oscillatorium* (1673)](https://www.aps.org/publications/apsnews/201706/history.cfm)  
+
+*The Longitude Act* (1714) -- £10,000 to £20,000  
+- A scale of rewards for anyone who 'shall discover a more certain and </br> practical method of ascertaining the longitude' over a voyage from England to </br> the West Indies, about 6 weeks.
+
+
+![](nwt/Huygens_clocks.jpg){.absolute bottom="0" right="0" height="550"}
 
 
 
-![](nwt/Huygens_clocks.jpg){.absolute bottom="0" left="0" height="550"}
-
-
-
-![](nwt/huygens_OS.jpg){.absolute top="150" right="0" height="400"}
-
- 
-
+![](nwt/huygens_OS.jpg){.absolute top="250" left="0" height="400"}
 
 
 
@@ -721,7 +724,7 @@ Ramirez, J. P., Olvera, L. A., Nijmeijer, H., & Alvarez, J. (2016). The sympathy
 
 ## Resonance and Synchrony 
 
-![:image 80%](nwt/Pik_Ros_fig_4.jpg)
+![](nwt/Pik_Ros_fig_4.jpg)
 
 
 
@@ -771,11 +774,11 @@ Conscious perception, by contrast, involves long-distance communication and a ma
 :::
 ::: {.column width="50%"}
 
-![:image 80%](nwt/nested.jpg)
+![](nwt/nested.jpg)
 
 --
 
-![:image 95%](nwt/41593_2015_Article_BFnn3952_Fig1_HTML.jpg)
+![](nwt/41593_2015_Article_BFnn3952_Fig1_HTML.jpg)
 
 :::
 ::: 
@@ -802,7 +805,7 @@ Merriam-Webster Dictionary:
 :::
 ::: {.column width="50%"}
 
-![:positionImage 5%, 55%, 0deg, 90%](nwt/leading.png)
+![](nwt/leading.png)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 Cambridge  Dictionary:
 
