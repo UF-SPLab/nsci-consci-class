@@ -67,17 +67,48 @@ editor_options:
 
 ## Signatures of Consciousness{.smaller}
   
-
   
 | |Question| Signature | Method | Key Features |
 |---|---|---|---|---|   
-|<span style="color:#E28F41;">1st</span>|Where|Avalanche of activity in higher brain areas|fMRI| Cascade of activity| 
-|<span style="color:#E28F41;">2nd</span>|When|P3 After 300 ms|ERP|Wave of inhibition after initial cortical signals|
+|<span style="color:#E28F41;">1st</span>|Where|Neural Avalanche: "higher" cortex |fMRI| Cascade of activity| 
+|<span style="color:#E28F41;">2nd</span>|When|P3 After 300 ms|ERP|Global cortical Inhibition Wave  |
 |<span style="color:#E28F41;">3rd</span>|What|Late amplification of gamma oscillations |EEG|Enhancement of balanced excitatory/inhibitory windows|
-|<span style="color:#E28F41;">4th</span>|Why|Brain web of interacting assemblies|ECoG|Integration & connection of distant regions|
+|<span style="color:#E28F41;">4th</span>|Why|Brain web of interacting assemblies|ECoG|Integration & connection at distance |
 
 :  {tbl-colwidths="[5,5,40,5,40]"}
 
+
+#### 1st: fMRI (high space-resolution to establish WHERE)  
+
+- Unconscious/Preconscious: Sensory input according to processing that is highly localized to input modality: vision (occipital lobe), hearing (superior temporal lobe), somatosensory (anterior parietal lobe), etc
+
+- Conscious processing: “all-or-nothing”, ignition, global broadcast, and re-entrant-amplified processing (Box 8.2 Cortex regions 1) Frontal, 2) inferotemporal, 3) midline/limbic, 4) (para)hippocampal , 5) Posterior Parietal)
+
+#### 2nd: EEG (high time-resolution to establish WHEN)   
+- Unconscious/Preconscious P1/N1 waves before 200ms post-stimulus, highly-localized by input modality
+- Conscious processing: post-stimulus onset 200-250 ms: P300 brain wave
+Appears frontally initially for novel stimuli (P3a), but globally for all conscious stimuli (P3b)
+
+#### 3rd: (ECoG/invasive electrophysiology)  
+- Gamma band + Theta : local coordinated activity multiplexed with lower amplitude band
+
+##  Signatures of Consciousness{.smaller}
+  
+  
+| |Question| Signature | Method | Key Features |
+|---|---|---|---|---|   
+|<span style="color:#E28F41;">1st</span>|Where|Neural Avalanche: "higher" cortex |fMRI| Cascade of activity| 
+|<span style="color:#E28F41;">2nd</span>|When|P3 After 300 ms|ERP|Global cortical Inhibition Wave  |
+|<span style="color:#E28F41;">3rd</span>|What|Late amplification of gamma oscillations |EEG|Enhancement of balanced excitatory/inhibitory windows|
+|<span style="color:#E28F41;">4th</span>|Why|Brain web of interacting assemblies|ECoG|Integration & connection at distance |
+
+:  {tbl-colwidths="[5,5,40,5,40]"}
+
+   
+   
+#### 4th: (ECoG/invasive electrophysiology)
+- Unconscious/Preconscious: early on restricted to thamocortical locations and short distance connections in same modality
+- Conscious: “Brain Web” later +300 ms indicating amplified & synchronized information across large areas of brain (dependent on coherent activity connected by cortico-cortical connections through white-matter tracts)
 
 
 

@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Open Sans", sans-serif !default;
+$presentation-font-size-root: 30px !default;
+
+// colors
+$body-bg: #f7f8f5 !default;
+$body-color: #000 !default;
+$link-color: #51483d !default;
+$selection-bg: #26351c !default;
+$selection-color: #6C9AC3 !default;
+
+// headings
+$presentation-heading-font: "Quicksand", sans-serif !default;
+$presentation-heading-color: #799686 !default;
+$presentation-heading-font-weight: normal !default;
+$presentation-heading-letter-spacing: -0.08em;
+
+// code blocks
+$code-block-border-color: lighten($link-color, 30%) !default;
+$code-block-bg: transparent !default;
+
+/*-- scss:mixins --*/
+
+// Background generator
+@mixin bodyBackground() {
+  @include radial-gradient(#D9D1C7,#F2F2F2);
+}
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
+
+
+
+
+
+
+
+
+

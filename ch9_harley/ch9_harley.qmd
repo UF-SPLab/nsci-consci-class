@@ -1,0 +1,160 @@
+---
+title: "<bold>Perception and Consciousness</bold>"
+subtitle: "<br><br>Chapter 9  "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: beige
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+## Perception and Consciousness
+- Empiricism
+- Normal Visual Perception
+- Disorders Of Visuo-Spatial Perception
+- The Grand Illusion
+
+## Empiricism
+- Are you dreaming now?
+- Are you being misled by a demon?
+
+## The brain in a vat
+- How do you know you’re a brain in a vat being fed information?
+
+## Normal Visual Perception
+- Normal vision involves a lot of “filling in”
+   - E.g. we only “see” our blind spot in exceptional circumstances
+
+## Constructing the visual world
+- Bistable figures
+- Binocular rivalry
+- Change blindness and inattentional blindness
+- Visual illusions
+- No-report paradigm
+
+## Try this: The Necker cube
+- Examine the Necker cube in Figure 9.1. Do you see any reversals? Can you learn to reverse at will?
+   - A bistable figure
+
+---
+
+![]()
+
+
+---
+
+![](Harley_fig. 9_2.jpg)
+
+---
+
+
+---
+
+
+---
+
+
+## We miss a lot
+- Change blindness
+   - McConkie & Currie, 1996
+- Inattentional blindness
+   - Mack & Rock, 1992
+
+---
+
+![](Harley_fig. 9_5.jpg)
+
+---
+
+![](Harley_fig. 9_6.jpg)
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Try this: Phantom words
+Search online for the Deutsch phantom words and Shepard tones. Try them. Also follow the instructions for the cutaneous rabbit - you’ll have to be fast though.
+
+## Disorders Of Visuo-spatial Perception
+- Blindsight
+- Spatial neglect
+- Synaesthesia
+- Proprioception
+
+## The Importance of Blindsight
+- Weiskrantz
+- Vision without awareness
+
+## Two visual streams
+- Ventral and Dorsal streams
+   - “What” and “How” processing routes
+
+---
+
+![](Harley_fig. 9_9.jpg)
+
+## Visual-spatial neglect
+- Brain damage means people are unable to attend to part or whole of one side of the world
+- It is attentional (Bisiach & Luzzatti, 1978, Milan Piazza Del Duomo experiment)
+
+---
+
+![](Harley_fig. 9_10.jpg)
+
+---
+
+
+## Synaesthesia
+- Leakage across components of vision or modalities
+
+---
+
+
+
+## The Binding Problem
+- How are percepts bound together to form stable objects?
+- Visual awareness
+- Importance of gamma waves (around 40 Hz)
+- Areas of convergence of pathways in brain not properly identified
+- Thalamo-cortical resonance (Llinas et al., 1998)
+
+## Micro-consciousness
+Zeki
+- Modules of visual perception
+
+## Visual awareness
+- When does something enter visual awareness?
+- The “Jennifer Aniston cell”
+- Single neurons in the anterior medial temporal lobe
+
+## The Grand Illusion
+Noe
+- A complete visual world is an illusion
+- Perception is not like a multisensory movie
+
+## Summary
+
+- We do not have access to the inner processes of perception
+- A complete visual world is an illusion
+- The world doesn’t “really” look like how we see it
+- Much is missing in our perceptions

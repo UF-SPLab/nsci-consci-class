@@ -1,0 +1,219 @@
+---
+title: "<bold>Consciousness and the Brain</bold>"
+subtitle: "<br><br>Chapter 10"
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: [default, custom.scss]
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+## Consciousness and the Brain
+- The Neural Correlates Of Consciousness
+- The Electrophysiology Of Consciousness
+- The Evolution Of The Brain
+- The Development Of Consciousness
+- Incomplete Brains
+- General Anaesthesia
+- The Thalamus And Thalamo-cortical Loop
+- Integrated Information Theory
+- Radical Plasticity
+- What Is Death?
+- Disorders Of Consciousness
+- Can We Escape Death?
+
+## The Neural Correlates Of Consciousness (NCC)
+- The “astonishing hypothesis”
+   - Francis Crick
+   - The hardware of the brain gives rise to phenomenal experience
+
+## The Neural Correlates Of Consciousness (NCC)
+- Brain structure, or
+- Brain activity
+
+## Mind reading
+- Identifying mental content from brain imaging
+
+## Electrophysiology of consciousness
+
+
+
+
+- Gamma 30 - 100 Hz
+- Beta 12.5 - 30
+- Alpha 8 - 12.6
+- Theta 4 - 7
+- Delta 0.5 - 4
+- Infra-slow < 0.5
+
+
+
+![](Harley_fig10_1.jpg)
+
+
+
+
+## The evolution of the brain
+- Which animals are conscious?
+
+
+
+![](Harley_fig10_2.jpg)
+
+
+## The development of consciousness
+- Are babies conscious?
+   - “Not as conscious”
+   - Babies and pain
+
+
+![](Harley_fig10_3.jpg)
+
+
+## Incomplete brains
+- Anencephaly
+- Hydrocephaly
+
+
+![](Harley_fig10_4.jpg)
+
+## General Anaesthesia
+- How do general anaesthetics work?
+- GABA
+- Endocannabinnoid system,
+- Mashour
+
+## Post-operative recall and anaesthesia
+- Memory for events in surgery
+
+## The history of anaesthetic use
+- US dentist William Morton
+- Ether 1846
+- James Simpson chloroform
+- Now propofol one of the most common
+
+## The thalamus and thalamo-cortical loop
+- All point to the role of the thalamus in maintaining consciousness
+- Are NCC frontal or posterior?
+- Resonance in the thalamo-cortical loop
+- Re-entry and the dynamic core hypothesis
+- The importance of the claustrum
+
+---
+
+![](Harley_fig10_5.jpg)
+
+---
+
+![](Harley_fig10_6.jpg)
+
+## Integrated information theory
+- Consciousness is information being linked and integrated
+- Tononi
+- Phi as a measure
+
+## Radical plasticity
+- Cleeremans
+- Our neural system has to learn to become conscious
+- Prediction
+
+## What is death?
+- Coma
+- Locked in syndrome
+- Persistent vegetative state
+
+
+---
+
+![](Harley_fig10_7.jpg)
+
+
+---
+
+![](Harley_fig10_8.jpg)
+
+## Disorders of consciousness
+- Coma-like states
+- Persistent vegetative state (PVS)
+- Minimally conscious state (MCS)
+- Locked in syndrome (LIS)
+
+## Can we escape death?
+- Uploading our minds
+- Our effects on the world
+
+## Summary
+- There are neural correlates of consciousness
+- The thalamo-cortical loop plays an important role in consciousness
+
+
+
+## {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: {.r-hstack}
+::: {data-id="box1" auto-animate-delay="0" style="background: #464E59; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #31403E; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #BCBFAE; width: 200px; height: 150px; margin: 10px;"}
+:::
+:::
+
+
+- #464E59
+- #31403E
+- #BCBFAE
+
+## {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: {.r-hstack}
+::: {data-id="box1" auto-animate-delay="0" style="background: #8C8981; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #F2F2F2; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #D9D1C7; width: 200px; height: 150px; margin: 10px;"}
+:::
+:::
+
+
+- #8C8981
+- #F2F2F2
+- #D9D1C7
+
+
+## {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: {.r-hstack}
+::: {data-id="box1" auto-animate-delay="0" style="background: #A4B8AD; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #3C4951; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #799686; width: 200px; height: 150px; margin: 10px;"}
+:::
+:::
+
+
+- #A4B8AD
+- #3C4951
+- #799686
+
+:::{.notes}
+
+:::
