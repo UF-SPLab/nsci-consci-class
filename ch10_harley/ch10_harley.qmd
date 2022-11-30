@@ -12,7 +12,8 @@ format:
       data-background-size: contain
       data-background-opacity: '0.5'
       data-background-position: center
-    theme: [default, custom.scss]
+    theme: simple
+    chalkboard: true
 
 editor_options: 
   chunk_output_type: console
@@ -101,14 +102,57 @@ Appears frontally initially for novel stimuli (P3a), but globally for all consci
 
 ![](Harley_fig10_1.jpg){.absolute top="100" right="100" height="450"}
 
+# Who is Conscious?
 
+**Conscious Animals**</br>
+**Babies and Development of Consciousness**
 
+---
 
 ## The evolution of the brain
 - Which animals are conscious?
 
+![](Harley_fig.1_10.jpg){.absolute bottom="0" right="0" height="450"}
+![](Harley_fig10_2.jpg){.absolute bottom="0" left="100" height="450"}
 
-![](Harley_fig10_2.jpg){.absolute bottom="50" right="100" height="550"}
+
+## Conscious Animals? Monkeys?{.smaller}
+
+> “He who understands baboons would do more for metaphysics than Locke” - Charles Darwin, Notebooks (1838)
+
+- Do animals have consciousness even though they can’t describe it?
+    - Short answer, yes.Consciousness is not unique to humans.
+    
+- The dense network of connections that give rise to consciousness are found in macaque monkeys, and workspace possibly in all mammals.
+    - Although monkeys cannot verbally report conscious awareness, 
+they can produce non-verbal gesture for if they consciously perceived what occured in the experiment. 
+     -  Binocular rivalry, masking, subliminal & threshold 
+     - Litmus test of conscious auditory perception (beep beep boop) (only globally) 
+
+
+## Self-conscious Monkeys? 
+
+- Metacognition:   
+   - thoughts about your thoughts, *known-knowns*, *known-unknowns*, *unknown-unknowns* 
+
+-  Macaque monkeys generalized use of opt-out key to memory task 
+   - “escape” response on difficult tasks 
+
+
+
+## Uniquely Human abilities of Consciousness{.smaller}
+
+- What sets humans apart? 
+    -  Sheer Brain size? Language? Social cooperation? 
+    
+> Only Homo sapiens “use[s] words or other signs by composing them, as we do to declare our thoughts to others.” -Descartes 
+
+- “Language of thought” 
+    -  Perhaps language evolved as a representational device rather than communication system 
+    -  In all primates, consciousness initially evolved as a communication device 
+    -  In humans alone this was amplified by a second evolution 
+    -  Ability to formulate sophisticated beliefs and to share them 
+    -  Example: “he thinks that I do not know that he lied”
 
 
 ## The development of consciousness
@@ -119,16 +163,173 @@ Appears frontally initially for novel stimuli (P3a), but globally for all consci
 
 ![](Harley_fig10_3.jpg){.absolute bottom="100" right="100" height="350"}
 
-
-## Can incomplete brains be conscious?
-- Anencephaly
-- Hydrocephaly
+## Conscious Babies?{.smaller}
 
 
-![](Harley_fig10_4.jpg){.absolute bottom="0" right="100" height="550"}
+The Great Mistake: Confuse immaturity with dysfunction
+
+- Babies cortex begins to form and fold at 6 months in womb
+- Babies are largely attracted to language (Language Acquisition Device)
+
+- Dehaene Experiment: 
+     - Use fMRI to look inside *2 month old* infants' heads  </br>
+		while listening to their maternal language.
+     - Language areas lit up in the brain 
+        - even Broca’s area 
+
+- Infants language areas work, but... 
+   - at much slower pace
+- Evidence of working memory: 2 months
+
+![](fig34.png){.absolute bottom="-50" right="100" height="400"}
 
 
-## The thalamus and thalamo-cortical loop
+
+## Conscious Babies: Global Conscious Response{.smaller}
+
+- Local-Global Test: repeating series of sounds to test consciousness 
+    - Evoked P3 waves: subject has conscious access
+- Dehaene and wife ran adapted test to keep toddlers attention
+- Results: 2-month old babies were already emitting global conscious
+response to novelty
+- Babies responses to test still much slower than adults
+
+
+
+## Conscious Babies: Visual Masking{.smaller}
+
+
+- Faces shown at or near threshold of visibility
+     - for adults: 50 ms, for babies: 100 ms
+     - Difference in time gets made up by 12 months
+- Frontal negativity waves in Prefrontal cortex similar to adult P3 wave
+     - Babies experiencing a stimulus, but can’t report it aloud
+
+
+![](fig35.png)
+
+
+# The Ultimate Test of Theories of Consciousness
+
+![](Harley_fig10_4.jpg){.absolute bottom="-200" right="0" height="400"}
+
+**Can incomplete brains be conscious?** 
+
+- Anencephaly  
+- Hydrocephaly  
+
+[A rare neurological disorder seen </br> that may have been sparked by RSV](https://www.mprnews.org/story/2022/11/29/a-rare-neurological-disorder-seen-that-may-have-been-sparked-by-rsv)
+
+---
+
+## Introduction{.smaller}
+
+::: {.column width="50%"}
+The ultimate test to theories of consciousness: the clinic
+  
+- Current science of consciousness is coming close to being able to identify which patients retain a conscious life and those who do not. 
+
+
+- Clinical interventions 
+    - Stimulation of brain’s **deep nuclei** can speed up recovery of consciousness
+    - **Brain-computer interfaces** (BCI) may restore form of communication to locked-in patients who are conscious though fully paralyzed
+:::
+
+![](islandsGBSLIS.jpg){.absolute top="50" right="0" height="600"}
+
+
+## Literary Depiction & Acknowledgment{.smaller}
+
+#### The Count of Monte Cristo
+
+- Alexandre Dumas	- One of the first literary descriptions of locked-in syndrome (Monsieur Noirtier)
+
+#### The Diving Bell And The Butterfly
+
+- Jean-Dominique Bauby 
+    - 21 day coma, awoke to find himself fully paralyzed except one eye and part of his head
+    - Conceived, memorized, dictated, and published a book (The Diving Bell and the Butterfly) on his experiences over the course of 15 months before his death 
+    - Dictated the book one character at a time by blinking his left eyelid while and assistant recited the letters
+    - Imprisoned in a motionless body which he describes as a diving bell and his fully intact mind as a butterfly 
+
+
+## Survey by the French Association of Locked-In Syndrome{.smaller}
+
+A *good* theory of consciousness predicts why some lose consciousness & others do not
+
+- Person who first detects the consciousness in locked-in patients usually not the physician 
+- Average duration of 2 ½ months elapses before a correct diagnosis is established, some even as late as 4 years 
+    - signs of consciousness can literally mean life or death for crippled patients
+    - The field is now moving toward simpler and cheaper methods to detect consciousness
+- Voluntary eye movements dismissed as reflexive
+    - 40% of those initially classified as unresponsive and “vegetative” turn out to present minimal consciousness
+
+
+## Coma: How to Lose Your Mind{.smaller}
+
+- A prolonged loss of the capacity to be roused.
+- The patient lies unresponsive with eyes closed.
+- No amount of stimulation can awaken them and they show no signs of awareness of self or environment.
+
+![](f29_loose_mind.png){.absolute bottom="-50" right="200" height="450"}
+
+
+## How Neurologists Distinguish </br> Coma from Brain Death{.smaller}
+
+**Brain Death** 
+
+- total absence of brainstem reflexes.
+- Positron Emission tomography (PET) and other measures show that cortical metabolism and perfusion of blood to the brain are annihilated.
+- Cortical and thalamic neurons quickly degenerate and melt away, erasing all lifelong memory that define a person 
+  
+**Coma**
+
+- EEG of coma patients continue to fluctuate at a slow rate, producing low-frequency waves
+- Many cortical and thalamic cells are still alive and active but inappropriate network state.
+
+
+
+## Neurological Disorders{.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+**Vegetative state** 
+
+- preserved sleep wake cycle with no signs of consciousness. 
+- The patient breathes spontaneously when fed artificially does not die.
+    - Ex. Terri Schiavio
+  
+**Minimally conscious state**
+
+- rare, inconsistent and limited response residual comprehension and volition
+- Unlike vegetative patient who smiles or cries at random times, minimally conscious patient may also express emotions that are appropriately linked to the current context
+
+
+::: 
+::: {.column width="50%"}
+
+**Coma Recovery Scale** 
+
+- a series of objective bedside tests that are applied in a precisely controlled manner. Using this scale the medical team can distinguish between a vegetative patient and minimally conscious one with much greater accuracy.
+
+**Locked in syndrome**
+
+- Brainstem lesion disconnects cortex from spinal cord output pathways
+- Cortex & thalamus spared: consciousness entirely intact
+- Individuals suffering from locked-in-syndrome are fully conscious
+  
+
+:::
+:::
+
+:::{.notes}
+The confused sluggish state of mind that we all experience after being knocked out, anesthetized, or severely inebriated.
+Distinguish between a vegetative patient and a minimally conscious one with greater accuracy.
+:::
+
+## The thalamus and thalamo-cortical loop{.smaller}
+
 - All point to the role of the thalamus in maintaining consciousness
 - Are NCC frontal or posterior?
 - Resonance in the thalamo-cortical loop
@@ -156,26 +357,6 @@ Appears frontally initially for novel stimuli (P3a), but globally for all consci
 - Our neural system has to learn to become conscious
 - Prediction of Bodily, Affective, and Cognitive States
 
-## What is death?
-- Coma
-- Locked in syndrome
-- Persistent vegetative state
-
-
-![](Harley_fig10_7.jpg){.absolute bottom="0" right="100" height="450"}
-
-
-
-
-
-## Disorders of consciousness
-- Coma-like states
-- Persistent vegetative state (PVS)
-- Minimally conscious state (MCS)
-- Locked in syndrome (LIS)
-
-![](MormannKochNeuralCorrelatesOfConsciousness2.jpg){.absolute bottom="-50" right="0" height="500"}
-![](Harley_fig10_8.jpg){.absolute top="0" right="100" height="200"}
 
 
 ## Can we escape death?
