@@ -165,23 +165,25 @@ they can produce non-verbal gesture for if they consciously perceived what occur
 
 ## Conscious Babies?{.smaller}
 
+::: {.column width="60%"}
 
-The Great Mistake: Confuse immaturity with dysfunction
+The Great Mistake: Confusing immaturity with dysfunction
 
-- Babies cortex begins to form and fold at 6 months in womb
+- *Prenatal* 6 mo:  Cortex begins to form & fold
 - Babies are largely attracted to language (Language Acquisition Device)
 
 - Dehaene Experiment: 
-     - Use fMRI to look inside *2 month old* infants' heads  </br>
-		while listening to their maternal language.
+     - Use fMRI to look inside *2 month old*  </br> infants' heads 
+		while listening to maternal language.
      - Language areas lit up in the brain 
         - even Broca’s area 
 
 - Infants language areas work, but... 
    - at much slower pace
 - Evidence of working memory: 2 months
+:::
 
-![](fig34.png){.absolute bottom="-50" right="100" height="400"}
+![](fig34.png){.absolute top="50" right="-100" height="600"}
 
 
 
@@ -257,7 +259,7 @@ The ultimate test to theories of consciousness: the clinic
 
 A *good* theory of consciousness predicts why some lose consciousness & others do not
 
-- Person who first detects the consciousness in locked-in patients usually not the physician 
+- Person who first detects consciousness in locked-in patients usually not physician 
 - Average duration of 2 ½ months elapses before a correct diagnosis is established, some even as late as 4 years 
     - signs of consciousness can literally mean life or death for crippled patients
     - The field is now moving toward simpler and cheaper methods to detect consciousness
@@ -276,17 +278,23 @@ A *good* theory of consciousness predicts why some lose consciousness & others d
 
 ## How Neurologists Distinguish </br> Coma from Brain Death{.smaller}
 
+::: columns
+::: {.column width="50%"}
 **Brain Death** 
 
-- total absence of brainstem reflexes.
+- Total absence of brainstem reflexes.
 - Positron Emission tomography (PET) and other measures show that cortical metabolism and perfusion of blood to the brain are annihilated.
 - Cortical and thalamic neurons quickly degenerate and melt away, erasing all lifelong memory that define a person 
-  
+
+:::
+::: {.column width="50%"}
+
 **Coma**
 
-- EEG of coma patients continue to fluctuate at a slow rate, producing low-frequency waves
-- Many cortical and thalamic cells are still alive and active but inappropriate network state.
-
+- EEG of coma patients continue fluctuation at a slow rate, producing low-frequency waves
+- Many cortical and thalamic cells are still alive & active but in an inappropriate network state for wakefulness.
+:::
+:::
 
 
 ## Neurological Disorders{.smaller}
@@ -302,7 +310,7 @@ A *good* theory of consciousness predicts why some lose consciousness & others d
   
 **Minimally conscious state**
 
-- rare, inconsistent and limited response residual comprehension and volition
+- Rare, inconsistent and limited response residual comprehension and volition
 - Unlike vegetative patient who smiles or cries at random times, minimally conscious patient may also express emotions that are appropriately linked to the current context
 
 
@@ -311,7 +319,8 @@ A *good* theory of consciousness predicts why some lose consciousness & others d
 
 **Coma Recovery Scale** 
 
-- a series of objective bedside tests that are applied in a precisely controlled manner. Using this scale the medical team can distinguish between a vegetative patient and minimally conscious one with much greater accuracy.
+- A series of objective bedside tests that are applied in a precisely controlled manner. 
+- Using this scale the medical team can distinguish between a vegetative patient and minimally conscious one with much greater accuracy.
 
 **Locked in syndrome**
 
@@ -344,10 +353,10 @@ Distinguish between a vegetative patient and a minimally conscious one with grea
 
 ![](Harley_fig10_6.jpg){.absolute bottom="0" left="50" height="350"}
 
-## Integrated information theory
+## Integrated information theory (IIT)
 - Consciousness is information being linked and integrated
 - Tononi
-- [Phi as a measure](http://www.scholarpedia.org/article/Integrated_information_theory)
+- [Phi (φ) as a measure](http://www.scholarpedia.org/article/Integrated_information_theory)
 
 ![](MormannKochNeuralCorrelatesOfConsciousness2.jpg){.absolute bottom="-50" right="0" height="500"}
 
