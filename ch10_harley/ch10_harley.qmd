@@ -339,15 +339,11 @@ Distinguish between a vegetative patient and a minimally conscious one with grea
 
 ## The thalamus and thalamo-cortical loop{.smaller}
 
-- All point to the role of the thalamus in maintaining consciousness
+- All point to the role of the thalamus in (un-)consciousness 
 - Are NCC frontal or posterior?
 - Resonance in the thalamo-cortical loop
 - Re-entry and the dynamic core hypothesis
-- The importance of the claustrum
 
-
-
-![](Harley_fig10_5.jpg){.absolute bottom="0" right="100" height="550"}
 
 
 
@@ -360,17 +356,22 @@ Distinguish between a vegetative patient and a minimally conscious one with grea
 
 ![](MormannKochNeuralCorrelatesOfConsciousness2.jpg){.absolute bottom="-50" right="0" height="500"}
 
+## Levels of Conscious: Coma, Sleep Stages, & Wakefulness{.smaller}
+
+![](LoC_EEG.png){.absolute bottom="-50" left="0" height="500"}
+
+
+## Levels of Conscious: Cellular States
+
+
+![](EEG_up_down.png){.absolute top="125" left="0" height="300"}
+![](TMS_state.png){.absolute bottom="-50" left="0" height="300"}
 
 ## Radical plasticity
 - Cleeremans
 - Our neural system has to learn to become conscious
 - Prediction of Bodily, Affective, and Cognitive States
 
-
-
-## Can we escape death?
-- Uploading our minds
-- Our effects on the world
 
 ## Summary
 - There are neural correlates of consciousness
