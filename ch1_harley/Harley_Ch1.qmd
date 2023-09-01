@@ -1,0 +1,334 @@
+---
+title: "Neuroscience of Consciousness Ch 1"
+format:
+  revealjs: 
+    theme: sky
+editor: visual
+---
+
+## The Problem of Consciousness Chapter 1
+
+#### WHY STUDY CONSCIOUSNESS?
+
+#### HOW WE STUDY CONSCIOUSNESS
+
+#### DEFINING CONSCIOUSNESS
+
+#### THE HARD AND EASY PROBLEMS OF CONSCIOUSNESS
+
+#### INTENTIONALITY: ARE WE ALWAYS CONSCIOUS OF SOMETHING?
+
+#### TYPES OF CONSCIOUSNESS
+
+#### THE PROBLEMS OF CONSCIOUSNESS
+
+## Philosophy and Consciousness {.smaller}
+
+> Consciousness is entwined with one of the fundamental concerns of philosophical thought, the problem of free will. Harley, p.4
+
+::: incremental
+**Homunculus** or "Cartesian Theater"
+
+-   Dualist concept that there's a movie screen where all the senses project onto and the human is able to sit and watch.
+:::
+
+::: incremental
+What is a "self"? (Is it stable?, permanent?)
+
+-   Homunculus suffers from "Infine Regress"
+:::
+
+## Philosophy and Consciousness {.smaller}
+
+> Consciousness is entwined with one of the fundamental concerns of philosophical thought, the problem of free will. Harley, p.4
+
+**Homunculus** or "Cartesian Theater"
+
+-   Dualist concept that there's a movie screen where all the senses project onto and the human is able to sit and watch.
+
+What is a "self"? (Is it stable?, permanent?)
+
+-   Homunculus suffers from "Infine Regress"
+
+![](intro/incept.gif){.absolute bottom="-50" right="0" height="350"}
+
+## Defining consciousness
+
+-   Definitions of consciousness
+-   Awareness v. Self-awareness
+-   The problem of other minds
+
+## Defining consciousness
+
+-   What is it like to be me?
+-   Why does it feel like something to be me?
+-   Awareness v self-awareness
+-   Awareness of being aware
+
+# Science of Consciousness
+
+## The problem of other minds
+
+-   We know what it is like to be ourselves
+-   But our experiences are private
+-   What is it like to be something else?
+
+## Thomas Nagel {background-color="black"}
+
+"What is it like to be a bat?" (1974)
+
+Bats use echolocation. Can we appreciate what it is like to be a bat?
+
+## Altered Reality {.smaller}
+
+::: columns
+::: {.column width="50%"}
+> According to a Japanese dictionary, 'art' is defined as 'human activities or works of art that attempt to create and express beauty by means of special materials, methods or forms.' In this light, it is questionable whether these pieces, a series of drawings on writing pads with no regards to techniques or an aesthetic sense, can be readily treated as art pieces. Rather, they may be more appropriately seen as an illustrated journal of his psychiatric symptoms.
+
+> However, this illustrated journal on symptoms offers a compelling charm beyond expression. One gazes at this illustrated journal and starts to imagine and experience his psychiatric symptoms as he might have gone through them. In clinical psychiatric practice, treatment often reaches a turning point when a patient's inner world and suffering, which are both hard to communicate by words, are visualized and then relived and understood by the family and the therapist.
+:::
+
+::: {.column width="50%"}
+![](intro/Psychiatry-ClinNsci-2020-cover.png)
+:::
+:::
+
+::: notes
+https://onlinelibrary.wiley.com/doi/full/10.1111/pcn.13089
+
+> After a head injury due to a fall at work, the patient had become delusional and hallucinatory, which had likely been exacerbated by alcohol abuse; this prompted him to be temporarily admitted to a psychiatric hospital. Ten years later, he was hospitalized again for delusions and hallucinations triggered by trouble with an inheritance. He received a diagnosis of schizotypal disorder and has been treated as an inpatient at a psychiatric hospital for about 10 years now.
+
+> The patient kept this illustrated journal for over 20 years. In the journal, every drawing was sequentially numbered, revealing that his inner experience had a sense of continuity. When asked about the reason for his drawing, he says: 'Drawing this helps me calm down.' He stopped drawing in 2019, though. 'I have drawn everything,' he explains as to why he stopped. It does not go beyond my imagination, but I suspect that by keeping this journal he has finally come to terms with the symptoms that agonized him for so many years.
+:::
+
+## The hard & easy problems of consciousness {background-color="ivory" background-image="intro/gap.jpg" background-size="cover"}
+
+::: columns
+::: {.column width="20%"}
+:::
+
+::: {.column width="50%"}
+**Hard Problem**
+
+-   why does it feel like *something* to be me?
+
+**"Easy" Problem(s)**
+
+-   spatial attention
+-   episodic memory
+-   visual perception
+-   wakefulness, etc.
+:::
+:::
+
+## Intentionality: are we always conscious of something?
+
+Often, we do and experience many things more or less reflexively.
+
+-   Can you be conscious but not conscious of something in particular?
+
+-   Volition is related to intentionality
+
+-   Free-will (Ch.3) is related to intentionality
+
+## Types of consciousness {.smaller}
+
+Phenomenal and Access consciousness (Ned Block)
+
+Experiencing vs. Attention, memory, language, reason
+
+|                  | *Access* | **No**   | Yes     |
+|------------------|----------|----------|---------|
+| ***Phenomenal*** |          |          |         |
+| **No**           |          | Tree     | *Robot* |
+| **Yes**          |          | *Rodent* | Human   |
+|                  |          |          |         |
+
+: Seperability of Types of Consciousness
+
+::: incremental
+Other types of consciousness
+
+-   Self-consciousness (e.g., identity, narrative, social)
+-   Secondary consciousness (e.g., past, future, imagined)
+-   Degrees of consciousness
+:::
+
+::: notes
+-   **Phenomenal consciousness** is what we experience:
+    -   it's what it's like to be us.
+    -   It's the sensations of perception from the outside, and the experience of wanting, thinking, and feeling from the inside.
+    -   covered for most of ch 1
+    -   for many understanding phenomenal consciousness is the central "hard problem"to be addressed.
+-   **Access consciousness** is concerns language, thought, controlling action, and reasoning.
+    -   Access consciousness concerns what we talk and think about, and importantly, it's what we can report
+    -   so it's our thoughts, feelings, and desires themselves(rather than our experience of them) and
+    -   the representations that are manipulated in cognition.
+:::
+
+## A cone of consciousness?
+
+![](intro/Hofstat_cone.png){.absolute top="100" right="200" height="600"}
+
+::: notes
+Figure 1.10. Hofstadter's "consciousness cone". Most people think that consciousness is a graded phenomena: some organisms have "more" of it than others. Is this lay belief correct?
+:::
+
+## The History of Research of
+
+### consciousness: Pre-Civilization to Present
+
+::: columns
+::: {.column width="50%"}
+-   Philosophy
+
+Late Nineteenth Century
+
+-   Psychology
+    -   Experimental psychology
+:::
+
+::: {.column width="50%"}
+Early to mid 20th Century
+
+-   Behaviourism
+    -   No mind
+-   Cognitive science
+    -   No consciousness
+:::
+:::
+
+::: notes
+-   Behaviorist: no mind (only stimulus and behavioral response) science isn't concerned with what cannot be measured
+-   Cognitive certain things are remembered differently than others (seems to be structure) linguistics, cognitive maps - dreaming rats, object recognition
+:::
+
+## Consciousness in Psychology
+
+William James, The Principles of Psychology, Vol. 1, 1890 ![:image 75%](intro/james.jpg)
+
+## Stream of Consciousness
+
+::: columns
+::: {.column width="40%"}
+![](intro/principles.png)
+:::
+
+::: {.column width="60%"}
+[The Principles of Psychology](https://books.google.com/books?id=JLcAAAAAMAAJ&dq=william%20james&pg=PA279&output=embed%22)
+:::
+:::
+
+## Introspection
+
+::: columns
+::: {.column width="40%"}
+![](intro/Wundt.jpg) Wilhelm Maximillian Wundt
+:::
+
+::: {.column width="60%"}
+![](intro/wundt_complication_dial.jpg) Introspection Experiment
+:::
+:::
+
+## Ban on Consciousness
+
+> Consciousness is a word worn smooth by a million tongues. Depending upon the figure of speech chosen it is a state of being, a substance, a process, a place, an epiphenomenon, an emergent aspect of matter, or the only true reality. Maybe we should ban the word for a decade or two until we can develop more precise terms for the several uses which "consciousness" now obscures. - George Miller, 1962.
+
+from *Psychology: The Science of Mental Life.*
+
+## The "Problems" of Consciousness {.smaller}
+
+::: columns
+::: {.column width="40%"}
+::: incremental
+-   The hard problem
+:::
+
+::: incremental
+-   The temporal problem
+:::
+
+::: incremental
+-   The free will problem
+:::
+
+::: incremental
+-   The why problem
+:::
+
+::: incremental
+-   The self problem
+:::
+:::
+
+::: {.column width="60%"}
+::: incremental
+-   The unconscious problem
+:::
+
+::: incremental
+-   The cognitive problem
+:::
+
+::: incremental
+-   The binding problem
+:::
+
+::: incremental
+-   The neural correlates problem
+:::
+
+::: incremental
+-   The altered states problem
+:::
+
+::: incremental
+-   The science problem
+:::
+:::
+:::
+
+::: notes
+-   The hard problem
+
+Why does it feel like something to be me? Why do sensations appear to us as they are?
+
+-   The temporal problem
+
+Why do I have the illusion of choosing to act when my brain has apparently already made that decision moments ago. The brain activity associated with consciousness appears too late for conscious decision making.
+
+-   The free will problem
+
+How and why do I have the illusion of choice and control if all of my actions are determined?
+
+-   The why problem
+
+Why are do all humans appear to be conscious, but many animals get along just fine without being self-aware or even show many hallmarks associated with consciousness? Why are some really complex things not conscious? Is consciousness automatically associated with consciousness?
+
+-   The self problem
+
+Who is this I who thinks they have a choice? Who is experiencing my experiences?
+
+-   The unconscious problem
+
+Why are some things conscious and others unconscious? Does consciousness give us anything extra?
+
+-   The cognitive problem
+
+does something as complicated as an intact human have to be conscious? What is it about our cognitive machinery? Where does consciousness fit into cognitive processing?
+
+-   The binding problem
+
+How do different sensations get bound together so that we perceive one object with all the associated emotions?
+
+-   The neural correlates problem
+
+How does the brain give rise to consciousness? Are there certain brain structures we can identify that are active when we engage in certain sorts of processing? What about brain damage?
+
+-   The altered states problem
+
+What do we mean by a normal state of consciousness? What causes an alteration in our state of consciousness??
+
+-   The science problem Using the scientific tools we have can we even give a complete account of consciousness?
+:::

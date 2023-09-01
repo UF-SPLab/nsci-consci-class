@@ -1,0 +1,186 @@
+---
+title: "Welcome to Neuroscience of Consciousness"
+format:
+  revealjs: 
+    theme: sky
+editor: visual
+---
+
+## Course Material
+
+::: columns
+::: {.column width="70%"}
+![](perusal_harley.png)
+:::
+
+::: {.column width="30%"}
+![](nunez.jpg)
+:::
+:::
+
+## Assessment & Grading
+
+::: incremental
+-   **Discussion & Participation** intensive course *(15%)*
+:::
+
+::: incremental
+-   Online reading and discussion with **Perusall** *(15%)*
+:::
+
+::: incremental
+-   5 Assignments *(7% each: 35% total)*
+    -   3 group presentations (with self & peer evaluation)
+    -   2 response papers
+:::
+
+::: incremental
+-   3 Exams *(15% each: 45% total)*
+    -   short essay 7-10 questions in each exam
+:::
+
+Course total: *110%*
+
+## Topics for this course {.smaller}
+
+::: columns
+::: {.column width="50%"}
+**Medical Topics**
+
+::: incremental
+-   Functional States:
+    -   Circadian rhythms
+    -   Sleep & Dreaming
+-   Disruption of Functional States
+    -   Disorders of Consciousness:
+    -   Anesthesia
+:::
+
+::: incremental
+-   Altered States
+    -   Drug-induced States
+    -   States of Dysfunction: Scizophrenia and Dissociative Disorders
+:::
+:::
+
+::: {.column width="50%"}
+**Psychological Topics & Beyond**
+
+::: incremental
+-   Perception
+    -   Pain perception
+    -   Time awareness
+    -   Spatial awareness
+:::
+
+::: incremental
+-   Cognition
+    -   Working Memory
+    -   Long term Memory
+    -   Self-awareness and identity
+:::
+
+::: incremental
+-   Animal and Artifical Intelligence (AI)
+:::
+:::
+:::
+
+# Sentient Beings
+
+## 
+
+::: incremental
+-   Talk with person next to you.
+:::
+
+::: incremental
+-   One person first proposes a definition of what it means to be sentient.
+:::
+
+::: incremental
+-   Then the other person finds something wrong with it.
+:::
+
+::: incremental
+-   Don't be shy... even ridiculous definitions are worthwhile.
+:::
+
+## 
+
+::: {#sentient-poll}
+::: panel-tabset
+## Sentient
+
+[![QR Code](mentimeter_qr_code.png){fig-align="center" width="600"}](https://www.mentimeter.com/app/qrcode/aHR0cHM6Ly93d3cubWVudGkuY29tL2JsYmlnbzl4c2M3dA==)
+
+## Wordcloud
+
+::: {#fig-wc}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/blfh3f2gg7jwvnu3g2k2gr2d4fxh7afz/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+:::
+
+
+
+:::
+:::
+
+
+::: {background-opacity="0.1"  background-iframe="https://app.wooclap.com/FTDZNS?from=event-page" style="text-align: left; margin-top: 1em"}
+## [FTDZNS ](https://app.wooclap.com/FTDZNS?from=event-page){preview-link="true" style="text-align: center"}
+
+app.wooclap.com (web address)
+:::
+
+
+## Synonyms for Sentient
+
+::: columns
+::: {.column width="50%"}
+![](sentient.png)
+
+[thesaurus.plus](https://thesaurus.plus/img/synonyms/279/sentient.png)
+:::
+
+::: {.column width="50%"}
+![](sentient_gt.png) [grammartop.com](https://grammartop.com/sentient-synonyms/)
+:::
+:::
+
+## Introduction to Your Awareness
+
+::: columns
+::: {.column width="50%"}
+![](Kaninchen_und_Ente.png)
+:::
+
+::: {.column width="50%"}
+![](cade-face.png)
+:::
+:::
+
+## 
+
+::: columns
+::: {.column width="50%"}
+![:image 50%](facefacevase.jpg) ![:image 50%](facefacevaseman.jpg)
+:::
+
+::: {.column width="50%"}
+![:image 70%](vasefacechild.jpg) ![:image 70%](vaceface.jpg)
+:::
+:::
+
+## Am I Conscious now?
+
+::: incremental
+-   Write down what you were experiencing 60 seconds ago. (3 sentences)
+:::
+
+::: incremental
+-   Look around the room now & describe what you see. (3 sentences)
+:::
+
+::: incremental
+-   What did you hear?
+:::
