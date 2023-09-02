@@ -101,6 +101,8 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/pcn.13089
 > The patient kept this illustrated journal for over 20 years. In the journal, every drawing was sequentially numbered, revealing that his inner experience had a sense of continuity. When asked about the reason for his drawing, he says: 'Drawing this helps me calm down.' He stopped drawing in 2019, though. 'I have drawn everything,' he explains as to why he stopped. It does not go beyond my imagination, but I suspect that by keeping this journal he has finally come to terms with the symptoms that agonized him for so many years.
 :::
 
+# Hard and Easy Problems of Consciousness
+
 ## The hard & easy problems of consciousness {background-color="ivory" background-image="intro/gap.jpg" background-size="cover"}
 
 ::: columns
@@ -174,6 +176,8 @@ Other types of consciousness
 Figure 1.10. Hofstadter's "consciousness cone". Most people think that consciousness is a graded phenomena: some organisms have "more" of it than others. Is this lay belief correct?
 :::
 
+# A History of the Study of Counsiousness 
+
 ## The History of Research of
 
 ### consciousness: Pre-Civilization to Present
@@ -236,6 +240,8 @@ William James, The Principles of Psychology, Vol. 1, 1890 ![:image 75%](intro/ja
 > Consciousness is a word worn smooth by a million tongues. Depending upon the figure of speech chosen it is a state of being, a substance, a process, a place, an epiphenomenon, an emergent aspect of matter, or the only true reality. Maybe we should ban the word for a decade or two until we can develop more precise terms for the several uses which "consciousness" now obscures. - George Miller, 1962.
 
 from *Psychology: The Science of Mental Life.*
+
+# Consciousness, Today
 
 ## The "Problems" of Consciousness {.smaller}
 

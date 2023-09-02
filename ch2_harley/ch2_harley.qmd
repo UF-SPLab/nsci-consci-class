@@ -18,7 +18,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-
+# Relationships between Science, Knowledge, and Philosophy 
 
 ::: {background-opacity="0.5" background-iframe="knowledge_domain_science.pdf" style="text-align: left; margin-top: 1em; auto-play-media: true"}
 ## [Relationship: Theory vs Physical World](knowledge_domain_science.pdf){preview-link="true" style="text-align: center"}
@@ -41,7 +41,7 @@ we acquire knowledge just from experience, or is some knowledge innate? What can
 
 :::
 
-
+# The mind and the brain
 
 ## The mind and the brain
 
@@ -100,6 +100,25 @@ we acquire knowledge just from experience, or is some knowledge innate? What can
       - But doesn’t have to be
 - How does physical matter give rise to subjective experience?
 
+
+## Dualism vs Monism  {.scrollable .smaller}
+
+
+| Topic | Dualism | Monism |
+|-----|--------------|--------------|
+| Substance Dualism               | Proposes that mind and matter are fundamentally different substances. Fits well with intuitive experiences and beliefs about the soul. | N/A     |
+| Dualism Problems   | Faces the issue of how mind and matter interact; also, mental material is not accessible through physical or scientific methods. | N/A     |
+| Parallelism/Occasionalism   | Attempts to explain the interaction between mind and matter through divine intervention. | N/A     |
+| Property Dualism                | Introduces the concept that there is one substance but two kinds of properties: physical and mental. | N/A     |
+| Emergentism                     | N/A     | A form of property dualism; mental properties emerge when matter is organized in certain complex ways. |
+| Idealism                        | N/A     | Proposes that the world is fundamentally mental; material objects exist only in the mind. |
+| Materialism/Physicalism         | N/A     | Proposes that only physical matter exists, governed by the laws of physics. |
+| Neutral Monism                  | N/A     | Suggests that mind and matter are different aspects of a single substance. |
+
+
+# What does it mean to know?
+
+
 ## The knowledge argument
 
 - The "Mary" colour thought experiment
@@ -127,6 +146,19 @@ are taken out. What will Mary say? Will she learn anything new about colour, or 
 ![](Trevor A. Harley_fig. 2_4.jpg){.absolute bottom="0" right="100" height="300"}
 
 
+
+## Mary the Color Scientist {.scrollable .smaller}
+
+| Argument | Supports Dualism | Supports Monism |
+|-------|------------------|-----------------|
+| The "Mary" Colour Experiment | If Mary learns something new upon seeing color, it suggests that subjective experience (qualia) is not fully captured by physical explanations. | If Mary doesn't learn anything new, it suggests that complete physical knowledge is sufficient to account for subjective experiences. |
+| Dennett's Counterargument    | N/A              | Dennett argues that Mary would not be surprised, suggesting that subjective experiences can be fully understood through physical properties. |
+| Knowledge by Description vs Knowledge by Acquaintance | N/A | Churchland uses Bertrand Russell's distinction to argue that while Mary might gain a new form of knowledge (by acquaintance), this doesn't necessarily introduce new facts beyond physical explanations. |
+| Experience as Part of Knowledge | Some argue that Mary couldn't possibly know everything about the world without experiential knowledge, which could be seen as a point against materialist monism. | N/A |
+| The Hard Problem of Consciousness | The inability of materialist monism to solve the "hard problem" (how physical matter gives rise to subjective experience) can be seen as a point in favor of dualism. | Some argue that the "hard problem" might be an artifact of our current understanding and could be solved within a monist framework. |
+
+
+
 ## The inverted colour spectrum
 
 - Could you “see” violet when I “see” red?
@@ -139,10 +171,24 @@ are taken out. What will Mary say? Will she learn anything new about colour, or 
 http://www.scholarpedia.org/article/Color_vision
 ::: 
 
+
 ## Colour Perception
 
 ![](fig_9_17.png){.absolute top="200" left="-10" height="400"}
 ![](fig_9_24.png){.absolute top="200" right="-50" height="400"}
+
+
+
+## Inverted Color Spectrum {.scrollable .smaller}
+
+| Argument | Supports Dualism | Supports Monism |
+|-----|------------------|-----------------|
+| Inverted Spectrum Argument   | The idea that people could experience colors differently (e.g., your red is my green) and that this is undetectable suggests that subjective experiences (qualia) are not fully captured by physical explanations. | If it's possible to detect inversion behaviorally by asking people to make judgments about small differences in colors, then the physicalist view that all experiences can be explained physically is supported. |
+| Hofstadter's Critique        | N/A              | Hofstadter argues that the inverted spectrum argument is incoherent and that experiences are not detached from the physical brain or the world. This supports a monist view. |
+| Asymmetries in Color Space   | N/A              | The existence of asymmetries in color space could make it impossible to find an inversion that is behaviorally undetectable, supporting the idea that experiences can be fully explained physically. |
+| Neuroscience of Vision       | The argument that neuroscience can't tell us what we feel when we see red could be seen as a point in favor of dualism. | If neuroscience can eventually explain what we feel when we see colors, this would support monism. |
+| Relation to Other Colors     | The idea that something is left over about the "redness of red" and the "greenness of green" that isn't captured by their relation to other colors could be seen as a point in favor of dualism. | If the experience of colors can be fully described in terms of their relations to other colors and their positions in color space, this would support monism. |
+
 
 
 ## The problem of pain
@@ -160,9 +206,27 @@ Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary function o
 :::
 
 
+
+## The Problem of Pain {.scrollable .smaller}
+
+
+| Aspect/Argument                | Supports Dualism                                                                 | Supports Monism                                                                                     |
+|--------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Private Nature of Pain         | Pain is a private experience that cannot be fully described, supporting the idea that there is a non-physical aspect to experience. | N/A                                                                                                 |
+| Neuroscience of Pain           | While we understand the neurobiology of pain, this doesn't explain the subjective experience of pain, leaving room for a dualistic interpretation. | The detailed physiological account of pain suggests that the experience can be fully explained physically. |
+| Congenital Analgesia           | The existence of individuals who cannot feel pain suggests that the physical and mental aspects of pain are not identical, supporting dualism. | N/A                                                                                                 |
+| Painkillers and Dissociation   | The fact that painkillers can remove the sensation of pain while leaving the physical state unchanged suggests a dualistic view. | The existence of drugs that can modulate the experience of pain suggests that the experience is rooted in physical processes. |
+| Pain in Babies                 | The debate about whether babies feel pain could be seen as highlighting the difficulty of correlating physical and mental states, supporting dualism. | Advances in understanding the neurology of infants and fetuses suggest that the experience of pain is physically grounded. |
+| Argument by Analogy            | The argument by analogy to the existence of other minds suggests that we can never be certain about others' experiences, supporting dualism. | N/A                                                                                                 |
+| Wittgenstein's Critique        | Wittgenstein's critique questions the assumption that everyone experiences pain the same way, leaving room for dualistic interpretations. | N/A                                                                                                 |
+| Dennett's View                 | N/A                                                                                   | Dennett argues that our concept of pain is so defective that it doesn't refer to anything real, supporting a monistic view. |
+| Robots and Pain                | The question of whether a robot could feel pain highlights the difficulty of replicating subjective experiences, supporting dualism. | If it's possible to program a robot to avoid harm without it needing to "feel" pain, this could support a monistic view. |
+
+
+
 ## P-ZOMBIES
 
-- Philosophical zombies
+- Phenomenal zombies
    - Could we have a creature that appears in every way to be conscious, but isn’t?
 - Is consciousness essential?
 - Being conceivable
@@ -172,6 +236,25 @@ Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary function o
 
 
 :::
+
+
+
+
+## Phenomenal Zombies {.scrollable .smaller}
+
+
+| Argument/Idea                  | Suggests Consciousness is Essential | Suggests Consciousness is Non-Essential |
+|--------------------------------|------------------------------------|----------------------------------------|
+| Thought Experiments            | Different intuitions about thought experiments like p-zombies could suggest that consciousness has an essential role, depending on one's perspective. | Different intuitions about thought experiments like p-zombies could suggest that consciousness is non-essential, depending on one's perspective. |
+| Role of Pain                   | The experience of pain seems to serve a purpose in avoiding harm, suggesting that consciousness has a function. | P-zombies would also avoid harm without experiencing pain, suggesting consciousness is not essential for this function. |
+| Existence of P-Zombies         | If p-zombies cannot exist, then consciousness must serve some essential function. | If p-zombies can exist, then consciousness is a non-essential extra. |
+| Epiphenomenalism               | N/A                                | Consciousness doesn't play any causal role in our physical states. |
+| Conceivability vs. Possibility | If p-zombies are inconceivable, then consciousness might be essential. | If p-zombies are conceivable but not possible, it suggests that consciousness might be non-essential but somehow tied to our physical makeup. |
+| Dennett's Argument             | Dennett argues that consciousness is a complex of mental states, behaviors, and dispositions that cannot be simply dispensed with. | N/A |
+
+
+# To be, or ... what?
+
 
 ## Materialism
 
@@ -195,74 +278,6 @@ Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary function o
 :::
 
 
-## Dualism vs Monism  {.scrollable .smaller}
-
-
-| Topic | Dualism | Monism |
-|-----|--------------|--------------|
-| Substance Dualism               | Proposes that mind and matter are fundamentally different substances. Fits well with intuitive experiences and beliefs about the soul. | N/A     |
-| Dualism Problems   | Faces the issue of how mind and matter interact; also, mental material is not accessible through physical or scientific methods. | N/A     |
-| Parallelism/Occasionalism   | Attempts to explain the interaction between mind and matter through divine intervention. | N/A     |
-| Property Dualism                | Introduces the concept that there is one substance but two kinds of properties: physical and mental. | N/A     |
-| Emergentism                     | N/A     | A form of property dualism; mental properties emerge when matter is organized in certain complex ways. |
-| Idealism                        | N/A     | Proposes that the world is fundamentally mental; material objects exist only in the mind. |
-| Materialism/Physicalism         | N/A     | Proposes that only physical matter exists, governed by the laws of physics. |
-| Neutral Monism                  | N/A     | Suggests that mind and matter are different aspects of a single substance. |
-
-
-
-
-## Mary the Color Scientist {.scrollable .smaller}
-
-| Argument | Supports Dualism | Supports Monism |
-|-------|------------------|-----------------|
-| The "Mary" Colour Experiment | If Mary learns something new upon seeing color, it suggests that subjective experience (qualia) is not fully captured by physical explanations. | If Mary doesn't learn anything new, it suggests that complete physical knowledge is sufficient to account for subjective experiences. |
-| Dennett's Counterargument    | N/A              | Dennett argues that Mary would not be surprised, suggesting that subjective experiences can be fully understood through physical properties. |
-| Knowledge by Description vs Knowledge by Acquaintance | N/A | Churchland uses Bertrand Russell's distinction to argue that while Mary might gain a new form of knowledge (by acquaintance), this doesn't necessarily introduce new facts beyond physical explanations. |
-| Experience as Part of Knowledge | Some argue that Mary couldn't possibly know everything about the world without experiential knowledge, which could be seen as a point against materialist monism. | N/A |
-| The Hard Problem of Consciousness | The inability of materialist monism to solve the "hard problem" (how physical matter gives rise to subjective experience) can be seen as a point in favor of dualism. | Some argue that the "hard problem" might be an artifact of our current understanding and could be solved within a monist framework. |
-
-## Inverted Color Spectrum {.scrollable .smaller}
-
-| Argument | Supports Dualism | Supports Monism |
-|-----|------------------|-----------------|
-| Inverted Spectrum Argument   | The idea that people could experience colors differently (e.g., your red is my green) and that this is undetectable suggests that subjective experiences (qualia) are not fully captured by physical explanations. | If it's possible to detect inversion behaviorally by asking people to make judgments about small differences in colors, then the physicalist view that all experiences can be explained physically is supported. |
-| Hofstadter's Critique        | N/A              | Hofstadter argues that the inverted spectrum argument is incoherent and that experiences are not detached from the physical brain or the world. This supports a monist view. |
-| Asymmetries in Color Space   | N/A              | The existence of asymmetries in color space could make it impossible to find an inversion that is behaviorally undetectable, supporting the idea that experiences can be fully explained physically. |
-| Neuroscience of Vision       | The argument that neuroscience can't tell us what we feel when we see red could be seen as a point in favor of dualism. | If neuroscience can eventually explain what we feel when we see colors, this would support monism. |
-| Relation to Other Colors     | The idea that something is left over about the "redness of red" and the "greenness of green" that isn't captured by their relation to other colors could be seen as a point in favor of dualism. | If the experience of colors can be fully described in terms of their relations to other colors and their positions in color space, this would support monism. |
-
-
-
-## The Problem of Pain {.scrollable .smaller}
-
-
-| Aspect/Argument                | Supports Dualism                                                                 | Supports Monism                                                                                     |
-|--------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Private Nature of Pain         | Pain is a private experience that cannot be fully described, supporting the idea that there is a non-physical aspect to experience. | N/A                                                                                                 |
-| Neuroscience of Pain           | While we understand the neurobiology of pain, this doesn't explain the subjective experience of pain, leaving room for a dualistic interpretation. | The detailed physiological account of pain suggests that the experience can be fully explained physically. |
-| Congenital Analgesia           | The existence of individuals who cannot feel pain suggests that the physical and mental aspects of pain are not identical, supporting dualism. | N/A                                                                                                 |
-| Painkillers and Dissociation   | The fact that painkillers can remove the sensation of pain while leaving the physical state unchanged suggests a dualistic view. | The existence of drugs that can modulate the experience of pain suggests that the experience is rooted in physical processes. |
-| Pain in Babies                 | The debate about whether babies feel pain could be seen as highlighting the difficulty of correlating physical and mental states, supporting dualism. | Advances in understanding the neurology of infants and fetuses suggest that the experience of pain is physically grounded. |
-| Argument by Analogy            | The argument by analogy to the existence of other minds suggests that we can never be certain about others' experiences, supporting dualism. | N/A                                                                                                 |
-| Wittgenstein's Critique        | Wittgenstein's critique questions the assumption that everyone experiences pain the same way, leaving room for dualistic interpretations. | N/A                                                                                                 |
-| Dennett's View                 | N/A                                                                                   | Dennett argues that our concept of pain is so defective that it doesn't refer to anything real, supporting a monistic view. |
-| Robots and Pain                | The question of whether a robot could feel pain highlights the difficulty of replicating subjective experiences, supporting dualism. | If it's possible to program a robot to avoid harm without it needing to "feel" pain, this could support a monistic view. |
-
-
-
-## Phenomenal Zombies {.scrollable .smaller}
-
-
-| Argument/Idea                  | Suggests Consciousness is Essential | Suggests Consciousness is Non-Essential |
-|--------------------------------|------------------------------------|----------------------------------------|
-| Thought Experiments            | Different intuitions about thought experiments like p-zombies could suggest that consciousness has an essential role, depending on one's perspective. | Different intuitions about thought experiments like p-zombies could suggest that consciousness is non-essential, depending on one's perspective. |
-| Role of Pain                   | The experience of pain seems to serve a purpose in avoiding harm, suggesting that consciousness has a function. | P-zombies would also avoid harm without experiencing pain, suggesting consciousness is not essential for this function. |
-| Existence of P-Zombies         | If p-zombies cannot exist, then consciousness must serve some essential function. | If p-zombies can exist, then consciousness is a non-essential extra. |
-| Epiphenomenalism               | N/A                                | Consciousness doesn't play any causal role in our physical states. |
-| Conceivability vs. Possibility | If p-zombies are inconceivable, then consciousness might be essential. | If p-zombies are conceivable but not possible, it suggests that consciousness might be non-essential but somehow tied to our physical makeup. |
-| Dennett's Argument             | Dennett argues that consciousness is a complex of mental states, behaviors, and dispositions that cannot be simply dispensed with. | N/A |
-
 
 
 
@@ -282,15 +297,11 @@ Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary function o
 
 :::
 
-
 ## A Function for Consciousness?
-
-
 
 
 - [https://en.wikipedia.org/wiki/Function](https://en.wikipedia.org/wiki/Function)
 - [https://en.wikipedia.org/wiki/Function_(biology)](https://en.wikipedia.org/wiki/Function_(biology))
-
 
 
 
