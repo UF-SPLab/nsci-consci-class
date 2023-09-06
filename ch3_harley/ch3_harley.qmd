@@ -28,6 +28,11 @@ editor_options:
 :::
 
 
+## Determinism
+
+"Determinism" is the idea that the next state of something is determined purely by its current state and history, and current state is also predictive of future states. This is a principle that, in theory, could apply to all physical systems, including the universe as a whole.
+
+
 
 
 ## People and objects {background-image="pool_sim.gif" background-color="black" background-opacity=0.4}
@@ -67,14 +72,25 @@ editor_options:
 :::
 
 
-## Rehoboam {background-color="black" background-image="Opening-Titles-Rehoboam.jpg" background-size="contain" background-opacity=0.7}
+## {.smaller .scrollable}
 
-::: {.blockquote}
+| Entity/System                  | Future State Determined By                  | Mediating Factors                                                                |
+|--------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------|
+| Ball                           | Laws of Physics                             | Simple object, behavior completely determined by physical laws.                         |
+| Pool/Billiards/Snooker Table   | Laws of Physics                             | Complicated system but still governed by physical laws.                                 |
+| Earth-Moon System              | Laws of Physics                             | A more complicated version of a billiards table, but still determined by physical laws. |
+| Planetary Orbits (e.g., Jupiter and Saturn) | Laws of Physics, Calculus | Higher-level interactions in gravity can be described using calculus.                   |
+| Humans                         | Free Will                                   | Appear to have the ability to choose between alternative courses of action.              |
+| Universe                       | Laws of Physics                             | If the exact state is known, future states can be determined by applying physical laws. |
 
->Rehoboam is a Quantum AI computer system owned and operated by the Incite corporation. It is used for the social engineering of whole populations.
-Rehoboam's main function is to impose an order to human affairs by careful manipulation and prediction of the future made possible by analysis of the large data set Incite have collected.
 
-::: 
+:::{.notes}
+
+Granger Causality: an asymmetric measure of mutual information in a time series where prior states of one entity predicts states of another better than the other entity's own history. 
+
+:::
+
+
 
 
 # Determinism and/or free will?
@@ -111,16 +127,86 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 - An homunculus is a small being sitting in another one watching what is going on and deciding to act
 - The homunculus is in a Cartesian theatre where all sensory information is displayed
 
+
+## {.smaller .scrollable}
+
+
+
+| Aspect                        | Humans                                                                                     | Roborat                                                                                     |
+|-------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Consciousness                 | Believed to have conscious control over actions; however, research suggests this might be an illusion. | Not aware it is under external control; acts as if it has free will.                         |
+| Control Mechanism             | Brain events cause consciousness; free will is debated.                                     | Electrodes implanted in motor cortex and medial forebrain bundles control actions.          |
+| Awareness of Control          | Generally believe they are in control of their actions.                                     | Unaware of external control; believes it is acting of its own accord.                        |
+| Reward System                 | Psychological and physiological rewards motivate behavior.                                   | Medial forebrain bundles stimulated as part of the reward system to guide behavior.         |
+| External Influence            | Social, environmental, and possibly unknown factors.                                        | Direct external control via electrodes and transmitter.                                     |
+| Complexity                    | Complex cognitive functions, including self-reflection and the ability to question free will. | Simple cognitive functions; cannot reflect upon its situation.                               |
+| Free Will                     | Controversial; some believe in free will, while others think it's an illusion.               | Appears to act on "free will," but it's actually controlled by external signals.             |
+| Purpose of Actions            | Actions often driven by complex motivations, goals, and beliefs.                            | Actions are conditioned responses to specific signals sent to the brain.                     |
+| Ethical Considerations        | Ethical considerations often guide behavior.                                                | No ethical considerations; acts based on conditioning and external control.                  |
+| Self-Reflection               | Capable of questioning the nature of consciousness and free will.                           | Incapable of self-reflection or questioning its state.                                       |
+
+:::{.notes}
+
+
+:::
+
+
 ## The benefits of believing in free will
 
 - If it is an illusion, what are the advantages of believing that we have free will?
 - It enables us to tell a story about our lives - Wegner
 - It affects how we behave (maybe?) 
 
+
+## {.smaller .scrollable}
+
+
+
+| Benefits from Believing in  Free Will                          | Potential harm of Believing in Free Will                          |
+|---------------------------------------------------------|---------------------------------------------------------|
+| Helps maintain a narrative of events in our lives.      | Can lead to attributing control where there is none.    |
+| Gives a sense of responsibility and morality.           | May encourage superstitious beliefs and magical thinking.|
+| Helps maintain social cohesion and group dynamics.      |                                                         |
+| Encourages proactive behavior and action.               |                                                         |
+| Research suggests it leads to more moral behavior, less cheating, and more willingness to help others. | Research on these effects is not universally accepted and may be short-lived. |
+|                                                         | Raises questions about the role of consciousness if everything is decided unconsciously. |
+
+
+:::{.notes}
+
+The text suggests that the belief in free will serves various psychological and social functions, such as providing a narrative for our lives and encouraging moral behavior. However, this belief can also lead to misconceptions, like attributing control to events where we have no influence, and can complicate our understanding of consciousness.
+
+:::
+
+
 ## Compatibilism
 
 - Compatibilism is the idea that free will is compatible with determinism after all
 - But how?
+
+
+## {.smaller .scrollable}
+
+
+| Philosophical Position | Support for Free Will                                                                                     | Against Free Will                                                                                     |
+|------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Determinism            | -                                                                                                         | Believes that all events, including human actions, are determined by preceding events and laws of nature. Only one possible future.                              |
+| Compatibilism          | Argues that free will and determinism can co-exist. People could have acted otherwise than they do.      | Must identify the flaw in the argument for determinism. Actions may still be seen as mediating history. State of the brain is determined by history.           |
+| Incompatibilism        | -                                                                                                         | Denies that free will and determinism can co-exist.                                                                               |
+| Libertarianism         | Maintains free will by giving up on determinism. Various versions exist, some accepting dualism.          | -                                                                                                      |
+
+:::{.notes}
+
+
+- **Compatibilism**: Philosophers like Thomas Hobbes argue that individuals are the source of any decision, and thus morally responsible. Daniel Dennett suggests considering the whole system, not just the "illusory 'I'" that we think is making a decision.
+  
+- **Incompatibilism**: This position can lead to libertarianism, which maintains free will by rejecting determinism. Versions of libertarianism vary, with some accepting dualism and others, like those proposed by Robert Kane and Robert Nozick, not requiring a rejection of materialism.
+
+- **General Observations**: Peter Strawson suggests that the problems of free will and determinism may be more about language than actual philosophical issues. Regardless of the philosophical stance, the text suggests that people will continue to think in terms of moral responsibility and right and wrong.
+
+:::
+
+
 
 # Behavior and Making Decisions
 
@@ -142,6 +228,79 @@ Rehoboam's main function is to impose an order to human affairs by careful manip
 
 - Should we punish or treat psychopaths?
 - Differences in the structure of the amygdala in people with psychopathy
+
+##
+
+
+| Factors Establishing Accountability | Factors Undermining Accountability                                                                                   |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Legal definitions of sanity         | Legal definitions of insanity or diminished responsibility (e.g., not guilty by reason of insanity)                    |
+| Level of insight into one's actions | Mental illnesses like schizophrenia                                                                                  |
+|                                     | Antisocial Personality Disorder (ASPD) or psychopathy, characterized by low empathy, lack of remorse, etc.            |
+|                                     | Neurological differences, such as amygdala malfunction or prefrontal cortex hyper-arousal                            |
+|                                     | Lower levels of neurotransmitter serotonin                                                                           |
+|                                     | Early traumatic life events or brain differences present at birth                                                    |
+|                                     | Social factors like early poverty, social deprivation, parental unemployment                                        |
+|                                     | Childhood trauma, neglect, and abuse                                                                                 |
+|                                     | Personality traits that make one more prone to risk-taking                                                           |
+
+
+
+## Criminal Behavior & moral responsibility {.smaller}
+### Determinism vs. Free-Will 
+
+| Viewpoint  | Argument for Responsibility                                                                                     | Argument Against Responsibility                                                                                     |
+|------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Free Will   | Individuals have the ability to choose between different courses of action, making them morally responsible for their choices. | If free will is an illusion, as some argue, then holding individuals fully responsible for their actions becomes problematic. |
+| Determinism | If actions are determined by prior events and conditions, then society can hold individuals responsible as a form of social contract, even if they couldn't have acted otherwise. | If all actions are predetermined by prior events, then the concept of moral responsibility is undermined. Individuals may not be fully responsible for their actions if they are simply "mediating history." |
+
+
+
+
+## Punishment, Rehabilitation, Treatment? {.smaller}
+
+**Mental Illness**
+
+- Should individuals with ASPD  be treated the same as those with schizophrenia?  
+   - both are classified as disorders. 
+   
+- The law often considers people with ASPD to have a level of insight into their actions.
+- Individuals with conditions like schizophrenia are often considered to have diminished responsibility, aligning more with the deterministic viewpoint that these individuals are not fully in control of their actions.
+
+  
+  
+**Neurological Factors** 
+
+Studies have shown that the brains of people with ASPD function differently, particularly in the amygdala and prefrontal cortex. This raises questions about their level of responsibility.
+
+
+-  The text mentions that the brains of people with ASPD are systematically different, which could be used to argue both for and against responsibility depending on one's viewpoint on free will and determinism.
+
+
+**Social/Environmental Factors**
+
+- Early social conditions like early development malnutrition and social neglect can increase likelihood of later criminal behavior, raising questions about moral responsibility.
+
+- The deterministic viewpoint might argue that these individuals are less responsible for their actions due to these external factors. 
+
+- A free-will perspective might still hold them accountable.
+
+
+- **Neuroethics and Neurocriminology** 
+
+- These fields study the implications of neuroscience for understanding morality, ethics, and criminal behavior. 
+- Explore questions like whether it is ethical to treat someone with ASPD against their will.
+- These fields explore the ethical implications of neuroscience findings on questions of free will, determinism, and moral responsibility.
+
+
+**Antisocial Personality Disorder (ASPD)**  
+
+- Should individuals with ASPD should be held responsible for their actions?
+
+- Western law tends to hold individuals responsible, suggesting a free-will perspective that they could have acted otherwise.
+
+
+
 
 ## Deciding to act
 
@@ -221,3 +380,14 @@ On several different levels, from neurotransmitters through neuron firing rates 
 
 - Free will is the sense that we are in control of our destinies and can choose between alternatives
 - But in a deterministic universe, how can this feeling be anything other than an illusion?
+
+
+
+## Rehoboam {background-color="black" background-image="Opening-Titles-Rehoboam.jpg" background-size="contain" background-opacity=0.7}
+
+::: {.blockquote}
+
+>Rehoboam is a Quantum AI computer system owned and operated by the Incite corporation. It is used for the social engineering of whole populations.
+Rehoboam's main function is to impose an order to human affairs by careful manipulation and prediction of the future made possible by analysis of the large data set Incite have collected.
+
+::: 
