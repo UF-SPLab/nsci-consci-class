@@ -10,6 +10,5 @@
 
 - [Nunez Ch2](https://uf-splab.github.io/nsci-consci-class/ch2_nunez/ch2_nunez.html)
 - [Nunez Ch3](https://uf-splab.github.io/nsci-consci-class/ch3_nunez/ch3_nunez.html)
-- [Nunez Ch4](https://uf-splab.github.io/nsci-consci-class/ch4_nunez/ch4_nunez.html)
-- [Nunez Ch5](https://uf-splab.github.io/nsci-consci-class/ch5_nunez/ch5_nunez.html)
+
 
