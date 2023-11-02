@@ -5,9 +5,6 @@ format:
   revealjs:
     slide-number: true
     preview-links: auto
-    toc: true
-    toc-depth: 1
-    toc-title: "Chapter Contents"
     title-slide-attributes:
       data-background-image: gap.jpg
       data-background-size: contain
@@ -139,9 +136,10 @@ Averbeck BB, Seo M (2008) The Statistical <br> Neuroanatomy of Frontal Networks 
 
 - integration vs isolation
    - Fans sitting in a football stadium
-   - Functional localization
-   - Global coherence
-   - Binding problem: issue of how widely didtributed neural activities give rise to a single integrated behavior annd consciousness
+   - **Functional localization**: states in which subsystems act mostly independently of other subsystems
+   - **Global coherence**: states in which subsystems combine to form a single intgrated subsystem, perhaps with emergent properties
+   - **Binding problem**: issue of how widely didtributed neural activities give rise to a single integrated behavior and consciousness
+   
    - Integration
    - Isolation
    - Local-global issue (local/regional/global mechanisms)
@@ -149,6 +147,8 @@ Averbeck BB, Seo M (2008) The Statistical <br> Neuroanatomy of Frontal Networks 
    - Positron emission tomography (PET)
    - Electroencephalogram (EEG)
    - Dynamic Complexity
+   
+   - **complexity science**: study of complex systems composed of many interacting parts. Such systems exhibitglobal behavior that cannot be easily explained (i.e., reduced) in terms of their individual smaller parts in isolation.
 
 :::
 
@@ -191,6 +191,13 @@ sensation-action cycle:
 
 :::
 
+
+::: {.notes}
+
+
+
+:::
+
 ---
 
 ### 3.5 Chemical Control of Brain & Behavior {.smaller}
@@ -213,13 +220,13 @@ sensation-action cycle:
 
 ::: {.notes}
 
-- The macrocolumn scale in neocortex is defined by the spatial extent of axon branches E that remain within the cortex (*recurrent/reafferent collaterals*). 
+- **macrocolumn scale** in neocortex is defined by the spatial extent of axon branches E that remain within the cortex (*recurrent/reafferent collaterals*). 
 
-- The large pyramidal cell (C) is one of 10^5 to 10^6 neurons in the macrocolumn. 
+- large **pyramidal** cell (C) is one of 10^5 to 10^6 *neurons* in the macrocolumn. 
 
 - Nearly all pyramidal cells send an axon (G) into the white matter, most re-enter the cortex at some distant location (*corticocortical fibers*).
 
-- Each large pyramidal cell has 10^4 to 10^5 synaptic inputs (F) causing microcurrent sources and sinks s(r', w,t). 
+- Each large pyramidal cell has 10^4 to 10^5 *synaptic inputs* (F) causing microcurrent sources and sinks s(r', w,t). 
 
 - Field measurements can be expected to fluctuate greatly when small electrode contacts (A) are moved over distances of the order of cell body diameters. 
 
@@ -254,8 +261,9 @@ sensation-action cycle:
    - Macro-column (ipsilateral/contralateral projection)
    - Thalamocortical fibers (TC)
 
-![](nunez_macrocolumn_3_12.jpg){.absolute top="60" right="-60" height="200"}
-![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" right="-70" height="350"}
+![](nunez_macrocolumn_3_12.jpg){.absolute top="60" right="-50" height="200"}
+![](nunez_3levels_macrocolumn_3_13.jpg){.absolute bottom="-10" left="0" height="250"}
+![](TC_contralateral.png){.absolute bottom="-10" right="-50" height="350"}
 
 ::: {.notes}
 For every 1 TC there are 50 CC  
@@ -263,7 +271,8 @@ For every 1 TC there are 50 CC
 - Pyramidal neuron
 - Basket interneuron (inhibitory)
 - Myelinated axon
-- Macro-column (ipsilateral/contralateral projection)
+- **Macro-column** (ipsilateral/contralateral projection): a cortical tissue column defind by the local intracortical spread of individual pyramidal cells; contains about 1 million neurons w/in its diameter of 3mm
+
 - Thalamocortical fibers (TC)
 - Brainstem (alligator)
 - limbic system (horse)
@@ -272,6 +281,8 @@ For every 1 TC there are 50 CC
 
 :::
 
+
+---
 
 # Dynamic complexity  
   
@@ -301,14 +312,17 @@ How does a dynamic complex system function?
 
 ::: {.notes}
 
-- Nested hierarchy
-- Cortical mini-column
-- Cortico-cortical column (CCC): cortical-tissue column defined by the spatial spread of subcortical input axons that enter the cortex from the white matter below; it contains about 10k neurons w/in diameter of 0.3 mm
+- **Nested hierarchy**: 
+
+- Cortical **mini-column**: a cortical tissue column defind by the spatial extent of intracortical **inhibitory connections**; contains about 100 neurons w/in its diameter of 0.3mm
+- **Cortico-cortical column (CCC)**: cortical-tissue column defined by the spatial spread of subcortical input axons that enter the cortex from the white matter below; it contains about 10k neurons w/in diameter of 0.3 mm
 - Cortical macrocolumn:
 - Neuromodulators & large scale dynamics
 - Global coherence vs functional segregation
-- Epilepsy
-- Cross scale interaction
+
+- **Epilepsy**: a group of neurological disorders marked by recurrent sensory disturbances, loss of consciousness, and sometimes convulsions. Associated with abnormal EEG activity.
+
+- **Cross-scale** interaction
 
 
 
@@ -355,16 +369,15 @@ How does a dynamic complex system function?
 :::
 
 
----
 
 
-#### 3.9 Cortico-Cortical Connections Are Non-Local {.smaller}
+## {.smaller}
+
+#### 3.9 Cortico-Cortical Connections Are Non-Local 
 
    - Connectome
    - Dynome (not in book)
    - Path length
-   - Small world network topology
-   - Graph theory
 
 
 ![](brain_connectivity_3_5.png)
@@ -372,13 +385,100 @@ How does a dynamic complex system function?
 
 ::: {.notes}
 
-- Connectome: the brain's wiring diagram over some range of spatial scales
-- Dynome (not in book): subsets of the connectome that are active or available during particular physiological/mental states 
-- Path length: in a network this is the number of edges  between nodes that need to be traversed in order to go from a given node to another distant node (2 nodes that are directly connected by an edge have a zero order path-length)
-- Small world network topology: a social, physical, brain or other network in which a few long-distance (non-local) connections cause a substantial reduction in the path lengths that between pairs of network nodes
-- Graph theory: (network) mathematics of nodes and edges
+- **Connectome**: the brain's wiring diagram over some range of spatial scales
+- **Dynome** (not in book): subsets of the connectome that are active or available during particular physiological/mental states 
 
 :::
+
+
+
+## {.smaller}
+
+#### The Original Social Network & 5.5 Degrees of Separation {.smaller}
+
+![](degrees_6_sep.jpeg){.absolute top="60" right="-60" height="200"}
+
+::: columns
+::: {.column width="50%"}
+- An illustration of the shortest path between Omaha, NE and Boston, MA in Stanley Milgram’s social network experiment, published in *Psychology Today* in **1967**. 
+- Here, the results of multiple experiments are represented as a composite shortest path between the source (a person in Omaha) and the target (a person in Boston). 
+
+
+
+:::
+
+::: {.column width="50%"}
+- A letter addressed to the target was given to the source, who was asked to send it on (with the same instructions) to the friend or acquaintance that they thought was most likely to know the target, or someone else who might know the target personally.
+-  It was found that most letters that eventually reached the correct address in Boston passed through six intermediaries between source and target (denoted 1st remove, 2nd remove, etc.), popularizing the notion that each of us is separated by no more than “six degrees of freedom” from any other individual in a geographically distributed social network.
+
+:::
+:::
+
+
+
+::: {.notes}
+
+
+   - Milgram's social network experiment
+   - Small world network topology
+   - Graph theory
+   
+Bassett, D. S., & Bullmore, E. T. (2017). Small-world brain networks revisited. The Neuroscientist, 23(5), 499-516.
+
+:::
+
+
+
+## {.smaller}
+
+#### 3.9 Cortico-Cortical Connections Are Non-Local 
+
+- A small-world network is a mathematical graph in which most nodes are not neighbors of one another, but the neighbors of any given node are likely to be neighbors of each other. Due to this, most neighboring nodes can be reached from every other node by a small number of hops or steps.
+
+
+$$L \space \alpha \space log N $$
+
+- Average path length in proportion to logarithm of N , where $N$ is the number of nodes in the network, and $L$ is the average path length between nodes.
+
+
+::: {.notes}
+
+- **Path length**: in a network this is the number of edges  between nodes that need to be traversed in order to go from a given node to another distant node (2 nodes that are directly connected by an edge have a zero order path-length)
+- **Small world network** topology: a social, physical, brain or other network in which a few long-distance (non-local) connections cause a substantial reduction in the path lengths that between pairs of network nodes
+- **Graph theory**: (network) mathematics of nodes (intersection) and edges (links/connections)
+
+:::
+
+
+
+## {.smaller}
+
+#### 3.9 Cortico-Cortical Connections Are Non-Local{.smaller}
+
+
+- Small-world networks tend to contain cliques, and near-cliques, meaning sub-networks which have connections between almost any two nodes within them. This follows from the defining property of a high clustering coefficient. 
+- Secondly, most pairs of nodes will be connected by at least one short path. This follows from the defining property that the mean-shortest path length be small. 
+
+![](graph.png){.absolute bottom="-10" left="-60" height="400"}
+![](graph_perc.png){.absolute bottom="-10" right="-10" height="350"}
+
+
+
+::: {.notes}
+- Common elements found in complex networks. 
+- a, Broad-scale distributions (P) of node degrees (k). 
+- b, Clustering with neighbours. 
+- c, Community structure: nodes can be allocated to groups for which the density of connections within a group is higher than the density of connections between groups. 
+- d, Small- world properties: most nodes are not nearest neighbours but are linked by short paths on the network. 
+- e, Phase transitions, such as the percolation transition in which the fractional size S of the largest connected component of the network exhibits a phase transition as the average degree increases.
+
+- Several other properties are often associated with small-world networks.
+   - Typically there is an over-abundance of hubs – nodes in the network with a high number of connections (known as high degree nodes). These hubs serve as the common connections mediating the short path lengths between other edges. By analogy, the small-world network of airline flights has a small mean-path length (i.e. between any two cities you are likely to have to take three or fewer flights) because many flights are routed through hub cities. 
+   - This property is often analyzed by considering the fraction of nodes in the network that have a particular number of connections going into them (the degree distribution of the network). Networks with a greater than expected number of hubs will have a greater fraction of nodes with high degree, and consequently the degree distribution will be enriched at high degree values. 
+   - This is known colloquially as a fat-tailed distribution. Graphs of very different topology qualify as small-world networks as long as they satisfy the two definitional requirements above.
+
+:::
+
 
 
 ---
