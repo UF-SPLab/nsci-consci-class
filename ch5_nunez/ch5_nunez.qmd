@@ -1,13 +1,9 @@
 ---
-title: "<bold>A Brief Look into Brain Structure and Function</bold>"
-subtitle: "<br><br>Chapter 5, Nunez "
+title: "A Brief Look into Brain Structure and Function"
+subtitle: "Chapter 5, Nunez "
 format: 
   revealjs:
     slide-number: true
-    preview-links: auto
-    toc: true
-    toc-depth: 1
-    toc-title: "Chapter Contents"
     title-slide-attributes:
       data-background-image: gap.jpg
       data-background-size: contain
@@ -19,28 +15,19 @@ editor_options:
 ---
 
 
-# 5.1 What Is Time?
+## 5.2 Consciousness Takes Time
 
 
-
----
-class: inverse center middle animated fadeInRight slideOutLeft
-
-# 5.2 Consciousness Takes Time
-
-
----
-class: animated fadeIn
-
-# Somatosensory Potentials: Libet 
+## Somatosensory Potentials: Libet 
 
 > "Studies suggest that consciousness of an event is only associated with electric field (or electric potential) patterns in neural tissue that persist for at least 300 to 500 ms"
 
 - Backward Masking
    - An experimental procedure in which target images are flash very briefly and conscious awareness is blocked by subsequent images.
    - Suppose two stimuli are presented to a subject. The second stimulus is presented less than 500 ms after the first. The second stimulus may "mask" conscious awareness of the first stimulus.
+   
 
----
+## 
 
 
 - Somatosensory cortex
@@ -58,42 +45,30 @@ class: animated fadeIn
 - Frequency
 
 
+## Libet 1
 
 
----
-class: animated fadeIn
-
-# Libet 1
-
-.pull-left[
 ![](B.Libet.experiment.gif)
 
 [Neuroscience of Free Will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will)
 
-]
-.pull-right[
+
 ![:image 70%](Brain_Activity_Before_Voluntary_Action.jpg)
-]
 
 
----
-class: animated fadeIn
 
-# 5.2 Consciousness Takes Time
+## 5.2 Consciousness Takes Time
 
-.pull-left[
+
 ![](Some_brain_areas.png)
-]
-.pull-right[
+
 ![](Bereitschaftspotenzial_fig1.jpg)
-]
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
 
-# 5.3 Pre-Conscious and Conscious States
 
----
+
+## 5.3 Pre-Conscious and Conscious States
+
 
 - Blindsight
 - Attentional Blink
@@ -103,16 +78,12 @@ class: inverse center middle animated fadeInRight slideOutLeft
 - Decision making executives
 
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
 
-# 5.4 The Christmas-Tree Brain
 
----
 
-# 5.4 The Christmas-Tree Brain
+## 5.4 The Christmas-Tree Brain
 
-.pull-left[
+
 - Magic tree:
    - A metaphorical tree with lights corresponding to active brain regions.
 
@@ -125,31 +96,24 @@ Very tiny light | 100 $\mu$m | Minicolumns
 [Cortical Layer] | 100 $\mu$m  | Vertical in mini-column
 Neuron | 10's $\mu$m  | Soma & dendritic arbors
 ]
-.pull-right[
+
+
 ![](IMG_1424.jpg)
-]
 
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
-
-# 5.5 Christmas Lights, Electrophysiology, and MRI
 
 
----
-
-![:image 70%](Ephys.png)
+## 5.5 Christmas Lights, Electrophysiology, and MRI
 
 
----
-background-image: url(Ephys.png)
-background-size: 75%
-background-position: 300px -50px 
 
 
----
+![](Ephys.png)
 
-.pull-left[
+
+## 
+
+
 
 - Functional Magnetic Resonance Imaging (fMRI)
 - Microelectrode
@@ -161,16 +125,15 @@ background-position: 300px -50px
 - Event Related Potentials (ERP)
 - Steady-State Visual Evoked Potentials (ssVEP)
 
-]
-.pull-right[
-![:image 150%](scale.jpg)
-]
 
----
+![:image 150%](scale.jpg)
+
+
+##
 
 ![](Ephys.png)
 
----
+## 
 
 - Christmas tree light
 - Functional Magnetic Resonance Imaging (fMRI)
@@ -189,25 +152,20 @@ background-position: 300px -50px
 - Event Related Potentials (ERP)
 - Steady-State Visual Evoked Potentials (ssVEP)
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
 
-# 5.6 Free Will?
+## 5.6 Free Will?
 
----
+
 
 - Brain-wide information
 - Go-signal
 - agent
 
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
 
-# 5.7 Alzheimer's Disease
+## 5.7 Alzheimer's Disease
 
 
----
 
 - Alzheimer's Disease 
     - Pre-dementia
@@ -219,26 +177,19 @@ class: inverse center middle animated fadeInRight slideOutLeft
 - Cognitive Reserve
 
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
 
-# 5.8 Schizophrenia
+## 5.8 Schizophrenia
 
-
----
 
 - Positive & Negative Symptoms
 - Peri-adolescence
 - Capragas syndrome
 
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
-
-# 5.9 White Matter Matters to Mental Health
 
 
----
+## 5.9 White Matter Matters to Mental Health
+
 
 - Structrual connections
 - Functional connections
@@ -253,7 +204,6 @@ class: inverse center middle animated fadeInRight slideOutLeft
 - Microscopic scale
 
 
----
-class: inverse center middle animated fadeInRight slideOutLeft
 
-# 5.10 Summary
+## 5.10 Summary
+

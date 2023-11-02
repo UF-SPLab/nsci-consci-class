@@ -20,60 +20,56 @@ editor_options:
 
 
 
-# 4.1 What Is Consciousness?
-
-
----
-
-# 4.2 What is it Like To Be a Bat?
-
-
----
-
-# 4.3 Patterns and Sub-Patterns of Consciousness
-
-
----
-
-# 4.4 The Conscious and the Unconscious
-
-
-
----
-
-
-# 4.5 Sleep
+## 4.1 What Is Consciousness?
 
 
 
 
----
-
-
-# 4.6 General Anesthesia and Coma
-
----
-
-
-# 4.7 Epilepsy: A Collection of Local-Global Diseases
+## 4.2 What is it Like To Be a Bat?
 
 
 
 
----
+## 4.3 Patterns and Sub-Patterns of Consciousness
 
 
-# 4.8 Locked-In Syndrome
 
 
----
+## 4.4 The Conscious and the Unconscious
 
 
-# 4.9 Brain Injuries and Language
 
 
----
 
 
-# 4.10 Summary
+## 4.5 Sleep
+
+
+
+
+
+
+
+## 4.6 General Anesthesia and Coma
+
+
+
+
+## 4.7 Epilepsy: A Collection of Local-Global Diseases
+
+
+
+
+
+
+
+## 4.8 Locked-In Syndrome
+
+
+
+
+
+## 4.9 Brain Injuries and Language
+
+
 
