@@ -1,380 +1,274 @@
 ---
-title: "<bold>THE SCIENCE AND PHILOSOPHY OF MIND</bold>"
-subtitle: "<br>Chapter 2 Nunez<br><br><br><br>"
-format: 
-  revealjs:
-    slide-number: true
-    preview-links: auto
-    toc: true
-    toc-depth: 1
-    toc-title: "Chapter Contents"
-    theme: serif
-    transition: fade
-    transition-speed: fast
-editor_options: 
-  chunk_output_type: console
+title: The Science and Philosophy of Mind
+subtitle: Nunez Chapter 2
+format: clean-revealjs
+date: last-modified
 ---
 
-## 2.1 Brain & Mind
+## 2.1 Brain & Mind {.smaller}
 
-- Determinism:
-    - A range of positions in which future events are fully or mostly determined by current conditions.
+::: callout-note
+## Determinism
 
+A range of positions in which future events are fully or mostly determined by current conditions.
+:::
 
+## {.smaller}
 
-After cutting through some fancy jargon, the mind-brain problem
-may be approached relatively simply with assistance from figure 2-1. 
+::: {.columns}
 
-We know for certain that brain activity is closely correlated with mind activity.
-As far as I can see, figure 2-1 exhausts all the possible choices for mind-
-brain interactions indicated by the various arrows. 
+::: {.column width="50%"}
 
-
-
-case 1, the brain creates the mind, the conventional scientific view. 
-
-In case 2, the opposite somehow occurs. 
-
-case 3, a two-way interaction links brain to mind. 
-
-case 4, mind and brain are linked largely through unknown external environmental influences. 
-
-Case 3 is just
-a combination of cases 1 and 2; cases 3 and 4 can also be combined. 
-
- over-simplified summary avoids the essential hard question,
-“Just what are the bases for the interactions represented by the arrows?”
-Case | is often considered to be the most “scientific” position—the brain
-creates the mind, end of story.
-
-problem of free will:
-our apparent freedom to make choices,
-to choose between different courses of action
-it is closely linked to responsibility, guilt, sin, and other feelings.
-
-Only actions that are freely willed are seen as deserving credit or blame.
-If there is no free will, there is no justification for rewarding or punishing
-someone for certain actions. 
-
-Free will also implies the power to break a
-causal chain of events, so that one’s choice is not caused directly by any previous event. 
-
-It seems difficult, if not impossible, to reconcile the existence
-of free will with the deterministic nature of the universe, assumed by some,
-in which future events are supposed to follow directly from the current state
-of things according to the laws of physics. 
-
-Thus, if we really believe in free
-will, apparently we must reject the most “scientific” scenario indicated by
-case | of figure 2-1. After all, what is free will other than the influence of the
-mind on brain and body, as allowed only in cases 2 through 4?
-
-The profound concept of determinism demands special scrutiny in
-our consciousness studies. Determinism applied to physical or biological
-systems refers to the view that every event is causally determined by a
-chain of prior events, implying that at any instant in time there is exactly
-one physically possible future. Classical physics is sometimes interpreted
-this way; here for example, are the words of the famous mathematician and
-scientist Pierre-Simon Laplace in 1814:
-
-We may regard the present state of the universe as the effect of its past
-and the cause of its future. An intellect which at a certain moment would
-know all forces that set nature in motion, and all positions of all items
-of which nature is composed, if this intellect were also vast enough to
-submit these data to analysis, it would embrace in a single formula the
-movements of the greatest bodies of the universe and those olf the tiniest
-atom; for such an intellect nothing would be uncertain and the future just
-like the past would be present before its eyes.’
-
-The super “intellect” referred to by Laplace has since become known
-as Laplace’s demon. It has often been claimed that quantum mechanics
-proved Laplace to be wrong. This view is correct but highly misleading
-because our inability to predict future events is not limited to quantum
-systems. We now know that in the case of complex systems, even the purely
-classical ones, accurate predictions of the future are, at best, only statistical
-in nature. Later we will consider several kinds of chaos in both simple
-and complex systems, and argue that this classical limitation appears be
-a fundamental property of our universe. Of course, if quantum systems
-are added to the mix, the limitations on our knowledge of future events
-become even more severe.
+::: {#special style="position: absolute; justify-content: center; width:60%;"}
 
 
+::: {.columns}
+
+::: {.column width="30%"}
+-   Case 1
+:::
+
+::: {.column width="50%"}
+```{mermaid}
+
+flowchart LR
+  A[Brain] --> B(MIND)
+  
+```
+:::
+:::
+
+
+:::  {.columns style="background-color: white;"}
+::: {.column width="30%"}
+-   Case 2
+:::
+
+::: {.column width="50%"}
+```{mermaid}
+
+
+flowchart RL
+ B(MIND) --> A[Brain]
+  
+```
+:::
+:::
+
+:::  {.columns style="background-color: white;"}
+
+::: {.column width="30%"}
+-   Case 3
+:::
+
+::: {.column width="50%"}
+```{mermaid}
+
+
+flowchart LR
+  A[Brain] <--> B(MIND)
+  
+```
+:::
+:::
+
+:::  {.columns style="background-color: white;"}
+::: {.column width="30%"}
+-   Case 4
+:::
+
+::: {.column width="50%"}
+```{mermaid}
+
+
+flowchart TD
+C([Environment])-->A[Brain] & B(MIND)
+
+```
+:::
+:::
+:::
+
+:::
+
+
+
+
+::: {.column width="50%" }
+
+
+
+- Brain activity is closely correlated with mind activity. 
+   - Case 1, the brain creates the mind, the conventional scientific view.
+   - Case 2, the opposite occurs.
+   - Case 3, a two-way interaction links brain to mind.
+   - Case 4, mind and brain are linked largely through unknown external environmental influences.
+   - Case 3 is just a combination of cases 1 and 2; cases 3 and 4 can also be combined.
+
+
+:::
+:::
+
+The over-simplified summary avoids the essential hard question, "Just what are the bases for the interactions represented by the arrows?" Case 1 is often considered to be the most "scientific" position---the brain creates the mind, end of story.
+
+## 
+
+
+problem of free will: our apparent freedom to make choices, to choose between different courses of action it is closely linked to responsibility, guilt, sin, and other feelings.
+
+Only actions that are freely willed are seen as deserving credit or blame. If there is no free will, there is no justification for rewarding or punishing someone for certain actions.
+
+Free will also implies the power to break a causal chain of events, so that one's choice is not caused directly by any previous event.
+
+It seems difficult, if not impossible, to reconcile the existence of free will with the deterministic nature of the universe, assumed by some, in which future events are supposed to follow directly from the current state of things according to the laws of physics.
+
+Thus, if we really believe in free will, apparently we must reject the most "scientific" scenario indicated by case \| of figure 2-1. After all, what is free will other than the influence of the mind on brain and body, as allowed only in cases 2 through 4?
+
+The profound concept of determinism demands special scrutiny in our consciousness studies. Determinism applied to physical or biological systems refers to the view that every event is causally determined by a chain of prior events, implying that at any instant in time there is exactly one physically possible future. Classical physics is sometimes interpreted this way; here for example, are the words of the famous mathematician and scientist Pierre-Simon Laplace in 1814:
+
+We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those olf the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.'
+
+The super "intellect" referred to by Laplace has since become known as Laplace's demon. It has often been claimed that quantum mechanics proved Laplace to be wrong. This view is correct but highly misleading because our inability to predict future events is not limited to quantum systems. We now know that in the case of complex systems, even the purely classical ones, accurate predictions of the future are, at best, only statistical in nature. Later we will consider several kinds of chaos in both simple and complex systems, and argue that this classical limitation appears be a fundamental property of our universe. Of course, if quantum systems are added to the mix, the limitations on our knowledge of future events become even more severe.
 
 ## 2.2 Are We Nothing but Packs of Neurons?
 
-
-
 ## 2.3 Materialism, Dualism, and Monism
 
+##  {.smaller .scrollable}
 
-
-
-## {.smaller .scrollable}
-
-
-
-| Topic                | Type A Materialism                          | Types B or C Materialism                     | Types D or E Dualism                          | Type F Monism                               |
-|---------------------|--------------------------------------------|---------------------------------------------|----------------------------------------------|---------------------------------------------|
-| Definition of Consciousness | Defined only in functional or behavioral terms. | Epistemic gap exists but can be closed. | Mental properties are ontologically novel and not deducible from physics alone. | Mental or proto-mental properties occur at the fundamental level of physical reality. |
-| Explanatory Gap     | No explanatory gap exists.                 | Epistemic gap can be closed in principle.    | Physical states cause mental states and vice versa. | Physical properties may not be fundamental but derived from something else. |
-| P-Zombies             | Idea makes no sense.                        | Possible due to current limitations, but not in principle. |   -     |    -      |
-| Hard Problem        | No hard problem exists.                     |  implied that it can be solved. |  implied that it's a real issue. |    -      |
-| Free-Will           |    -                       | Possibly an illusion or an emergent property of physical systems. | In Type D, free will exists due to downward causation of the mental on the physical. In Type E, free will is abolished. |    -      |
-| Benefits of the View | Simplifies the problem by reducing it to neuroscience. | Aligns closely with mainstream scientific view. | Allows for a richer ontology that includes both mental and physical properties. | Attempts to reconcile elements of both materialism and dualism; offers a more "fundamental" explanation. |
-
-
-
+| Topic                       | Type A Materialism                                     | Types B or C Materialism                                          | Types D or E Dualism                                                                                                    | Type F Monism                                                                                            |
+|---------------|---------------|---------------|---------------|---------------|
+| Definition of Consciousness | Defined only in functional or behavioral terms.        | Epistemic gap exists but can be closed.                           | Mental properties are ontologically novel and not deducible from physics alone.                                         | Mental or proto-mental properties occur at the fundamental level of physical reality.                    |
+| Explanatory Gap             | No explanatory gap exists.                             | Epistemic gap can be closed in principle.                         | Physical states cause mental states and vice versa.                                                                     | Physical properties may not be fundamental but derived from something else.                              |
+| P-Zombies                   | Idea makes no sense.                                   | Possible due to current limitations, but not in principle.        | \-                                                                                                                      | \-                                                                                                       |
+| Hard Problem                | No hard problem exists.                                | implied that it can be solved.                                    | implied that it's a real issue.                                                                                         | \-                                                                                                       |
+| Free-Will                   | \-                                                     | Possibly an illusion or an emergent property of physical systems. | In Type D, free will exists due to downward causation of the mental on the physical. In Type E, free will is abolished. | \-                                                                                                       |
+| Benefits of the View        | Simplifies the problem by reducing it to neuroscience. | Aligns closely with mainstream scientific view.                   | Allows for a richer ontology that includes both mental and physical properties.                                         | Attempts to reconcile elements of both materialism and dualism; offers a more "fundamental" explanation. |
 
 ## 2.4 Zombie Worlds
 
 **Principle of Organizational Invariance**
 
-- The idea that any two systems with the same functional organization must exhibit qualitatively identical behavior and experience.
+-   The idea that any two systems with the same functional organization must exhibit qualitatively identical behavior and experience.
 
+\*\*Questions Raised by Robots on Titan story\*
 
-**Questions Raised by Robots on Titan story*
+-   Could consciousness be created by abstract patterns, independent of the underlying physical structure producing these patterns?
 
-- Could consciousness be created by abstract patterns, independent of the underlying physical structure producing these patterns?
+    -   If so, how fine-grained must the patterns be to produce consciousness?
 
-   - If so, how fine-grained must the patterns be to produce consciousness?
+-   Can pattems associated with multiple individuals lead to a kind of group consciousness?
 
-- Can pattems associated with multiple individuals lead to a kind of group consciousness?
+-   Can individual consciousness persist when strong interactions with others take place?
 
-- Can individual consciousness persist when strong interactions with others take place?
+::: notes
+Maybe we should only trust a much stricter version of the principle of organizational variance, in which the robot brains are required to yield a one-to-one functional correspondence of all parts at all spatial scales. If so, construction of true artificial isomorphs may be fundamentally impossible for the physical reasons discussed in later chapters. But for now, note that even single neurons are incredibly complex systems containing billions of molecules and involving fine-grained interactions down to (at least) quantum scales.
 
+Furthermore, as we have repeatedly emphasized, cross-scale interactions are a hallmark of complex systems. Modifications of patterns at one scale may profoundly affect patterns at other scales.
 
+In summary, the fanciful scientific studies performed in our little fable raise the following questions:
 
-:::{.notes}
-
-Maybe we should only trust a much stricter version of the principle of organizational
-variance, in which the robot brains are required to yield a one-to-one functional correspondence of all parts at all spatial scales. If so, construction
-of true artificial isomorphs may be fundamentally impossible for the physical reasons discussed in later chapters. But for now, note that even single
-neurons are incredibly complex systems containing billions of molecules
-and involving fine-grained interactions down to (at least) quantum scales.
-
-Furthermore, as we have repeatedly emphasized, cross-scale interactions
-are a hallmark of complex systems. 
-Modifications of patterns at one scale
-may profoundly affect patterns at other scales. 
-
-In summary, the fanciful
-scientific studies performed in our little fable raise the following questions:
-
-* Could consciousness be created by abstract patterns, independent of
+-   Could consciousness be created by abstract patterns, independent of
 
 the underlying physical structure producing these patterns?
 
-* If so, how fine-grained must the patterns be to produce consciousness?
+-   If so, how fine-grained must the patterns be to produce consciousness?
 
-* Can pattems associated with multiple individuals lead to a kind of
+-   Can pattems associated with multiple individuals lead to a kind of
 
 group consciousness?
 
-
-* Can individual consciousness persist when strong interactions with
+-   Can individual consciousness persist when strong interactions with
 
 others take place?
 
-If we replace the label “consciousness” with “behavior,” these
-questions will probably appear quite appropriate to most readers whether
-applied to zombies, conscious robots, or humans. How do things change,
-or do they change, when referring to “consciousness”? We will examine
-similar questions in a more-rigorous scientific context in later chapters.
-
+If we replace the label "consciousness" with "behavior," these questions will probably appear quite appropriate to most readers whether applied to zombies, conscious robots, or humans. How do things change, or do they change, when referring to "consciousness"? We will examine similar questions in a more-rigorous scientific context in later chapters.
 :::
-
 
 ## 2.5 The Unity of Self
 
 Split-Brain
 
-- it's surprisingly difficult to tease apart differences between split brain and non-split "normal" people
+-   it's surprisingly difficult to tease apart differences between split brain and non-split "normal" people
 
+In contrast to this first-person experience of a unified self, modem neuroscience reveals that each brain has hundreds of parts, each of which has evolved to do specific jobs---some recognize faces, others tell muscles to execute actions, some formulate goals and plans, and yet others store memories for later integration with sensory input and subse- quent action.
 
-In contrast to this first-person experience of a unified self,
-modem neuroscience reveals that each brain has hundreds of parts, each
-of which has evolved to do specific jobs—some recognize faces, others
-tell muscles to execute actions, some formulate goals and plans, and yet
-others store memories for later integration with sensory input and subse-
-quent action. 
+Michael Gazzaniga, well known for his work on split-brain patients, expresses a view consistent with the multi-part conscious idea.
 
-Michael Gazzaniga, well known for his work on split-brain
-patients, expresses a view consistent with the multi-part conscious idea.
+These parts include unconscious, pre-conscious, and conscious aspects. The mind is not a psychological entity but a sociological entity composed of many mental subsystems, each with the capacity to produce behavior; the subsystems are not necessarily conversant internally. Any part of the brain may or may not "talk" to other parts.
 
-These parts include unconscious, pre-conscious, and conscious aspects.
-The mind is not a psychological entity but a sociological entity composed
-of many mental subsystems, each with the capacity to produce behavior;
-the subsystems are not necessarily conversant internally. Any part of the
-brain may or may not “talk” to other parts.
+::: notes
+Suppose you are driving your car in heavy traffic on a hot day with the windows down while listening to music on your car's CD player. Despite this diversity of simultaneous experiences, you seem to consist of a single self---based on your emotional state and your reactions to the traffic condi- tions, the hot wind in your face, the music, and more. Maybe the music even triggers some fond memory from long ago, further enriching your experi- ence of self. But still there appears to be just one of you inside your mind, even though you can identify several distinct experiences. Various inter- pretations of this apparent unity of consciousness have long been debated by philosophers.
 
-
-:::{.notes}
-
-Suppose you are driving your car in heavy traffic on a hot day with the
-windows down while listening to music on your car’s CD player. Despite
-this diversity of simultaneous experiences, you seem to consist of a single
-self—based on your emotional state and your reactions to the traffic condi-
-tions, the hot wind in your face, the music, and more. Maybe the music even
-triggers some fond memory from long ago, further enriching your experi-
-ence of self. But still there appears to be just one of you inside your mind,
-even though you can identify several distinct experiences. Various inter-
-pretations of this apparent unity of consciousness have long been debated
-by philosophers. 
-
-In contrast to this first-person experience of a unified self,
-modem neuroscience reveals that each brain has hundreds of parts, each
-of which has evolved to do specific jobs—some recognize faces, others
-tell muscles to execute actions, some formulate goals and plans, and yet
-others store memories for later integration with sensory input and subse-
-quent action. Michael Gazzaniga, well known for his work on split-brain
-patients, expresses a view consistent with the multi-part conscious idea.
-These parts include unconscious, pre-conscious, and conscious aspects.
-The mind is not a psychological entity but a sociological entity composed
-of many mental subsystems, each with the capacity to produce behavior;
-the subsystems are not necessarily conversant internally. Any part of the
-brain may or may not “talk” to other parts.
-
+In contrast to this first-person experience of a unified self, modem neuroscience reveals that each brain has hundreds of parts, each of which has evolved to do specific jobs---some recognize faces, others tell muscles to execute actions, some formulate goals and plans, and yet others store memories for later integration with sensory input and subse- quent action. Michael Gazzaniga, well known for his work on split-brain patients, expresses a view consistent with the multi-part conscious idea. These parts include unconscious, pre-conscious, and conscious aspects. The mind is not a psychological entity but a sociological entity composed of many mental subsystems, each with the capacity to produce behavior; the subsystems are not necessarily conversant internally. Any part of the brain may or may not "talk" to other parts.
 :::
-
 
 ## Cell Assemblies
 
-
-
 **Cell Assemblies**
 
-- term coined by Donald Hebb 20th century 
-- transient neuronal grouping over some time interval
+-   term coined by Donald Hebb 20th century
+-   transient neuronal grouping over some time interval
 
+**Benefit**
 
-**Benefit** 
-
-- more accurate than "neural network"
-which implies specific interaction mechanisms 
+-   more accurate than "neural network" which implies specific interaction mechanisms
 
 **Critical Difference**
 
-- contrast with the concept "hard-wired"
-- cell assemblies are not static structures like electric circuits
+-   contrast with the concept "hard-wired"
 
-- continuously form and dissolve
-- creating ever-changing patterns and sub-patterns
+-   cell assemblies are not static structures like electric circuits
+
+-   continuously form and dissolve
+
+-   creating ever-changing patterns and sub-patterns
 
 **Caveats**
 
-- “network” and “cell assembly" are similar concepts (ie., not NN)
-- distinct cell assemblies need not have distinct locations
-- can overlap both spatially and hierarchically; 
-- can occur in nested hierarchies.
+-   "network" and "cell assembly" are similar concepts (ie., not NN)
+-   distinct cell assemblies need not have distinct locations
+-   can overlap both spatially and hierarchically;
+-   can occur in nested hierarchies.
 
+::: notes
+Following the pioneering mid-twentieth-century work of psychologist Donald Hebb, we tentatively associate these brain subsystems with cell assemblies, groups of neurons that act as unitary systems over some time interval. The phrase cell assembly is more accurate than the more common term neural network, which implies specific interaction mecha- nisms and misleading electric circuit analogues. A critical difference is that cell assemblies are not static structures like electric circuits; rather, they continuously form and dissolve, creating ever-changing patterns and sub- patterns. Nevertheless, in this book we will often use "network" as short- hand for "cell assembly," consistent with the way neuroscientists express themselves. We will also argue that distinct cell assemblies need not have distinct locations. Rather they can overlap both spatially and hierarchi- cally; they can occur in nested hierarchies.
 
-
-:::{.notes}
-
-
-Following the pioneering mid-twentieth-century work of psychologist Donald Hebb, we tentatively associate these brain subsystems with
-cell assemblies, groups of neurons that act as unitary systems over some
-time interval. The phrase cell assembly is more accurate than the more
-common term neural network, which implies specific interaction mecha-
-nisms and misleading electric circuit analogues. A critical difference is that
-cell assemblies are not static structures like electric circuits; rather, they
-continuously form and dissolve, creating ever-changing patterns and sub-
-patterns. Nevertheless, in this book we will often use “network” as short-
-hand for “cell assembly,” consistent with the way neuroscientists express
-themselves. We will also argue that distinct cell assemblies need not have
-distinct locations. Rather they can overlap both spatially and hierarchi-
-cally; they can occur in nested hierarchies.
-
-
-Many neuroscientists, myself included, have carried out EEG studies
-suggesting that even moderately complex mental tasks involve many inter
-acting brain areas, proverbial “constellations” of widely distributed and
-rapidly changing subsystems. The EEG mainly measures dynamic activity
-from the outer brain layer, the cerebral cortex. If we label different cortical
-areas A, B, C, and so forth, certain tasks are associated with stronger func-
-tional connections between A and X, but at the same time weaker connec-
-tions between B and Z. What exactly do we mean by this? Two brain regions
-are said to be “functionally connected” if some measured “activity” of one
-region is correlated with some activity in the other region.
-
+Many neuroscientists, myself included, have carried out EEG studies suggesting that even moderately complex mental tasks involve many inter acting brain areas, proverbial "constellations" of widely distributed and rapidly changing subsystems. The EEG mainly measures dynamic activity from the outer brain layer, the cerebral cortex. If we label different cortical areas A, B, C, and so forth, certain tasks are associated with stronger func- tional connections between A and X, but at the same time weaker connec- tions between B and Z. What exactly do we mean by this? Two brain regions are said to be "functionally connected" if some measured "activity" of one region is correlated with some activity in the other region.
 :::
-
 
 ## 2.6 The Problem of Personal Identity
 
-
-
 ## 2.7 Consciousness Takes Time
 
+::: notes
+To avoid this confounding factor, experiments by Benjamin Libet involved patients with brain-surface (cere- bral cortex) electrodes implanted for clinical reasons, usually patients waiting for epilepsy surgery.'
 
-:::{.notes}
+Electrical stimulation of brain regions reacting to sensory input (somatosensory cortex) in awake patients elicits conscious sensations like tingling feelings. These feelings are not perceived by the patient as origi- nating in the brain; rather they seem to come from specific body locations determined by neural pathways. Stimulation near the top of the brain near the midline (motor cortex) produces tingling in the leg; stimulation points on the side of the brain produce feelings from parts of the face, and so forth. Libet's stimuli consisted of trains of electric pulses; the essential stimulus feature was found to be the duration of the stimulus. Only when stimuli were turned on for about one half second (500 milliseconds) or more did conscious sensations occur. Experiments were also carried out by stimulating deep brain regions, with similar results.
 
-To avoid this confounding factor,
-experiments by Benjamin Libet involved patients with brain-surface (cere-
-bral cortex) electrodes implanted for clinical reasons, usually patients
-waiting for epilepsy surgery.’
+Libet's studies suggest that consciousness of an event is only associ- ated with electric fields or other patterns in neural tissue that persist for about 500 milliseconds or more. Other studies by Libet suggest that the
 
-Electrical stimulation of brain regions reacting to sensory input
-(somatosensory cortex) in awake patients elicits conscious sensations like
-tingling feelings. These feelings are not perceived by the patient as origi-
-nating in the brain; rather they seem to come from specific body locations
-determined by neural pathways. Stimulation near the top of the brain near
-the midline (motor cortex) produces tingling in the leg; stimulation points
-on the side of the brain produce feelings from parts of the face, and so
-forth. Libet’s stimuli consisted of trains of electric pulses; the essential
-stimulus feature was found to be the duration of the stimulus. Only when
-stimuli were turned on for about one half second (500 milliseconds) or
-more did conscious sensations occur. Experiments were also carried out by
-stimulating deep brain regions, with similar results.
+process leading to a voluntary act is initiated by the brain pre-consciously, well before the conscious decision to act occurs. This later finding raises the profound question of free will, thereby opening a huge can of worms with religious, ethical, and scientific implications. In these limited experi- ments, at least, the pre-conscious appears to act first. I will, however, propose alternate interpretations in which free will appears alive and well. Although the question of free will is unresolved, Libet's studies and others seem to place the following general findings on relatively solid ground:
 
-Libet’s studies suggest that consciousness of an event is only associ-
-ated with electric fields or other patterns in neural tissue that persist for
-about 500 milliseconds or more. Other studies by Libet suggest that the
+-   The pre-conscious may apparently be viewed as incompletely formed consciousness, that is, pre-conscious processes partly determine which conscious processes emerge after significant delay. Other parts of our unconscious remain forever hidden from awareness but exert important influences on our conscious mind, affecting our choices to act in certain ways. Interactions occur in both directions; the conscious mind may influence the unconscious, and vice versa.
 
-process leading to a voluntary act is initiated by the brain pre-consciously,
-well before the conscious decision to act occurs. This later finding raises
-the profound question of free will, thereby opening a huge can of worms
-with religious, ethical, and scientific implications. In these limited experi-
-ments, at least, the pre-conscious appears to act first. I will, however,
-propose alternate interpretations in which free will appears alive and well.
-Although the question of free will is unresolved, Libet’s studies and
-others seem to place the following general findings on relatively solid
-ground:
+-   Consciousness of an external event takes substantial time to develop, at least several hundred milliseconds. The early parts of a visual or auditory signal may reach the neocortex in 10 milliseconds, and it takes about 30 milliseconds for signals to cross the entire brain on cortico-cortical fibers. These white matter fibers connect different parts of the cerebral cortex to itself, with the so-called gray matter forming the outer layer of the brain, the cerebral cortex.
 
-* The pre-conscious may apparently be viewed as incompletely formed
-consciousness, that is, pre-conscious processes partly determine
-which conscious processes emerge after significant delay. Other
-parts of our unconscious remain forever hidden from awareness
-but exert important influences on our conscious mind, affecting our
-choices to act in certain ways. Interactions occur in both directions;
-the conscious mind may influence the unconscious, and vice versa.
-
-* Consciousness of an external event takes substantial time to develop,
-at least several hundred milliseconds. The early parts of a visual or
-auditory signal may reach the neocortex in 10 milliseconds, and it
-takes about 30 milliseconds for signals to cross the entire brain on
-cortico-cortical fibers. These white matter fibers connect different
-parts of the cerebral cortex to itself, with the so-called gray matter
-forming the outer layer of the brain, the cerebral cortex.
-
-* Since consciousness of external signals takes about 500 millisec-
-onds or so to develop, conscious awareness requires many passes
-of signals back and forth between multiple brain regions. In other
-words, the emergence of awareness requires the development of
-numerous feedback loops, involving widespread cortical and lower-
-brain regions. Consciousness of a sensory stimulus is apparently
-represented in the total activity of distributed cortical networks
-rather than any one network node. Consciousness is closely tied to
-the brain’s dynamic patterns.
-
+-   Since consciousness of external signals takes about 500 millisec- onds or so to develop, conscious awareness requires many passes of signals back and forth between multiple brain regions. In other words, the emergence of awareness requires the development of numerous feedback loops, involving widespread cortical and lower- brain regions. Consciousness of a sensory stimulus is apparently represented in the total activity of distributed cortical networks rather than any one network node. Consciousness is closely tied to the brain's dynamic patterns.
 :::
 
 ## 2.8 Summary
 
+## Div slide
 
+::: border
+This content can be styled with a border
+:::
 
+::: {.sidebar style="position: relative; left:150px; width:500px; border:3px solid green;"}
+::: {.warning style="color: red;"}
+Here is a warning.
+:::
 
-
-
-
-
+More content.
+:::
