@@ -1,0 +1,1481 @@
+
+# Cnapter 0
+
+RHYTHMS OF THE BRAIN
+
+## 6.1 THE MUSIC OF CONSCIOUSNESS
+
+This chapter’s title is more than just a catchy tag; brain rhythms have
+long provided highly reliable signatures of consciousness.! Such sci-
+fic studies typically involve the brain’s many and varied rhythms, often
+orded from the scalp with EEG. As suggested symbolically by figure
+, the brain’s electric (EEG) and magnetic (MEG) fields both extend a
+e outside the head, but these external fields fall offrapidly with distance
+n the scalp.? For our purposes, the labels “rhythm” and “oscillation” are
+d almost interchangeably. The word rhythm is typically associated with
+sic, while the tag oscillation often applies to physical systems. But in
+nt of fact, music is produced by physical systems, usually by mechan-
+vibrators like pianos, guitars, and vocal cords. Vibrators are found in
+h man-made and natural systems; they appear just about everywhere.
+linking the labels “rhythm” and “oscillation” we imply that they are
+rly the same thing; this tight link is appropriate to facilitate our use of
+sical analogues and metaphors.
+
+The reasons for our emphasis on rhythms in this chapter are many
+varied. Since first recorded in the 1920s, EEG rhythms have been
+sely related to a broad range of mental functions, including information
+sfer, perception, muscle control, memory, and general conscious state.
+our brain doesn’t produce brain rhythms, you are one dead duck— one
+he medical tests for brain death is a “flat EEG,” that is, the absence of
+trical rhythms on the scalp. Electrical oscillations are found at many
+ations in the brain and at different levels of tissue organization, as outlined in chapter 5. The cell assemblies creating these rhythms seem to
+
+emerge from single neurons to nested neural networks of difrerent sizes, and
+arently even to globally generated phenomena.
+
+
+
+### Fig. 6-1.
+
+Our discussions of brain rhythms and their close connections to
+tal processes make extensive use of analogue and metaphorical
+ems. These might be electrical, mechanical, molecular, social, and
+e. Remember that here we employ the label “metaphor” to convey the
+aning of some concept in a manner that is more easily visualized than
+original concept, but the metaphor need bear no genuine relationship
+he original concept. In contrast, an “analogue” possesses many of the
+
+
+1€ properties enjoyed by the more-complex thing that it represents, but
+| simplified manner that’s easier for us to grasp. In short, our use of the
+a1 “analogue” implies a stronger correspondence between systems than
+s “metaphor.”
+
+Chapter 3 employed the football-fan metaphor to demonstrate distinc-
+is between brain states of functional localization and states of global
+erence. It was argued that healthy brains tend to operate between these
+‘eme conditions. An alternate metaphor was chosen in chapter 5— the
+kering lights in our fanciful magic Christmas tree demonstrated that
+inct dynamic pattems of brain activity are measured at different spatial
+les. Still another brain metaphor is employed in this chapter— the
+hestra, a system consisting of the vibrating mechanical structures better
+wn in lofty intellectual circles as musical instruments. We will, in fact,
+ue that this musical “metaphor” may often rise to the level of “analogue.”
+
+The label “vibration” refers to oscillations of air pressure or elastic
+ds like the guitar string. The vibrating object then acts as the source
+sound that moves through the air or some other medium that supports
+/é propagation. The vibrating object might be a person’s vocal cords,
+string or the body of a guitar, or the diaphragm of a computer speaker.
+ny vibrating objects can create sounds, even the proverbial tree falling in
+rest. The sound might be musical or noisy; but regardless of the quality,
+nd waves are created by vibrating objects. By contrast, many systems
+duce oscillations of other things that have little to do with mechanical
+rations. In brains, oscillations of synaptic activity in large tissue masses
+recorded on the cortex or scalp as oscillations of electric fields. That
+l, the general properties of rhythms apply to a wide range of systems,
+these properties are more easily visualized in mechanical systems like
+sical instruments— we will make good use of this correspondence.
+
+Our rhythmic brains are, in several ways, much like magical orches-
+, ensembles of numerous musical instruments.’ A typical orchestra
+sists of four different sections containing string, brass, wind, and per
+sion instruments. These four sections may contain violins, horns, flutes,
+| drums (a brass section is depicted symbolically in figure 6-2). Our
+faphorical orchestra has no conductor and no conscious musicians;
+
+
+Tancilul instruments play by themselves and produce a wide range or
+thms. Flutes tend to vibrate the air at a single frequency, producing a
+e tone. By contrast, tubas vibrate at a special mix of frequencies that
+duce complex tones. Orchestra rhythms are generated at several levels
+organization. For example, small-scale oscillations originate with the
+ngs of the violin; the strings then stimulate a different mix of larger-
+le rhythms produced by the violin body, these rhythms are called the
+lin body’s overtones.
+
+### Fig. 6-2.
+
+An even-larger-scale mix of rhythms may be generated by a group of
+ruments forming each orchestra section. To make this analogy con-
+ent with genuine brain rhythms, we may imagine that each musical
+tion produces novel frequencies in addition to the mix generated by
+ividual instruments. That is, new frequencies emerge in each magical-
+hestra section. This could be accomplished mechanically in a real string
+tion by physically connecting several of the violin bodies with some
+
+
+| Ol fanciful “bridge. Ihe resulting “deep-throated violin’ would then
+xxpected to produce rhythms of very low frequency since larger stringed
+ruments tend to produce a lower range of frequencies. Similar argu-
+nts might be applied to the brass, wind, and percussion sections. Our
+ception of the quality of the sounds produced by the orchestra is deter-
+ied by the mix of frequencies produced. By analogy, the mix of rhythms
+duced in the brain is closely related to our conscious and unconscious
+es. In order to be mentally healthy, we must be properly “tuned.” Does
+description sound like some flaky mumbo jumbo dreamt up by meth
+icts? Maybe it sounds that way, but in the end, reality is revealed by
+uine experimental science, not preconceived notions of pseudoscience.
+y tuned.
+
+Our sensation of frequency is referred to as the pitch of a sound. Each
+h corresponds to a particular frequency, expressed in vibrations per
+ond or Hertz (Hz). The human ear is capable of detecting sound waves
+h frequencies ranging between approximately 20 Hz to 20,000 Hz.
+ys can hear sounds up to 45,000 Hz, and cats are even “faster” little
+sts, hearing sounds up to 85,000 Hz. Any two sounds whose frequen-
+; occur in a 2:1 ratio normally result in pleasant sensations when heard
+humans. That is, two sound waves sound good to most of us when
+yed together if one sound has twice the frequency of the other; the
+sons why we like this simple frequency ratio are unknown. Similarly,
+. sounds with a frequency ratio of 5:4 also sound good when played
+ether. Why? Nobody knows. Music appreciation is, of course, a very
+sonal aspect of our consciousness, reflecting a broad range of emotions
+opinions. Mark Twain once offered the following observation about a
+lous composer— “Wagner's music is better than it sounds.”® But appar-
+ly not all agree— Wagner’s music is actually banned in Israel because
+lis anti-Semitism. Note, however, that Wagner died fifty years before
+ler’s rise to power— so this issue raises interesting free-speech issues
+t are beyond the scope of our discussions.
+
+The frequencies at which objects like musical instruments tend to
+rate when disturbed by external forces are known as the natural fre-
+ncies of the object. For example, the violin shown in figure 6-3 has four
+
+
+ngs (G, D,A, EB), and each string has 1ts own set of natural trequencies,
+sisting of the fundamental (lowest) frequency and its harmonics, called
+tials by musicians. The strings, however, produce very little sound;
+st of the sound is produced by vibrations of the violin body. The violin
+ly responds selectively at its own natural frequencies, its fundamental
+its overtones. In short, the violin strings generate special frequencies
+t drive the body, but the body itself responds selectively, demonstrating
+jer-scale resonance.
+
+The selectivity of the strings and body indicate the phenomenon of
+nance, the tendency of systems to respond strongly only to certain
+quencies. The violin body responds to oscillations of all four strings,
+it responds most strongly to oscillations of the A string, which has a
+damental frequency of 440 Hz. Each string’s set of natural frequencies,
+fundamental and higher harmonics, may be adjusted by turning knobs
+he end of the violin, thereby changing the tension in selected strings.
+hter strings produce higher fundamental and harmonic frequencies.°
+
+Our metaphorical ghost orchestra consists of musical instruments but
+conductor or other conscious musicians. A ny air or ground disturbance
+jht stimulate the instruments so that they produce vibrations at their
+ural frequencies. The resulting sound is not likely to be pleasant to some
+gined godlike listener, but this is of no concem to us. These basic ideas
+ut musical sounds, natural frequencies, resonance, and so forth apply
+nost oscillating systems, including the electromagnetic fields picked up
+your cell phone, light sensed by cells in your retina, atomic events, and
+ral networks of various sizes and brain locations.
+
+In the orchestra, rhythms generated by the different musical sections
+produced at several levels of organization (spatial scales). In the case of
+stringed instruments, there are at least three such levels, the strings, the
+rument body, and the string section containing multiple instruments. In
+trast to string harmonics, the higher natural frequencies of the violin
+ly are not harmonics; that is, they are not multiples of the fundamental.
+1s, new notes may be generated by the violin body, which fail to match
+
+of the string’s natural frequencies; the higher natural frequencies of the
+ly are known as its overtones.
+
+
+
+### Fig. 6-3.
+
+Similarly, brain rhythms are generated at several or perhaps many
+anizational levels, ranging from the single neuron to the entire cere-
+| cortex and perhaps even the entire brain. The violin’s frequencies
+usually controlled by turning knobs to change string tension, but they
+jht also be controlled mechanically at the level of the violin body. This
+Id be accomplished with any sort of clamp that interferes with the
+lin body’s standing wave pattems, which are responsible for its reso-
+ce behavior. That is, the fundamental and overtones are caused by the
+
+
+rations or the corresponding standing wave patterns in the violin body.
+‘omparison, brain frequencies are controlled by various chemical neu-
+.0dulators that interact with neural networks at various scales, perhaps
+luding large-scale standing wave patterns, as discussed in chapter 7.
+
+## 6.2 RHYTHMS RECORDED ON THE SCALP
+
+continue our allegory of “brain music” with the actual rhythms recorded
+n the human scalp, called the electroencephalogram or EEG. These oscil-
+ons were first discovered in the 1920s and are the most widely studied of
+1uman rhythms. EEG consists only of the global brain rhythms and large-
+ntermediate-scale rhythms that manage to reach as far as the scalp— the
+sons for this selectivity are closely associated with the synchrony of some
+in sources (generators of electric fields). In contrast, oscillations gener-
+1 at smaller scales can only be studied with electrodes implanted inside
+skull, either on the brain surface or inside the brain itself.
+
+Imagine yourself as a prominent EEG scientist. As part of your research
+ject, you recruit “Sue,” a willing experimental subject represented here
+the mannequin in figure 6-4. You place a special electrode cap on Sue’s
+d, a simple and painless procedure. The experiment might go just a
+e easier if Sue were bald, but you don’t even think about asking her to
+ve her head. Sue is dedicated to science, but not that dedicated. Not to
+ry, modem EEG technology deals nicely with long hair. The cap may
+d a hundred or more embedded electrodes that fit snugly against Sue’s
+lp; the electrodes sense electric potentials and scalp currents generated
+de her brain. Sue’s EEG is recorded overnight while she lies in a com-
+able bed. EEG is transmitted to an isolated location with a computer
+sen showing her ongoing brain rhythms. In addition, a video camera
+ds images of Sue’s face to the computer monitor. Various physiological
+asures like muscle activity and eye movements are also displayed.
+
+Even if you are unfamiliar with EEG, its general relationship to Sue’s
+ntal state will soon become apparent. During deep sleep her EEG has
+jer amplitudes and contains much more low-frequency content, only
+
+
+ut one to four oscillations per second, called delta rhythms. During
+id eye movement sleep (REM), when her closed eyelids reveal under-
+ig eye movements associated with dreaming, Sue’s EEG contains much
+re fast-frequency content. When Sue is awake and relaxed with closed
+s, oscillations repeating about ten times per second are evident; these are
+wn as alpha rhythms. More-sophisticated monitoring allows for iden-
+ation of distinct sleep stages, depth of anesthesia, seizures, and other
+rological disorders. Similar scientific experiments reveal EEG correla-
+is with cognitive tasks like mental calculations, working memory, and
+ctive attention. EEG information is, however, mostly limited to general
+ntal states. We will certainly know whether or not Sue is conscious, but
+
+EEG will not tell us what Sue is thinking or if she is dreaming about
+
+boyfriend or perhaps a vacation in the Caribbean.
+
+
+### Fig. 6-4. 
+
+Many scientists are now so accustomed to these EEG correlations with
+n state that they may forget just how remarkable they are. EEGs provide
+y large-scale and reliable measures of brain dynamic behavior. By this
+3] we mean dynamic patterns, the spatial patterns of electric fields and cur-
+
+
+Ss over the scalp that change rapidly with time. | he general 1dea of dynamic
+avior in complex systems is demonstrated nicely by a series of weather
+9s like the snapshot shown in figure 6-5. This kind of changing pattern
+nalogous to dynamic patterns of electrical activity on the scalp or brain
+‘ace. For example, the epilepsy diseases are sometimes labeled “storms in
+brain,” analogous to the hurricane over Florida shown in the figure.
+
+
+### Fig. 6-5. 
+
+A single scalp electrode provides estimates of neural activity aver.
+d over tissue masses containing roughly between ten million and one
+ion neurons. The space averaging of brain potentials in scalp recordings
+orced by current spreading through the head. In a similar manner, the
+ither map of figure 6-5 represents space averages over many moderate-
+d air masses located in different regions. Much more detailed informa-
+| about the brain may be obtained from intracranial recordings in animals
+epileptic patients— such electrical activity may be recorded from the
+in surface as electrocorticograms (ECoG) or within its depths as a local
+d potentials (LFP). But intracranial electrodes implanted in living brains
+
+
+vide only very sparse spatial coverage, thereby failing to record the “big
+ure” of brain function. Depending on spatial scale or the size of neural
+works under study, intracranial recordings can see the proverbial trees
+bushes, and maybe even some of the ants on branches. By contrast,
+S sees much of the forest, but misses most of the detail. As in all experi-
+ntal science, measurement scale is a critical issue that must be consid-
+1 carefully when interpreting data. Studying this book with a microscope
+y cause you to miss the large-scale information content of its words. In
+trast to the apparent views of some, intracranial data generally provide
+erent information, not more information, than is obtained from the scalp.
+
+## 6.3 RHYTHMIC THINKING
+
+ore we dig more deeply into relationships between brain rhythms and
+sciousness, let’s make sure that we understand some of the basic ideas
+t apply to all kinds of rhythms or oscillations, whether they involve
+ins, sunspots, weather, earthquakes, music, traffic noise, light, cell
+nes, or any of the many kinds of oscillations that influence our daily
+s. Don’t worry; this discussion will not involve much in the way of
+inical detail. I just want to ensure that we all have a good grounding in
+jthms 101 before going forward.
+
+Each of the six sine waves (sinusoidal oscillations) shown in figure 6-6
+sists of five oscillations in the one-half-second periods shown, or ten
+illations per second. Each of these waveforms has amplitude equal to
+(in arbitrary units). The unit of oscillation frequency is given the name
+tz; thus, we call each of these rhythms “10 Hz oscillations.” The two
+yeforms in the uppermost plot differ only by a small phase difference;
+is, the peaks of the dashed curve occur a little earlier than peaks of the
+d curve. In contrast, the lower two waveforms are more out of phase;
+dashed waveform in the lowest plot is fully out of phase with the wave-
+n given by solid line. Every so-called sine wave is fully determined by
+three features— its amplitude, frequency, and phase. When the phases
+-up, or nearly so, as in the top figure, we say that the two signals are
+
+
+chronous. some neuroscientists make the untortunate error of equating
+chrony with coherence. These are closely related concepts, but they also
+olve very important scientific differences, as we shall see in chapter 7.
+
+
+
+### Fig. 6-6.
+
+
+In many fields, including music and brain science, we wish to know the
+tive contributions of different frequencies to our signals. Such measures
+especially important in EEG work because different frequency bands
+vide selective information about different brain states and specific mental
+vities. To achieve this goal of picking out individual frequencies from a
+yplex signal, computer algorithms are employed that can decompose any
+7eform, no matter how complicated, into its composite frequency compo-
+ts. This procedure, called spectral analysis, is analogous to atmospheric
+omposition of white light, containing a broad range of light colors and
+Juencies, into distinct rainbow colors, each belonging to a specific fre-
+ncy band of electromagnetic-field oscillations.
+
+6 Apples
+og 3 Oranges
+15 Fruits wR
+ee 4 Bananas
+we 2 Grapes
+6 Red 442 THz
+we 3 Orange 495
+15 Light Fe 49 ?
+4 Yellow 520
+—
+<a 2 Purple 745
+
+### Fig. 6-7.
+
+This general idea is demonstrated in figure 6-7, where we imagine a
+cery bag containing fifteen mixed pieces of fruit. The upper triangle
+ht represent some sort of conveyer belt with holes of different shapes
+
+
+d to sort the iruit collection into its component Iruits. similarly, the
+m shown in the lower part of figure 6-7 sorts the incoming light into
+r color components— red, orange, yellow, and purple. This light input
+he prism is called “colored light” rather than “white light” because the
+ribution of color intensity is not uniform, as indicated by the numbers
+ront of each labeled color. Thus, the particular colored light depicted
+e contains three times more red than purple, and so on. The light fre-
+ncies listed here, corresponding to the center of each color band, are
+ressed in terahertz (THz), where one THz equals one trillion (10?)
+The narrow region of electromagnetic radiation that we humans call
+ht” consists of very fast oscillations indeed. Special cells in the retina,
+rods and cones, are finely tuned to these superfast frequencies, acting
+tiny antennae that allow us to see the world around us.
+
+Our perception of light begins as a quantum resonance phenomenon;
+tis, special cells in our retinas are selectively sensitive to a very narrow
+ge of the electromagnetic fields that bombard our eyes on a constant
+is. Figure 6-8 shows the relationship of the narrow frequency band
+ed “light” to other parts of the electromagnetic spectrum. Not shown
+the ultraviolet and infrared bands, located just to the left and right,
+ectively, of the very narrow visible light band. The wiggly line at the
+indicates symbolically that oscillations get slower as we move from left
+ight, but the actual frequency range depicted spans more than twenty
+tors of ten (107°). Other species are selectively sensitive to somewhat-
+erent light frequencies, but mostly in the same general range, mainly
+ause they evolved in the same atmosphere, which selectively filters the
+’s electromagnetic fields.
+
+
+### Fig. 6-8.
+
+
+The EEG community employs its own labels to characterize wave-
+ns according to frequency band: delta (1-4 Hz), theta (4-8 Hz), alpha
+13 Hz), beta (13-20 Hz), and gamma (usually greater than 30 Hz).
+se Categories should be taken with a pound of salt because EEG is typi-
+y composed of mixtures of many frequencies. For example, so-called
+a activity may actually be composed of beta oscillations superimposed
+
+
+### Fig, 6-9.
+
+
+arger-amplitude alpha. | his contusion originates from times before the
+Os when spectral analysis came into more common use in EEG. Here
+demonstrate spectral analysis using the artificial signal shown in the
+er part of figure 6-9. The sample signal may seem a bit complicated at
+t; however, spectral analysis of much a longer time interval shows that
+ctually consists of just three frequency components, 5, 8, and 11 Hz,
+5 a little noise. The corresponding relative amplitudes of the frequency
+yponents are 1, 3, and 2, as indicated by the heights of the three peaks
+wn in the lower plot. These amplitudes are analogous to the numbers of
+cific fruits in our metaphorical fruit basket in figure 6-7.
+
+## 6.4 NORMAL AND ABNORMAL RHYTHMS
+
+» so-called alpha rhythm is an important human EEG category that actu-
+‘embodies several distinct kinds of alpha rhythms, usually identified as
+illations at frequencies near 10 Hz. A four-second epoch, consisting of
+tiple alpha rhythms, in an awake and relaxed human subject is illus-
+ed by the plot over time in the upper part of figure 6-10; the amplitude
+5 is labeled in microvolts (one millionth of a volt). This tiny signal
+bout one hundred times smaller than the electric potential measured
+r the heart (EKG). In order to improve accuracy, the corresponding
+Juency spectrum in the lower plot is based on a full five minutes of data
+er than the four seconds shown in the upper plot. More-sophisticated
+lyses suggest that this rhythm is probably composed of at least three
+inct processes, two intermediate-scale networks plus a global (entire
+tex) contribution. The double peak in the alpha band partly reflects this
+ticomponent interpretation. Other tests, involving distinctive spatial
+ributions over the scalp and selective reactivity to mental tasks of dif-
+nt alpha frequencies, support this multiprocess interpretation of alpha
+thm phenomena.
+
+Alpha-rhythm amplitudes are typically larger near the back of the
+in (the occipital cortex) and smaller over frontal regions, depending
+tly on the subject’s state of relaxation. Often, the more relaxed the
+
+
+### Fig. 6-10. Based on the work of Brett M. Wingeier, “A High-Resolution
+Study of Large-Scale Dynamic Properties of Human EEG”
+(PhD diss., Tulane University, April 2004),
+
+subject, the larger the frontal alpha. In addition to alpha rhythms, a wide
+variety of human EEG activity has been recorded, a proverbial zoo of
+"dynamic signatures,” each waveform dependent in its own way on time
+| scalp location. Normal resting alpha rhythms may have substan-
+ly reduced amplitudes with eye opening, drowsiness, or mental tasks.
+perventilation and drugs like alcohol may cause a lowering of alpha
+quencies and increased amplitudes. The barbiturates are associated
+h increased amplitude of low-amplitude beta activity perhaps super-
+yosed on alpha rhythms. We will revisit alpha rhythms in later sections
+his chapter.
+
+
+LOss OF normal consciousness occurs during sleep, especially the deep
+
+2p more evident early in the night. Sleep and waking are controlled by
+romodulators, special chemicals released by cells deep in the brain.
+‘se neuromodulators influence the excitability of target cells in other
+ts of the brain, thereby acting to tune the brain in a manner analogous
+uning the musical instruments in our magic orchestra. As a result of this
+trol by lower brain structures, brain and mind cycle through various
+yes of sleep every night. The sleeping brain is capable of generating
+maginary inner world, the dream world, which is mostly disconnected
+n the real world, as discussed in chapter 4. As previously mentioned,
+body alternates between non-REM and REM (rapid eye movement)
+yes; and this latter stage also involves near paralysis of muscles, thereby
+venting sleepwalking in most people.
+
+Two famous early EEG pioneers are neuroscientist Herbert Jasper
+| his colleague neurosurgeon Wilder Penfield, known for his elec-
+al stimulation of cortical tissue, a procedure that sometimes evoked
+t memories in his epileptic patients. Cortical stimulation of con-
+us patients is needed even today to identify critical network hubs like
+ech centers to be spared from the surgeon’s knife. The brain has no
+n receptors, so this procedure is carried out under a local anesthetic.
+merous EEG (scalp) and ECoG (cortical surface) recordings of epi-
+sy patients were obtained by Jasper and Penfield in the 1940s and 50s.
+s work is summarized in their classic work, Epilepsy and the Func-
+1al Anatomy of the Human Brain.’
+
+Several idealized representations of scalp-recorded normal rhythms are
+wn in figure 6-11; the vertical scale is 100 mV (microvolts). The resting
+1a rhythms occur mainly with closed eyes and have typical amplitudes of
+ut 40 mV, whereas deep sleep and coma may exceed 100 mV. The EEG-
+traces shown in figure 6-11 provide consciousness signatures or “finger-
+ts” of various sleeping and waking states, including different kinds of
+ital activity. However, genuine EEG typically consists of mixtures of dif-
+nt frequency components. The upper plot might represent deep sleep (stage
+coma, or anesthesia. The second plot represents theta rhythms that increase
+mplitude with certain kinds of mental tasks. The third plot indicates a com-
+
+
+ite OF local and global alpha rhythms, typically recorded in relaxed subjects
+n closed eyes. Different alpha rhythms with similar or equal frequencies
+selectively modulated by different mental tasks. In the lower (beta rhythm)
+, the subject might also have been engaged in some difficult mental task.
+nma rhythms (40 Hz range) on the scalp are very low-amplitude and dif-
+It or perhaps impossible to distinguish from muscle artifact. REM sleep is
+shown, but it somewhat resembles the beta trace. Stage 2 sleep consists of
+‘tures of relatively fast (theta and alpha) and very slow (delta) frequencies,
+areas stage 3 (deep sleep) is dominated by delta frequencies near 1 Hz, as
+wn in the uppermost plot. A normal sequence of the sleep stages as they
+ur overnight was shown earlier in figure 4-3, indicating that the REM stage
+ciated with dreaming is sometimes viewed as a partial awaking. The brain
+cally cycles through four or five sleeping cycles each night.
+
+- delta thythms (1 to 4 Hz, deep sleep, anesthesia, coma)
+- theta rhythms (5 to 7 Hz, mental tasks)
+- alpha rhythms (8 to 13 Hz, local and global mental tasks)
+- beta rhythms (14 to 20+ Hz, mental tasks)
+
+### Fig, 6-11,
+
+
+Progressively deeper states Ol unconsciousness generally occur with
+er-frequency content and larger amplitudes.® Note that this general
+le of brain” runs directly counter to the simple Christmas-lights brain
+ere deeper thinking is imagined to occur with more or brighter lights. In
+, the scientific truth is just the opposite—the larger the EEG amplitude
+| the lower the frequency, the more likely that the subject is unconscious
+ause of deep sleep, anesthesia, coma, or epileptic seizure. The reasons
+this outcome have partly to do with the local-global balance described
+onnection with our football-fan metaphor— a healthy awake brain must
+rate between the extremes of global coherence and functional localiza-
+. Furthermore, the patterns associated with consciousness apparently
+uire the presence of large numbers of inactive neurons. High dynamic
+iplexity and conscious states seem to require substantial regions of
+et neurons, as discussed in chapter 9.
+
+The general rule that lower EEG frequencies tend to occur with larger
+plitudes has held up quite well in modem studies, although partial
+eptions occur. Two such cases are alpha coma and halothane anes-
+sia; in both of these cases, large-amplitude alpha rhythms occur over
+entire scalp. Thus, the aspect of the “rule of brain” that relates large
+plitudes to unconscious states holds; however, these alpha rhythms
+late the usual low-frequency connection with unconscious states. This
+ervation serves as still another reminder that the so-called alpha rhythm
+ically consists of multiple processes along the local-to-global range of
+ha-related phenomena.
+
+Another interesting property of the halothane drug is its ability to
+e the brain to any dominant frequency between about 16 and 4 Hz by
+reasing blood concentration of the drug, controlling depth of anes-
+sia. Deeper anesthesia again results in larger amplitudes and lower
+juencies, consistent with our “rule of brain.” As we will discuss in
+pter 7, halothane rhythms are good candidates for global phenomena
+» standing waves, with minimal distortion from local networks. Other
+sthetics have their own characteristic EEG signatures, typically similar
+he deep sleep or coma traces.
+
+Cortical recordings indicate that differences in ECoG dynamic behavior
+
+
+ween cortical areas tends to disappear during anesthesia.’ A large
+iety of EEG behaviors may be observed depending on depth and type
+mnesthesia or coma. These include sinusoidal oscillations and complex
+reforms (combinations of frequencies) in the delta, theta, alpha, and
+a bands. A gain, lower-frequency oscillations tend to occur with larger
+plitudes in a wide range of brain states. Furthermore, local differences in
+|p waveforms tend to disappear with deeper anesthesia, indicating tran-
+ons from more local (functionally segregated) to more global dynamic
+avior. This observation fits nicely within our conceptual framework of
+al cognitive networks embedded in global fields or networks, which
+J to be more evident when mental processing is minimal. Under “meta-
+rical anesthesia” our football-fans are all cheering together mindlessly;
+side observers can discern little or no signs of intelligence. Mob rule
+extreme nationalism provide additional examples. As a citizen of
+gue recently characterized the Nazi period to me, “Bands were playing,
+| were marching, brains were paralyzed.”
+
+The EEG-like traces shown in figure 6-11 indicate only a small part
+2 much larger “zoo” of EEG rhythms, some having no known clinical
+relates.!° Many abnormal rhythms have been recorded from the cortex
+scalps of epileptic patients. These include unusually large rhythms in
+delta, theta, alpha, beta, and gamma bands. A 14 Hz rhythm normally
+urs during REM sleep; a regular 3 Hz rhythm might occur in epilepsy
+n certain comas. A classical epilepsy signature is the “3 Hz spike and
+ve,” which often occurs over the entire scalp. Global spike-and-wave
+es typically occur during nonconvulsive absence seizures in which
+areness is lost for seconds or minutes. Why do these distinct dynamic
+ferns occur? The answers are mostly unknown. However, we see clearly
+| many nuanced differences in conscious states are revealed by very
+cific and detailed dynamic patterns of EEG, even though this large-
+le scalp measure suffers from the limitations of poor spatial resolution.
+
+
+## 6.5 SYNCHRONOUS GAMMA RHYTHMS RECORDED FROM INSIDE THE SKULL
+
+‘obvious ethical reasons, human recordings from the cortical surface
+:0G) or from inside the brain (LEP or single-cell recordings) are limited
+yatients who have electrodes implanted for medical reasons. In addi-
+, intracranial recordings in living animals have long been undertaken
+nvestigate a broad range of scientific issues. Even a limited summary
+his work would require an entire book of its own; no such ambitious
+rt is attempted here. The main point I want to emphasize is that many
+called signatures of consciousness have been discovered with electro-
+siology over the past century. As expected in any genuine complex
+tem, the results are often scale-specific. For example, the dynamic pat-
+is of neuron firing rates in local tissues are likely to look quite different
+n the larger-scale measures of identical mental activity. We suspect that
+different patterns are related in some way, but how?
+
+With this caveat in mind, some prominent animal studies of synchro-
+is rhythms are outlined here; similar studies have since been carried
+in humans. In the early 1990s, neuroscientist Wolf Singer advanced a
+vocative idea— different features of an animal’s world are represented
+distinct cell assemblies (networks) that can be “bound together,” that
+functionally connected, by synchronous rhythms." Shortly after, the
+chy label “bound by synchrony” entered the neuroscience lexicon. The
+inical details of such studies need not concern us, but the general idea
+his— suppose a monkey is trained to search through a pile of boxes
+ind a hidden banana when the project scientist rings a bell. This task
+uires the monkey to integrate functions associated with memory, plan-
+g, vision, and directed hand movements.
+
+In these kinds of studies, simultaneous recordings from different areas
+animal cortex reveal that cortical areas involved in combined visual,
+tor, and somatosensory tasks may tend to synchronize local field poten-
+s (LFPs) when the animals prepare for the task and focus their attention.
+se findings emphasize oscillations at frequencies in the gamma band
+ically above 30 Hz). In perceptual-motor tasks (planning and moving),
+
+
+ima- band synchrony 1s maintained until the task is completed, at which
+e the synchronized patterns collapse and give way to lower-frequency
+ynchronized oscillations. For many neuroscientists, this “binding by
+chrony” idea qualifies as a genuine “paradigm shift” by suggesting
+t synchronized oscillatory activity across different cell assemblies is
+ritical feature underlying cognition rather than just fixed anatomical
+nections. In other words, remote neural networks can be made to work
+ether if theirrhythms “match” in some way. The analogy to coordinated
+sical instruments in an orchestra is compelling in this context; the brain
+ue that plays together stays healthy together.
+
+In the broader context of the multiscale electrical measures of EEG,
+oG, LFP, and single neurons, the experiments support a conceptual frame-
+k where healthy mental activity depends critically on phenomena in mul-
+e, but selective, frequency bands. In humans, such select frequencies can
+arently cover a broad range, perhaps something like 1-100 Hz, although
+cific experimental designs, especially involving spatial-measurement
+le, are likely to reveal only (perhaps very small) parts of these spectral
+atures. In chapter 7, we will see that a large number of synchrony-related
+atures of mental states have been discovered, but these are nearly all in
+low-frequency range, thatis, less than about 15 Hz. The apparent discon-
+t between these low-frequency results and the 40 Hz (gamma) signatures
+lined above results mostly from the disparate spatial scales involved in
+erent experimental designs. Our takeaway message is this— signatures
+sonsciousness occur at a number of spatial scales and in multiple (but
+ct) frequency bands. In more-colorful language, properly tuned brains
+m to orchestrate the beautiful music of consciousness, but brain music
+ot limited to the popular gamma “tunes.” Delta, theta, alpha, and beta
+thms are also on the sentient music charts.
+
+## 6.6 LOCAL-GLOBAL NERVOUS SYSTEMS
+ny old-school psychologists seem to have viewed the brain as a passive,
+nulus-driven organ that does not create meaning by itself, but rather
+
+
+cts to sensory inputs. sensory processing was imagined to consist
+nly of the extraction and processing of features obtained from the
+ironment. One obvious problem with this kind of approach is that it
+ores the critical influence of memory. In contrast, modern views con-
+sr conscious perception to be a more active and selective process in
+ich stimulus processing is controlled by global brain influences that
+lude memory. These influences shape the dynamic patterns of networks
+create predictions about future sensory events on an ongoing basis.
+cite a matching example, scientists produce models of the world that
+checked against experimental evidence. Similarly, evolution has pro-
+ed brains that continuously create models; in healthy brains at least,
+h models are checked through experience.”
+
+In an evolutionary context, the main task of cognition is to guide
+on, so the test of mental success consists of creating actions adapted to
+external environment. Mental activity does not create rigid models of
+world; it is subject to the ever-changing environment; thus the resulting
+straints must be flexible. This general picture seems to suggest that
+ntal functions require the collective behavior of large neural popula-
+is, which are dynamically bound across subsystems. In simple terms,
+lthy brains operate as complex global systems with embedded local
+works, an idea analogous to social networks embedded in a culture.
+Intelligent behavior presupposes that a mental system can partly detach
+itself from current stimuli and select only those inputs concerned with the
+free control of action. In the real world, such processing must be both fast
+reliable, allowing predictions about new sensory input and constantly
+matching expectations against signals from the environment. Memory is
+clearly a critical feature of this process. In short, the brain both creates and
+ses models of reality on an ongoing basis. Suppose you walk in a dense
+ast at night; you may soon become aware of many distinct sounds.
+ne sounds will be familiar, some will not. Most will seem benign, but
+1e may raise mental warning flags, perhaps even leading to a flight-or-
+it response. Each of these sounds contributes to your updated mental
+del of the environment. In ancient times, one’s life depended on contin-
+ly updating accurate models of the surrounding world. Even in modern
+
+
+times, bad models or models that are out of date often produce adverse
+sequences.
+A model brain seemingly consistent with the top-down and bottom-up
+amic processes implied above is indicated symbolically in figure 6-12.
+» big gray circle represents a large part of the cerebral cortex or maybe
+n the entire brain. The many small symbols represent three distinct
+je-scale networks; that is, identical symbols indicate brain tissue that
+ains functionally connected (in some way) for at least several hundred
+liseconds. Thus, the black triangles represent a network distributed
+r the back of the brain in both hemispheres. The gray trapezoids are
+ts of a more frontal network. Each individual symbol suggests local
+ue at perhaps the millimeter or centimeter scale; symbols in common
+icate a global or regional network, perhaps part of the so-called global
+workspace, in the language of cognitive science.
+
+
+### Fig. 6-12.
+
+We have emphasized that consciousness is distributed over time; figure
+6-12 suggests that it is also distributed over space within the brain. The
+
+
+spatially distributed aspect of consciousness may be illustrated by a metaphor taken from one of my favorite science fiction stories. In 1957, British
+onomer Fred Hoyle published The Black Cloud,” a provocative little
+el read by many of the physics and astronomy students of my genera-
+. Even though this story is more than a half century old, the scientific
+aS remain quite up to date, especially in the context of multiple uncon-
+yus and pre-conscious systems underlying a large-scale consciousness.
+In Hoyle’s novel, an enormous black cloud of matter approaches our
+ar system. The heroic scientists make repeated attempts to study its
+sical properties by probing the cloud with electromagnetic signals of
+erent frequencies, resulting in cloud resonant behavior in apparent vio-
+on of known physical laws. A fter eliminating all other possibilities and
+owing the famous advice of Sherlock Holmes, the scientists are forced
+mn astounding conclusion— the cloud is conscious! The scientist's next
+stion is whether the cloud contains a single consciousness or many
+e conscious entities. They decide that the cloud has developed highly
+‘ctive means of internal communication by electromagnetic fields. Each
+ill part of the cloud is able to send signals to other parts in select fre-
+ncy bands. The imagined process is analogous to the modem Intemet,
+with a large fraction of the earth’s population online at all times and
+idly sending messages to an ever-changing subset of recipients.
+
+The scientists decide that because the rate of information transfer
+ween all parts of the cloud is so high, the sub-clouds cannot be consid-
+J as having separate consciousness. Any thoughts or emotions experi-
+ed by a sub-cloud are assumed to be quickly and fully transmitted to
+ny other sub-clouds. Thus the black cloud is deemed to contain a single
+bal consciousness. Individual sub-clouds might be concerned with
+used tasks like celestial navigation, memory storage, internal regula-
+1 of bodily functions, and so forth; however, for the cloud to behave as a
+jle mind, the sub-clouds must orchestrate their work in concert. Neuro-
+ntists refer to the analogous brain processes as functional segregation
+functional integration. Different brain regions do different things; they
+segregated. At the same time, they cooperate to yield a unified behavior
+unified consciousness, so they are integrated. The question of how this
+
+
+de accomplished in human brains 1s known as the binding problem in
+roscience. The idea that brain networks are bound by synchrony seems
+te plausible when viewed in this context.
+
+The local-global brain system of figure 6-12 might also be viewed as
+nciful representation of the black cloud’s “nervous system,” imagined
+9e composed of many sub-clouds analogous to local networks. This
+ture also provides an idea of how human brains may operate by means
+the interactions between many subsystems. The common symbols
+resent functional connections rather than fixed connections between
+ue masses. While the human brain contains more than a hundred trillion
+ (10^14) “hardwired” fiber connections, figure 6-12 represents only a
+"time-smeared snapshot” of active functional connections that last for at
+least several hundred milliseconds. The functional connections may tum
+and off in fractions of a second. In our fanciful black cloud, this process
+witching specific interactions between sub-clouds is accomplished by
+ing electromagnetic transmitter signals to match the resonance charac-
+stic of the receivers, analogous to a gigantic system of broadcasting sta-
+is and TV tuners, also operating on resonance principles. In chapter 7,
+opose the conjecture that resonant interactions between brain masses
+y allow for an analogous selectivity of communication between brain
+-systems, thereby addressing the binding problem of brain science.
+Wait just a minute! My mental crystal ball showing pictures of future
+nts just lit up; some readers are now thinking, “Who is this crackpot
+) claims that brains consist of little gremlins sending cell-phone mes-
+es to each other?” But unlike the black cloud’s means of selective com-
+nication, my proposed brain resonance effects have little to do with
+tromagnetic fields and cell-phone antennae. Brain resonance has been
+iblished experimentally at several organizational levels; not so sur.
+sing since an uncountable number of neural network models have antic-
+‘ed this result. In simple terms, resonance is just about everywhere; why
+the brain?
+
+
+## 6.7 A SHORT HISTORY OF ALPHA RHYTHMS
+
+ha rhythms may be defined as EEG signals with relatively large fre-
+mcy components in the 8 to 13 Hz range when recorded from the human
+lp. Here we spend a little extra time on this topic because of the close
+tionship of several kinds of alpha rhythms to local-global dynamic pat-
+is and spatial-measurement scales. Alpha rhythms were first recorded
+the German psychologist Hans Berger in 1924; the early subjects were
+stly Berger’s teenage children. Alpha-rhythm amplitudes on the scalp
+typically in the range of 20 to 50 microvolts (uV), more than thirty
+usand times lower than the voltage produced by a single AA battery. An
+ortant barrier to reliable recordings is scalp-recorded artifact of various
+ds— electrical noise from the laboratory environment as well as bio-
+ic artifacts like heart, muscle, eye, and body-movement voltages. Even
+h the technological advances of the past century, the EEG artifact issue
+ains very much alive today. In short, we really want to know what’s
+ng on in the brain, not just the junk in the scalp.
+
+Because of his doubts that he was actually recording genuine brain
+vity, Berger took five years to publish his first paper in 1929; his trans-
+d title is Recording the Electrical Activity of the Human Brain from
+Surface of the Head. His findings were first met with disbelief and
+tempt by the German medical and scientific establishments. However,
+1934 British scientists had confirmed Berger’s observations. By 1938,
+stroencephalography (EEG) had gained stamps of approval by many
+ent scientists, leading to expanded research and use in medical diag-
+es, practiced mainly in the United States, England, France, and the
+riet Union. Since that time EEG has continued to provide an amazingly
+ust window on the working mind.
+
+This short history might make us stop and think about its implications
+current and future findings of brain science that may or may not prove
+oe valid. Perhaps Berger’s problems with getting his work accepted
+jht cause us to think, “Oh, those dumb scientists; they couldn’t rec-
+‘ize EEG as a fantastic new tool to study consciousness when it was
+ing them right in the face.” But this attitude is unwarranted; it only
+
+
+ks valid with the benefit of hindsight. Whenever some new scientific
+ling is published, other scientists must decide whether or not to carry
+work to the next step. So if one hears of some so-called breakthrough,
+ers must make educated guesses as to whether going to the trouble and
+ense of new research directions is a good bet. Such decisions are based
+both science and “art,” meaning our intuitive feelings about the implied
+abling odds.
+
+New results that seem to violate known physical or biological laws
+| almost certainly be regarded as bad bets. However, the number of
+ential experiments that are consistent with accepted science is essen-
+ly infinite. Suppose we believe that some discovery can have profound
+sequences if confirmed, but the chances of successful verification are
+; when should we bet on such long shots? Let’s say you go to the race-
+k and examine a really good-looking horse waiting in his stall for a few
+utes of glory. He’s a 50 to 1 shot; do you bet on this hay burner? Maybe
+| bet your lunch money, but probably not your year’s salary. In chapter
+we return to this scientific gambling issue in connection with certain
+ects of quantum mechanics, controlled fusion, searches for extraterres-
+| intelligence (SETI), and extrasensory perception (ESP).
+
+In modern EEG work the basic question of whether or not some
+orded signal actually originates in the brain is a continuing source of
+cern for serious scientists. Unfortunately, there have been some scien-
+s who didn’t seem to worry much about this issue; they simply declared
+ir data to be “artifact-free.” Thus, the artifact problem was simply con-
+sd away as if some magician waved his magic wand and “poof!” it was
+e. Earlier we cited studies of gamma rhythms (faster than about 30 Hz)
+orded in animals and human epileptic patients. One can also record
+mma rhythms” from the scalp. It’s easy; just ask the subject to clench
+jaw—a flood of gamma oscillations will then be produced by scalp
+scles. Good EEG scientists must assume the vigilant role of sheriffs
+tecting genuine brain signals from the evil artifacts. How can we tell
+difference? There are several solutions, including proper use of mental
+<s, checks for consistency, focus on narrow frequency band responses,
+so forth. As in all of science, the devil is in the details.
+
+
+## 6.8 ALPHA RHYTHMS: THE GOOD, THE BAD, AND THE UGLY
+osterior rhythm of approximately 4 Hz develops in babies in the first few
+nths of age. The amplitude increases with eye closure and is believed to
+the precursor of at least one of the mature alpha rhythms. Maturation of
+1a rhythms is characterized by increased frequency between ages of about
+e and ten. Alpha rhythms, like most EEG phenomena, typically exhibit
+inverse relationship between amplitude and frequency. Hyperventila-
+| and some drugs, like alcohol, may cause reductions of alpha frequen-
+: together with increased amplitudes. Other drugs, like barbiturates, may
+ssociated with increased amplitude of beta activity superimposed on scalp
+1a rhythms. The physiological bases for the inverse relation between ampli-
+2 and frequency and most other properties of EEG are largely unknown,
+ough physiologically based theories have provided tentative explanations.
+Alpha rhythms provide an appropriate starting point for EEG medical
+ms. Some initial clinical questions are, Does the patient show an alpha
+thm with eyes closed, especially over posterior scalp? Are its spatial-
+poral characteristics appropriate for the patient’s age? How does it react
+yes opening, hyperventilation, drowsiness, and so forth? For example,
+ase is often associated with pronounced differences in EEG recorded
+r opposite hemispheres, or with very low alpha frequencies. A resting
+ha frequency lower than about 8 Hz in adults is considered abnormal in
+but the very old.
+
+The largest alpha amplitudes usually occur over electrode sites in the
+k of the head (near the occipital cortex), and when the experimental
+ject or patient is awake and relaxed with closed eyes. Many have inter
+ted this experimental observation as evidence that alpha is generated in
+occipital cortex. Others have dismissed the alpha rhythm as a simple
+ng of the brain when it has nothing better to do. My interpretation of
+ha is quite different, involving multiple alpha rhythms, at least one
+bal and several local. Such rhythms provide genuine signatures of con-
+yusness. Furthermore, the singular label “alpha rhythm” is misleading
+associated with several scientific blunders, as I discussed in “Fallacies
+EG,” a chapter in Electric Fields of the Brain.’* My Intemet search
+
+
+“alpha rhythm” yielded about 1.0 million hits, but more than a little
+his material is marginal science. Just to cite one common error— aver.
+d over time, the largest alpha amplitudes do appear near occipital and
+etal regions with somewhat lesser contributions from frontal regions.
+ny amplitude maps, based on long time averages, have been published
+wing “hot spots,” often in bright red, over posterior regions, thereby
+tributing to the view of alpha as a localized phenomenon. Unfortu-
+aly, such pictures misrepresent what is in reality a much more complex
+cess. In short, such crude time averages of complex dynamic processes
+iny kind can be highly misleading if not properly interpreted.
+
+Modern studies of alpha rhythms recorded from the human scalp with
+h-density electrode arrays have confirmed several essential features
+erved in cortical recordings by the EEG pioneers of the 1940s through
+0s. The alpha band in waking humans encompasses a complex mixture
+listinct phenomena determined by different reactivity to tasks, spatial
+ribution over the scalp, and frequency sub-band. For example, some
+‘S cause upper and lower band alpha amplitudes to change in oppo-
+
+directions. Some of the early findings of cortical surface recordings
+‘oG) have recently been rediscovered after years of scientific amnesia.
+se modern results have largely confirmed the following description by
+S pioneer Grey Walter:
+
+We have managed to check the alpha band rhythm with intra cerebral
+
+electrodes in the occipital-parietal cortex; in regions which are practi-
+
+cally adjacent and almost congruent one finds a variety of alpha rhythms,
+some are blocked by opening and closing the eyes, some are not, some
+respond in some way to mental activity and some do not. What one can
+
+see on the scalp is a spatial average of and large number of compo-
+
+nents, and whether you see an alpha rhythm of a particular type or not
+
+depends on which component happens to be the most highly synchro-
+nized process over the largest superficial area; there are complex rhythms
+
+in everybody.'5
+
+Many modern studies of alpha rhythm-related signatures of mental
+e have been published; here I will outline one simple experiment that
+
+
+several Of my students and colleagues carried out in collaboration with
+over several years.'° Our volunteer subjects, often one of the students
+participating scientists, were fitted with an electrode cap like the one
+wn in figure 6-4. The subject closes his or her eyes and is told to relax
+ing five alternating one-minute periods depicted by the white rectangles
+igure 6-13. During the five intervening one-minute periods indicated by
+gray rectangles, the subject performs the following mental calculation.
+rting with a number supplied by the scientist, the subject progressively
+s 1, 2, 3, and so on to keep a running total— for example, 7, 8, 10, 13,
+22, and so on up sums of several hundred. This task involves an active
+1ponent (performing the sums) plus a working-memory aspect needed
+emember the previous total at each step.
+
+
+
+### Fig. 6-13.
+
+The subject performs this moderately difficult task with closed eyes
+without body movement; both conditions tend to minimize artifact con-
+ination of the EEG. Another feature of this experimental design is that
+
+
+tests for the consistency of results are easy to obtain. I he ten one-minute
+iods indicated in figure 6-13 involve nine transitions between resting
+calculating states. By recording EEG from more than one hundred
+lp locations, we can look for consistent changes in the amplitudes of
+erent rhythms, synchrony, coherence, and other kinds of dynamic patterns
+ that will be discussed in the next chapter.
+
+Numerous studies in the past, including Berger’s original work,
+have found reductions in the so-called alpha rhythm during moderate to
+demanding mental tasks. But our studies, based on narrow-band frequencies and summarized for a “typical” subject in figure 6-14, reveal more-nuanced
+ results. The black regions indicate frequency bands where rhythm
+plitudes (averaged over all scalp sites) always increased during the five
+sitions between resting and calculation states, and always decreased
+ing the four transitions between calculation and resting states. In other
+rds, mental calculations were consistently associated with increases in
+er-alpha-band (mostly 10 to 12 Hz) and theta-band (mostly 5 to 6 Hz)
+amplitudes.
+
+### Fig. 6-14,
+
+The gray region (8 to 10 Hz) indicates just the opposite result— lower
+alpha- band amplitudes consistently decreased during mental calculations.
+Only these small parts of the displayed spectrum (1 to 20 Hz) yielded
+changes that were consistent across all nine state transitions; no repeatable
+ changes in the delta or beta bands were observed. Of course, if we were
+ to relax the consistency requirement, moderate statistically significant
+ effects in the delta and beta bands would be found as well. The
+amplitude reductions in the lower alpha band tended to be larger than the
+amplitude increases in the upper alpha band. Thus, if we were to lump the
+
+
+entire alpha band (8 to 13 Hz) into a single category, we would find that
+"alpha” is reduced or “blocked” by mental activity, as many earlier studies
+have reported. Thus, the common phrase “alpha blocking” is, at best, misleading. These results remind us again of the intricate, detailed nature of
+dynamic patterns associated with different kinds of mental activity; the simple Christmas-lights analogue fails miserably in this case.
+
+What about the famous gamma rhythms, seemingly so important in
+intracranial studies of mental activity, at least in animals? In this experiment, our results in the gamma band were inconsistent and could not be
+interpreted in terms of brain function— we were unable to distinguish
+muscle and eye artifact from high-frequency brain signals. However, my
+guess is that LEP or ECoG electrodes would have found reliable gamma
+changes between resting and calculation states, but the details of such
+expected results are unknown. In my experience with experimental EEG,
+whole lot of data gets dumped in the trash can because we can’t verify
+that it’s genuine. This general observation is certainly not confined to brain
+science. Again, good science should involve numerous checks and cross
+checks before the data are allowed to be published.
+
+## 6.9 SUMMARY
+
+The brain produces many kinds of rhythms—some are recorded on the
+nan scalp with EEG; others are observed only with intracranial electrodes.
+The provocative label “rhythms” is appropriate for an orchestra, the
+brain metaphor proposed in this chapter. Brain rhythms are closely related
+to a broad range of mental functions, including information transfer, perception, muscle control, memory, and general states of consciousness. The
+structures creating these rhythms can range from single neurons to nested neural
+ networks of different sizes, and even to globally generated phenomena; thus brain rhythms are expected to be scale-sensitive in experimental work.
+
+Earlier chapters employed the football-fan metaphor to demonstrate
+es of functional localization versus states of global coherence. The
+
+magical-Christmas-lights metaphor indicated how distinct dynamic patterns
+of brain activity are measured at different spatial scales. Our fanciful
+orchestra is yet another system producing activity at multiple scales—a
+system of vibrating musical instruments with no conductor or conscious
+sicians. Orchestra rhythms are generated at several levels of organization
+-small-scale rhythms originate with violin strings, which stimulate
+a different mix of overtones produced by the violin body. The orchestra’s string
+section provides an even higher organizational level. Similarly, brain
+rhythms are generated at several or perhaps many organizational levels,
+ranging from single neurons to the entire cerebral cortex and perhaps even
+entire brain.
+
+The frequencies at which objects like musical instruments tend to
+rate are the object’s natural frequencies. The violin has four strings;
+each string has its own set of natural frequencies, consisting of the fundamental and its harmonics. The strings themselves produce very little sound;
+most of the sound is produced by the violin body, which responds
+selectively at its own natural frequencies, called the overtones. Resonance
+is this tendency to respond strongly only to certain frequencies of external
+stimulation— the violin body responds to oscillations of all four strings,
+it responds most strongly to oscillations of the A string. Each string’s
+of natural frequencies, the fundamental and higher harmonics, may
+adjusted by tuming knobs at the end of the violin, thereby changing the
+
+tension in selected strings; tighter strings produce higher frequencies.
+In comparison, brain frequencies are controlled by various chemical
+neuromodulators.
+
+EEG consists only of the large- to intermediate-scale brain rhythms
+manage to reach the scalp; oscillations generated at smaller scales can
+studied only with electrodes implanted inside the skull, either on the
+in surface or inside the brain itself. One important type of oscillations
+consists of the alpha rhythms, a class of EEG signals with relatively large
+frequency components in the 8 to 13 Hz range when recorded from the
+nan scalp. Alpha rhythms can provide a starting point for clinical EEG
+ms, posing questions about reaction to eyes opening, mental activity,
+hyperventilation, drowsiness, and so forth. Human alpha rhythms are
+
+
+part of a complex process, involving local networks as well as globally
+coherent phenomena.
+
+Loss of normal consciousness occurs during sleep, consisting of pro-
+gressively deeper stages 1 through 3, plus the rapid eye movement (REM)
+stage associated most strongly with dreaming. Sleep and waking are controlled by neuromodulators, special chemicals released by cells deep in the
+brain. The sleeping brain apparently produces an imaginary dream world
+nearly every night; dreams are mostly disconnected from the real world.
+muscle electrical activity is suppressed during the REM stage, preventing
+sleepwalking in most people.
+
+When comparing scalp-recorded EEG generated over a broad range of
+mental states, large amplitudes and low frequencies usually occur together.
+Moderate to demanding mental activity is associated with relatively
+- amplitudes and high frequencies. As sleep progresses from stage 1
+through the deeper stages 2 and 3, EEG amplitudes increase and frequencies
+decrease. On the other hand, REM sleep, involving a “dream time”
+consciousness, consists of low amplitudes and high frequencies. Deeper
+anesthesia and deeper comas also occur mostly with progressively lower
+frequencies and high amplitudes.
+
+Many of these results run directly counter to the metaphorical
+Christmas-lights brain, where deeper thinking is supposed to occur with
+more or brighter lights. In fact, the scientific truth is mostly the opposite—
+the larger the EEG amplitude, the more likely the subject is unconscious,
+in the states of deep sleep, anesthesia, coma, or epileptic seizure. The main
+son for this outcome has to do with the local-global balance described
+in connection with our football-fan metaphor— a healthy awake brain must
+operate between the extremes of global coherence and functional localization. Almost none of this detailed information about intricate dynamic patterns is obtained with fMRI, which involves time averages over seconds or
+minutes. Brain rhythms are “washed out” by fMRI technology. Again,
+I emphasize that the various measures of brain activity provide complementary
+ patterns of brain behavior at different spatial and temporal scales.
+The oscillations discussed here form only a part of a much larger “zoo” of
+rhythms. Many abnormal rhythms have been recorded from the cortex and
+
+
+scalp of epileptic patients. These include unusually large rhythms in the
+delta, theta, alpha, beta, and gamma bands. A classical epilepsy signature is
+
+the 3 Hz spike and wave, which often occurs globally over the entire scalp.
+Spike-and-wave traces typically occur during nonconvulsive absence seizures
+ in which awareness is lost for seconds or minutes.
+
+Human recordings from the cortical surface (ECoG) or from inside the
+in (LFP or single neuron recordings) are limited to patients with electrodes implanted for medical reasons. In addition, intracranial recordings
+in living animals investigate a broad range of scientific issues. Signatures of
+consciousness have been discovered by employing electrophysiology
+several different scales. As expected in any genuine complex system,
+the results are often scale-specific. For example, the dynamic patterns of
+neuron-firing rates in a local tissue mass are likely to look quite different
+than larger-scale measures of identical mental activity.
+
+In the early 1990s, neuroscientist Wolf Singer advanced a provocative
+idea - different features of an animal’s world are represented by distinct networks 
+that can be functionally connected by synchronous rhythms. The catchy
+label “bound by synchrony” then entered the language of neuroscience. Most
+of the intracranial work has been focused on gamma rhythms, oscillations in
+40 Hz range; however, signatures of consciousness occur at a number of
+spatial scales and in multiple (but select) frequency bands. Good mental health
+seems to require properly tuned brains to orchestrate the music of consciousness. But healthy brain music may require multiple rhythms, measured at different
+ spatial scales and in several distinct frequency bands.
+
+A model brain seemingly consistent with complex dynamic processes
+contains distinct large-scale networks, indicating tissue that remains functionally connected for at least several hundred milliseconds. Multiscale
+networks are embedded in global systems that may constitute the cognitive
+scientist’s global workspace, where information associated with consciousness
+ is exchanged between subsystems. Functional connections may
+turn on and off in fractions of a second; resonant interactions between
+brain masses may allow for communication selectivity between brain sub-
+systems, thereby addressing the binding problem of brain science.
+
+Alpha rhythms are emphasized because of their close relationships
+
+
+to the central issues of local versus global dynamic pattems and the disparate
+ measurement scales of electrophysiology. Also discussed in the
+same context are some differences between good and bad EEG science,
+for example, in the contexts of artifact and poor frequency resolution.
+Scalp artifact consists of noise present in the laboratory environment as
+well as biologic artifacts, the electrical currents produced by the heart and
+muscles, as well as eye and body movements.
+
+Distinct alpha rhythms are distinguished by different responses to tasks,
+spatial distribution over the scalp, and frequency sub-band. Early findings of
+scalp and cortical surface recordings have recently been rediscovered
+after years of neglect. A variety of alpha rhythms occur— some are blocked
+by opening the eyes, some are not; some respond in some way to mental
+activity, and some do not. Scalp alpha rhythms result from the more highly
+synchronized alpha rhythms over large cortical areas. In short, humans
+produce complex alpha rhythms plus other rhythms of many kinds.
+
+A simple experiment has subjects performing mental calculations,
+alternating with resting states, during ten successive one-minute periods.
+Amplitudes change consistently between resting and calculating states in
+select frequency bands— notably increased theta-band, increased upper-
+alpha- band, and decreased lower-alpha-band amplitudes occur with mental
+calculations. Traditional “alpha blocking” is observed when the entire
+alpha band is treated as a single phenomenon because amplitude reductions in the lower alpha band are larger than amplitude increases in the
+upper alpha band. As in many kinds of experiments, different parts of the
+alpha band behave differently. The main lesson gained from these example
+experiments is this: Many large-scale signatures of consciousness are
+revealed with EEG; these signatures form intricate, detailed dynamic patterns of information. Distinct pattems are even discovered at the different
+(but large) subscales of cortical recording as well as both high- and low-
+resolution EEG, as discussed in the next chapter. The simplistic Christmas-lights brain provides, at best, a severely impoverished analogue of these
+highly detailed dynamic patterns. In later chapters, I will argue that today’s
+neuroscience has only begun to breach a thick veil of ignorance, possibly
+hiding many additional multi-scale dynamic pattems of consciousness.
+
+
+---
+
+
+
+### 6.1 THE MUSIC OF CONSCIOUSNESS
+
+- Introduction to brain rhythms as signatures of consciousness
+  - Brain rhythms
+  - Signatures of consciousness
+  
+- The use of EEG and MEG to record brain rhythms
+  - Electroencephalogram (EEG)
+  - Magnetoencephalogram (MEG)
+  - Scalp recordings
+
+- Definition and interchangeability of "rhythm" and "oscillation"
+  - Rhythm vs. oscillation
+  - Musical and physical systems
+
+- Historical context of EEG rhythms and their relation to mental functions
+  - EEG history
+  - Mental functions: information transfer, perception, muscle control, memory
+
+- Importance of electrical oscillations in brain function and the consequences of their absence
+  - Electrical oscillations
+  - Brain death
+  - Flat EEG
+
+- The emergence of cell assemblies and nested neural networks
+  - Cell assemblies
+  - Neural networks
+  - Nested systems
+
+### 6.2 RHYTHMS RECORDED ON THE SCALP
+
+- The concept of "brain music" and the use of EEG to record brain rhythms
+  - Brain music analogy
+  - EEG recording
+
+- The discovery of EEG and its significance
+  - EEG discovery in the 1920s
+  - Study of human rhythms
+
+- The relationship between EEG rhythms and mental states
+  - EEG and mental states
+  - Sleep stages
+  - Cognitive tasks
+
+- The correlation of EEG with cognitive tasks and general mental states
+  - EEG correlations
+  - Mental calculations
+  - Working memory
+  - Selective attention
+
+- Limitations of EEG in revealing detailed thought processes
+  - EEG limitations
+  - Thought processes
+  - Dream content
+
+- The spatial averaging of brain potentials and its implications
+  - Spatial averaging
+  - Neural activity estimates
+  - Current spreading
+
+- Comparison of EEG with intracranial recordings
+  - Intracranial recordings
+  - Electroencephalograms (ECoG)
+  - Local field potentials (LFP)
+  - Spatial scale
+
+### 6.3 RHYTHMIC THINKING
+
+- Basic concepts applicable to all kinds of rhythms or oscillations
+  - Oscillations
+  - Sine waves
+  - Frequency
+  - Amplitude
+  - Phase
+
+- Understanding sine waves, amplitude, frequency, and phase
+  - Sine wave characteristics
+  - Phase difference
+  - Synchrony vs. coherence
+
+- The distinction between synchrony and coherence
+  - Synchronous signals
+  - Coherent signals
+
+- The importance of spectral analysis in identifying frequency contributions
+  - Spectral analysis
+  - Frequency bands
+  - Signal decomposition
+
+- The analogy of spectral analysis to sorting mixed pieces of fruit or light into colors
+  - Spectral decomposition analogy
+  - Light frequency bands
+  - Prism and light sorting
+
+- The perception of light as a quantum resonance phenomenon
+  - Quantum resonance
+  - Retinal cells sensitivity
+  - Electromagnetic spectrum
+
+- The EEG frequency bands and their labels
+  - EEG frequency categories
+  - Delta, theta, alpha, beta, gamma bands
+
+- The process and significance of spectral analysis in EEG
+  - Spectral analysis in EEG
+  - Frequency components
+  - Signal complexity
+
+### 6.4 NORMAL AND ABNORMAL RHYTHMS
+
+- Alpha Rhythms and Their Complexity
+  - Multiple alpha rhythms
+  - Amplitude and frequency
+  - Scalp distributions and mental tasks
+
+- Variability of Alpha Rhythms with State Changes
+  - Relaxation and alpha amplitude
+  - Effects of eye opening, drowsiness, and mental tasks
+  - Influence of hyperventilation and drugs
+
+- Sleep, Consciousness, and Neuromodulators
+  - Sleep stages and consciousness
+  - Neuromodulators and brain tuning
+  - REM sleep and muscle paralysis
+
+- Historical EEG Pioneers and Modern Implications
+  - Herbert Jasper and Wilder Penfield
+  - Cortical stimulation and memory recall
+  - EEG and ECoG in epilepsy research
+
+- EEG Signatures of Different Brain States
+  - Resting alpha rhythms
+  - EEG amplitude and frequency during sleep and coma
+  - EEG as a consciousness signature
+
+- The Rule of Brain: Amplitude and Frequency Correlations
+  - Lower frequencies and unconsciousness
+  - High dynamic complexity and conscious states
+  - Local-global balance and functional localization
+
+- Exceptions to the General EEG Rule
+  - Alpha coma and halothane anesthesia
+  - Global phenomena and local networks
+
+- Anesthesia and EEG Patterns
+  - EEG behaviors under anesthesia
+  - Transition from local to global dynamics
+  - Metaphorical anesthesia and collective behavior
+
+### 6.5 SYNCHRONOUS GAMMA RHYTHMS RECORDED FROM INSIDE THE SKULL
+
+- Ethical Considerations and Intracranial Recordings
+  - Human and animal intracranial studies
+  - Scale-specific signatures of consciousness
+
+- Animal Studies and Synchronous Rhythms
+  - Wolf Singer's hypothesis on synchrony
+  - Cell assemblies and functional connectivity
+
+- Gamma Band Synchrony in Cognitive Tasks
+  - Gamma band oscillations and task completion
+  - Binding by synchrony and cognitive integration
+
+- Multiscale Electrical Measures and Mental Activity
+  - EEG, ECoG, LFP, and neuron firing rates
+  - Frequency bands and cognitive functions
+  - The role of gamma rhythms in consciousness
+
+### 6.6 LOCAL-GLOBAL NERVOUS SYSTEMS
+
+- The Brain as an Active System
+  - Critique of passive brain models
+  - The role of memory in perception
+  - Active creation and use of mental models
+
+- Cognition, Action, and Environmental Adaptation
+  - Cognitive guidance of action
+  - Flexible mental models and environmental interaction
+
+- Neural Populations and Dynamic Binding
+  - Collective behavior of neural populations
+  - Functional segregation and integration
+
+- The Binding Problem and Synchrony
+  - The black cloud metaphor
+  - Functional connections and the binding problem
+
+- Local Networks and Global Systems
+  - Symbolic representation of brain networks
+  - Time-smeared snapshots of active connections
+  - Dynamic interaction of brain subsystems
+
+- Resonance as a Communication Mechanism
+  - Resonance in brain communication
+  - Addressing the binding problem through resonance
+  - Experimental evidence of brain resonance
+  
+
+### 6.7 A Short History of Alpha Rhythms
+
+- Introduction to Alpha Rhythms
+   - Definition and Characteristics
+      - EEG (Electroencephalography)
+      - EEG signals
+      - Frequency components
+      - Frequency range (8 to 13 Hz)
+      - Amplitude range (20 to 50 microvolts)
+      - Microvolts
+   - Historical Background
+      - Hans Berger's discovery in 1924
+      - Initial skepticism and eventual acceptance
+
+- Challenges in EEG Recording
+   - Issues with Artifacts
+      - Electrical noise
+      - Biological artifacts (heart, muscle, eye movements)
+   - Technological Advances and Ongoing Problems
+      - Artifact issue persists despite advances
+   
+- Berger's Contribution and the Scientific Community's Response
+   - Berger's Caution and Publication
+      - Delay in publishing findings
+      - Title of Berger's paper
+   - Reception by the Scientific Community
+      - Initial disbelief
+      - Eventual confirmation and acceptance
+
+- Implications for Brain Science
+   - Reflection on Scientific Acceptance
+      - Hindsight perspective on Berger's work
+   - Decision Making in Scientific Research
+      - Balancing science and intuition
+      - Assessing the validity of breakthroughs
+
+- Modern EEG Research and Alpha Rhythms
+   - Artifact Discrimination
+      - Importance of distinguishing genuine signals
+      - Methods to differentiate brain signals from artifacts
+   - Confirmation of Early Findings
+      - High-density electrode arrays
+      - Complexity of alpha rhythms
+
+### 6.8 Alpha Rhythms: The Good, The Bad, and The Ugly
+
+- Development and Characteristics of Alpha Rhythms
+   - Early Development in Infants
+      - Posterior rhythm development
+      - Relationship with eye closure
+   - Maturation of Alpha Rhythms
+      - Frequency increase with age
+      - Inverse relationship between amplitude and frequency (1/f relationship)
+
+- Influences on Alpha Rhythms
+   - Effects of Hyperventilation and Drugs
+      - Alcohol and barbiturates' impact
+   - Physiological Bases and Theories
+      - Lack of understanding
+      - Tentative explanations for EEG properties
+
+- Clinical Relevance of Alpha Rhythms
+   - Initial Clinical Assessments
+      - Presence and characteristics of alpha rhythm
+      - Reaction to various conditions (eye closure, hyperventilation)
+   - EEG patterns and Indicators of Abnormalities
+      - Abnormal frequencies in adults
+      - EEG asymmetry in disease
+
+
+- Misconceptions and Scientific Blunders
+   - Misinterpretation of Alpha Rhythms
+      - Localized phenomenon misconception
+      - Misleading amplitude maps
+   - Complexity of Alpha Rhythms
+      - Spatial averaging
+      - Variety of alpha rhythms
+
+- Modern Studies and Experimentation
+   - Confirmation of Complex Alpha Rhythms
+      - High-density electrode studies
+      - Description by EEG pioneer Grey Walter
+   - Experimentation and Signatures of Mental States
+      - Simple experiment with mental calculation
+      - Consistency tests for EEG results
+
+- Nuanced Understanding of Alpha Rhythms
+   - Differentiation within the Alpha Band
+      - Upper and lower alpha bands
+      - Consistent changes during mental tasks
+   - Misleading Term "Alpha Blocking"
+      - Inaccurate generalizations
+      - Detailed nature of mental activity patterns
+
+- Gamma Rhythms and Artifacts
+   - Inconsistency in Gamma Band Results
+      - Difficulty distinguishing brain signals from artifacts
+   - Importance of Verification in EEG Data
+      - Discarding unverifiable data
+      - Rigorous checks in scientific research
+
+
+
+
+

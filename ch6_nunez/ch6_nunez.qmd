@@ -1,0 +1,468 @@
+---
+title: "Rhythms of the Brain"
+subtitle: "Chapter 6, Nunez "
+format: 
+  revealjs:
+    slide-number: true
+    theme: sky
+editor_options: 
+  chunk_output_type: console
+---
+
+
+### Rhythms Analogies
+
+### Brain Rhythms
+
+### Alpha
+
+
+
+## 6.1 The Music of Consciousness{.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Metaphor**
+    - A system that has some properties that remind us of a different system, a weaker relationship than an analogue.
+- **Analogue**
+    - A system that has many properties in common with some different system, implying a stronger relationship than a metaphor or a cartoon
+
+:::
+::: {.column width="50%"}
+
+- **Frequency**
+    - The rate of some oscillatory process repeated over time; expressed in cycles per second or Hertz (Hz) 
+- **Hertz** (Hz)
+    - The basic unit of oscillation frequency; the number of cycles per second.
+- **Rhythm**
+    - A repeated pattern of some signal or sound, like the oscillations of electric voltages in the brain.
+
+:::
+
+::::
+
+
+
+## 6.1 The Music of Consciousness{.smaller}
+
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- **Resonance**
+    - The tendency of a system to respond mainly to a narrow range of input frequencies.
+- **Fundamental frequency**
+    - Lowest natural frequency of a system.
+- **Harmonic frequencies** (harmonies or partials):
+    - Integer multiples of some fundamental frequency; a special case of overtones. Called "partials" by musicians.
+
+:::
+::: {.column width="50%"}
+
+
+![](fig_6_3.jpg)  
+- **Overtone**
+    - Natural frequency higher than the fundamental frequency; may or may not be harmonic. Violin strings have harmonic overtones; the violin body has non-harmonic overtones.
+
+:::
+::::
+
+
+
+
+
+
+## 6.2 Rhythms Recorded on the Scalp
+
+![](Ephys.png)
+
+
+
+
+
+## 6.2 Rhythms Recorded on the Scalp
+
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- **Brain rhythm**:
+    - Oscillation of brain electric potential patterns, normally recorded with EEG, ECoG, or LFP methods.
+
+
+:::
+::: {.column width="50%"}
+
+
+![](fig_6_5.jpg)
+:::
+::::
+
+
+
+
+
+
+## 6.3 Rhythmic Thinking{.smaller}
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+![](fig_6_6.png)
+
+
+
+:::
+::: {.column width="50%"}
+
+
+- **Frequency band**:
+    - Small range of frequencies. Alpha frequency band is defined as 8 to 13 Hz. Visible light occupies a very narrow frequency band of electromagnetic radiation.
+- **Phase**:
+     - Location of a sine wave along the time axis. Or, the time difference between the two peaks of two sine waves.
+- **Coherence**:
+    - The consistency of the phase-difference between any two signals, with each signal normally composed of multiple frequencies. *Expressed as a (squared) correlation coefficient for each frequency component with magnitude always between zero and one.* Coherent signals may or may not be synchronous (**zero phase difference**).
+
+Coherence does **NOT equal** Synchrony
+
+:::
+::::
+
+![](fig_6_8.jpg)
+
+
+
+
+## 6.3 Rhythmic Thinking
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+![](fig_6_7.jpg)
+
+
+:::
+::: {.column width="50%"}
+
+
+- **Sine** wave:
+    - The smooth up-and-down movement of a waveform oscillating at some fixed frequency.
+- **Spectral analysis**:
+    - Estimates of individual frequency contributions to a signal; usually obtained by the computational methods of Fourier transforms.
+
+:::
+::::
+
+
+
+
+
+## Frequency Domain 
+
+![](fig_11_23.png)
+
+
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+
+![](Fourier_series_and_transform.gif)
+
+:::
+::::
+
+
+
+
+
+
+## Frequency Domain 
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+![](Fourier_series_square_wave_circles_animation.gif)
+
+:::
+::::
+
+
+![](piano_freq.jpg)
+
+
+
+
+
+## 6.3 Rhythmic Thinking
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+![](fig_6_9.jpg)
+
+
+:::
+::: {.column width="50%"}
+
+
+
+| *f* Band | Range |
+|---|---|
+| Delta |  1-4 Hz |
+| Theta | 4-8 Hz | 
+| Alpha | 9-12 Hz |
+| Beta | 13-20 Hz |
+| Gamma |  >30 Hz |
+
+
+:::
+::::
+
+
+
+
+
+##  {.smaller}
+
+
+
+:::: {.columns} 
+::: {.column width="60%"}
+
+- Power spectrum of hippocampal EEG in the mouse during sleep and waking periods.  Note four peaks close to ln integers. Color-code band peaks as in (B).
+- Oscillatory classes in the rat cortex. Note the linear progression of the frequency classes on the ln scale. For each band, the range of frequencies is shown, together with its commonly used term (23). 
+- Power spectrum of EEG from the right temporal lobe in a sleeping human subject.  (Note the near-linear decrease of log power with increasing log frequency from 0.5 to 100 Hz.)
+
+:::
+
+::::
+
+:::{.aside}
+Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical </br> networks. *Science, 304*(5679), 1926-1929.
+:::
+
+![](F1.large.jpg){.absolute top=0 right=50 height=700}
+
+
+
+
+
+
+
+## 6.4 Normal and Abnormal Rhythms
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+- Amplitude:
+    - The magnitude of an oscillatory waveform or signal.
+
+
+
+:::
+::: {.column width="50%"}
+
+
+![](fig_6_10.jpg)
+
+:::
+:::
+
+
+
+
+
+## 6.4 Normal and Abnormal Rhythms
+
+![](fig_6_11.jpg)
+
+
+
+
+## 6.4 Normal and Abnormal Rhythms
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+
+![](EEG-raw_eyes_open-closed.png)
+
+
+:::
+::: {.column width="50%"}
+
+
+![](FFT_eyes_open-closed.png)
+
+:::
+:::
+
+
+
+
+
+##
+
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+
+![](alpha_eyes1.jpg)
+
+
+
+:::
+::: {.column width="50%"}
+
+
+![](alpha_eyes2.png)
+
+:::
+:::
+
+
+##
+
+
+![](alpha_eyes1.jpg)
+
+
+
+
+
+
+## 6.5 Synchronous Gamma Rhythms Recorded from Inside the Skull
+
+- binding problem:
+    - The issue of how widely distributed neural activities give rise to a single integrated behavior and consciousness.
+  
+    
+##
+
+![](41583_2012_Article_BFnrn3137_Fig3_HTML.jpg)
+
+
+
+
+## Functions of Movement Perception 
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+- Perceiving objects and events
+    - Movement of objects or the observer’s movement through objects assists in organization of stimuli
+
+
+:::
+::: {.column width="50%"}
+
+
+![](08p177_f03.jpg)
+
+http://www.michaelbach.de/ot/cog-hiddenBird/index.html
+
+:::
+:::
+
+
+
+
+
+## Structure from Motion
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+![](Anim_5.gif)
+
+
+:::
+::: {.column width="50%"}
+
+
+
+- binding by resonance:
+    - Cross-frequency coupling caused by resonant interactions between distinct (semi-autonomous) subsystems, including brain networks.
+- binding by synchrony:
+    - A process by which different features of an animal's world are represented by distinct brain networks that become functionally connected by synchronous rhythms. A subcategory of binding by resonance.
+
+
+:::
+:::
+
+
+
+
+
+
+
+## 6.6 Local-Global Nervous Systems
+
+
+:::: {.columns} 
+::: {.column width="50%"}
+
+
+- global coherence
+    - States in which subsystems combine to form a single integrated system, perhaps with emergent properties.
+- global workspace model
+    - A conceptual framework that views consciousness as the global sharing of information between many local networks or “processors."
+- functional connection
+    - A correlation or predictive relationship of some kind between two systems.
+
+
+
+:::
+::: {.column width="50%"}
+
+
+![](fig_6_12.jpg)
+
+:::
+:::
+
+
+
+
+
+## 6.7 A Short History of Alpha Rhythms
+
+:::: {.columns} 
+::: {.column width="50%"}
+![](berger-eeg.png)
+:::
+:::
+
+
+
+
+## 6.8 Alpha Rhythms: The Good, the Bad, and the Ugly
+
+:::: {.columns} 
+::: {.column width="50%"}
+![](fig_6_13.jpg)
+
+:::
+
+::::
+
+
+
+
+![](fig_6_14.jpg)
+
+
