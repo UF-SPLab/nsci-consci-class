@@ -182,6 +182,38 @@ editor:
 
 # The Avalanche of Consciousness (fMRI)
 
+## Visual Masking
+
+![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
+
+## Visual Masking
+
+![](masked_img1.gif){.absolute top="100" right="200" width="450"}
+## Visual Masking
+
+![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
+
+## Visual Masking
+
+![](masked_img1.gif){.absolute top="100" right="200" width="450"}
+
+
+## Visual Masking
+
+![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
+
+
+## Visual Masking
+
+![](masked_img1.gif){.absolute top="100" right="200" width="450"}
+
+
+## Visual Masking
+
+![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
+
+
+
 ## Grill-Spector (fMRI)
 
 ::: columns
