@@ -182,23 +182,9 @@ editor:
 
 # The Avalanche of Consciousness (fMRI)
 
-## Visual Masking
-
-![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
 
 ## Visual Masking
 
-![](masked_img1.gif){.absolute top="100" right="200" width="450"}
-## Visual Masking
-
-![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
-
-## Visual Masking
-
-![](masked_img1.gif){.absolute top="100" right="200" width="450"}
-
-
-## Visual Masking
 
 ![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
 
@@ -207,11 +193,33 @@ editor:
 
 ![](masked_img1.gif){.absolute top="100" right="200" width="450"}
 
+## Visual Masking
+
+
+![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
+
+## Visual Masking
+
+![](masked_img2.gif){.absolute top="100" right="200" width="450"}
+
 
 ## Visual Masking
 
 ![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
 
+
+## Visual Masking
+
+![](masked_img3.gif){.absolute top="100" right="200" width="450"}
+
+
+## Visual Masking
+
+![](recognizable_loop1.jpg){.absolute top="100" right="200" width="450"}
+
+## Visual Masking
+
+![](MM_fit_slow10pct_speed.gif)
 
 
 ## Grill-Spector (fMRI)
@@ -227,6 +235,17 @@ editor:
 -   mask followed each picture
 :::
 :::
+
+
+
+## Primary Visual Cortex (fMRI)
+
+
+![](calcarine.jpg)
+
+![](fig_4_5.png)
+
+
 
 ## Grill-Spector (fMRI) {.smaller}
 
@@ -342,6 +361,33 @@ Amplification & Activation (fMRI)
 -   Invading **parietal** & **prefrontal** lobes
 
 # Timing the Conscious Avalanche (EEG)
+
+
+## Timing the Conscious Avalanche (EEG) {.smaller}
+
+Attentional Blink Paradigm (RSVP task)
+
+![](Atten_blink_fig1.jpg)
+![](Atten_blink_fig2.jpg)
+
+![](Atten_blink_fig3.gif){.absolute top="150" right="50" width="450"}
+
+
+## Timing the Conscious Avalanche (EEG) {.smaller}
+
+Attentional Blink Paradigm (RSVP task)
+
+![](Atten_blink_fig1.jpg)
+![](Atten_blink_fig2.jpg)
+
+
+
+## Timing the Conscious Avalanche (EEG) {.smaller}
+
+Attentional Blink Paradigm (RSVP task)
+
+![](AB_3_trials_slo_mo.gif)
+
 
 ## Time-Course of Conscious Access {.smaller}
 
