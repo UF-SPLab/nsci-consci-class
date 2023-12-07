@@ -14,6 +14,9 @@ format:
       data-background-position: center
     theme: simple
     chalkboard: true
+    resources: 
+      - "*.mp3"
+      - "*.m4a"
 
 editor_options: 
   chunk_output_type: console
@@ -142,6 +145,50 @@ they can produce non-verbal gesture for if they consciously perceived what occur
 
 ![](zpq9990965360001.jpeg){.absolute top="100" left="0" height="500"}
 
+## Local-Global Test{.smaller}
+
+*Block design*: 5 repetitions of 5 tones (50 ms each) with 150 ms inter-stimulus interval (ISI) and 750 - 1000 ms inter-block interval (IBI). 
+
+{{< audio local_global.mp4 controls="yes" width="10%" height="10%" >}}
+
+#### XXXXX Global Regularity Sequence
+
+
+:::{.columns}
+::: {.column width="50%"}
+
+- Global Standard Sequence
+<audio controls src="low_five_seq.m4a"> </audio>
+
+:::
+
+::: {.column width="50%"}
+
+- Global Deviant Sequence
+<audio controls src="low4_hi1.m4a"></audio>
+
+:::
+:::
+
+
+
+#### XXXXY Global Regularity Sequence
+
+:::{.columns}
+::: {.column width="50%"}
+
+- Local Deviant Sequence
+<audio controls src="low4_hi1.m4a"> </audio>
+
+:::
+
+::: {.column width="50%"}
+
+- Global Deviant Sequence
+<audio controls src="low_five_seq.m4a"></audio>
+
+:::
+:::
 
 
 ## Self-conscious Monkeys? 
@@ -229,6 +276,9 @@ response to novelty
 
 
 ![](local-global.jpg)
+
+
+
 
 # The Ultimate Test of Theories of Consciousness
 
@@ -401,6 +451,14 @@ Distinguish between a vegetative patient and a minimally conscious one with grea
 - The thalamo-cortical loop plays an important role in consciousness
 
 
+## McGurk Effect 
+
+{{< video "https://youtu.be/2k8fHR9jKVM" width="100%" height="85%" >}}
+
+
+## Flash-Lag Effect
+
+https://michaelbach.de/ot/mot-flashLag/index.html
 
 ## {auto-animate=true auto-animate-easing="ease-in-out"}
 
